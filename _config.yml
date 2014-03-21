@@ -1,0 +1,6 @@
+title:            Site Title
+description:      Describe your website.
+
+timezone:         Europe/Helsinki
+
+include: [".htaccess"]
