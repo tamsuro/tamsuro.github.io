@@ -1,0 +1,5 @@
+{% for lang in site.data.languages %}
+<li {% if page.lang == lang.name %} class="active" {% endif %} onclick="javascript:selectLang('{{ lang.name }}');">
+  <a class="lang">{{ lang.name }}</a>
+</li>
+{% endfor %}

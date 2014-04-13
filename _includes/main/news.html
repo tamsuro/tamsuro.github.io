@@ -1,0 +1,14 @@
+<div id="news">
+  <div class="row">
+    {% for post in site.categories.news %}
+    {% if page.lang == post.lang %}
+    <div class="col-md-4">
+      <h2>{{ post.title }}</h2>
+      <p>{{ post.body }}</p>
+      <p>{{ post.date | date_to_string }}</p>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+  <div>More...</div>
+</div>

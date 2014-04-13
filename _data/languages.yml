@@ -1,0 +1,10 @@
+---
+- name: fi
+  class: finland
+
+- name: ro
+  class: romania
+
+- name: en
+  class: united-kingdom
+---

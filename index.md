@@ -1,7 +1,3 @@
 ---
-title: Home
-description: Tampereen Suomi-Romania Yhdistus.
-layout: default
+layout: landing
 ---
-
-# Under Construction

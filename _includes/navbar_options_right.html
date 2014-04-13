@@ -1,0 +1,19 @@
+<ul class="nav navbar-nav navbar-right">
+  {% for section in site.data.sections %}
+  {% if section.group == 'right' %}
+  <li>
+    <a href="#{{ section.id }}">
+      {% case page.lang %}
+        {% when 'en' %}
+          {{ section.en }}
+        {% when 'fi' %}
+          {{ section.fi }}
+        {% when 'ro' %}
+          {{ section.ro }}
+      {% endcase %}
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+  {% include lang_selection.html %}
+</ul>

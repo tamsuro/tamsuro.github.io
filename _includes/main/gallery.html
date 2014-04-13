@@ -1,0 +1,8 @@
+<div id="gallery">
+  <ul>
+    {% for post in site.categories.gallery %}
+    <li>{{ post.date | date_to_string }}</li>
+    {% endfor %}
+  </ul>
+  <div>More...</div>
+</div>

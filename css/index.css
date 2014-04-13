@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  
+  background-color: whitesmoke;
+  width: 100%;
+}
+
+header {
+  background-color: whitesmoke;
+}
+
+ul {
+  margin: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+ul li {
+  list-style: none;
+  display: inline;
+}
+
+.nav>li>a.lang {
+  padding-left: 2px;
+  padding-right: 2px;
+  
+  text-transform: uppercase;
+}
+
