@@ -1,31 +1,36 @@
 ---
 - id:     news
   group:  left
-  en:     News
-  fi:     Ajankohtaista
-  ro:     Actualități
+  title:
+    en:     News
+    fi:     Ajankohtaista
+    ro:     Actualități
   
 - id:     calendar
   group:  left
-  en:     Calendar
-  fi:     Kalenteri
-  ro:     Calendar
+  title:
+    en:     Calendar
+    fi:     Kalenteri
+    ro:     Calendar
   
 - id:     gallery
   group:  left
-  en:     Gallery
-  fi:     Kuvagaleria
-  ro:     Galerie foto
+  title:
+    en:     Gallery
+    fi:     Kuvagaleria
+    ro:     Galerie foto
   
 - id:     about
   group:  left
-  en:     About
-  fi:     Esittely
-  ro:     Despre
+  title:
+    en:     About
+    fi:     Esittely
+    ro:     Despre
   
 - id:     join
   group:  right
-  en:     Join us
-  fi:     Jäseneksi
-  ro:     Deveniți membru
+  title:
+    en:     Join us
+    fi:     Jäseneksi
+    ro:     Deveniți membru
 ---

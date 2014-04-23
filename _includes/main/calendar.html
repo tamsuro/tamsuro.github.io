@@ -1,8 +1,15 @@
-<div id="calendar">
-  <ul>
-    {% for post in site.categories.calendar %}
-    <li>{{ post.date | date_to_string }}</li>
-    {% endfor %}
-  </ul>
-  <div>More...</div>
+<div id="calendar" class="main-section">
+  <div class="container">
+    Calendar
+    <div class="row">
+      {% for event in site.data.events %}
+      <div class="col-md-3">
+        <h4>{{ event.title[page.lang] }}</h4>
+        <div><i class="fa fa-calendar"></i>{{ event.date | date | date_to_string}}</div>
+        <div><i class="fa fa-clock-o"></i>{{ event.start }} - {{ event.end }}</div>
+        <div>{{ event.description[page.lang] }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>

@@ -4,3 +4,4 @@ description:      Describe your website.
 timezone:         Europe/Helsinki
 
 exclude:          [Gemfile, Gemfile.lock, README.md, CNAME, bower_components, bower.json]
+

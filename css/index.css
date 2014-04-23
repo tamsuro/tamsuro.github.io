@@ -26,10 +26,36 @@ ul li {
   display: inline;
 }
 
-.nav>li>a.lang {
+.nav > li > .lang {
   padding-left: 2px;
   padding-right: 2px;
   
   text-transform: uppercase;
 }
+
+.about {
+  border-top: 1px #d8d8d8 solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: whitesmoke;
+}
+
+.copyright {
+  margin-top: 10px;
+}
+
+.main-section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/*
+.main-section:nth-child(odd) {
+  background-color: whitesmoke;
+}
+
+.main-section:nth-child(even) {
+  background-color: gray;
+}
+*/
 

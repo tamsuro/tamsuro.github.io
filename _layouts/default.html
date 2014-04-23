@@ -6,6 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" >
     <link rel="stylesheet" href="/css/index.css" />
   </head>
 
@@ -15,17 +16,19 @@
       <div class="jumbotron">
         {{ content }}
       </div>
+    </div>
 
-      {% include main/news.html %}
-      {% include main/calendar.html %}
-      {% include main/gallery.html %}
+    {% include main/news.html %}
+    {% include main/calendar.html %}
+    {% include main/gallery.html %}
 
-      <div id="about">
-      </div>
-
-      <div id="join">
+    <div id="join" class="main-section">
+      <div class="container">
+        Instructiuni pentru a deveni membru
       </div>
     </div>
+    
+    {% include main/about.html %}
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>

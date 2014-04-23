@@ -3,14 +3,7 @@
   {% if section.group == 'left' %}
   <li>
     <a href="#{{ section.id }}">
-      {% case page.lang %}
-        {% when 'en' %}
-          {{ section.en }}
-        {% when 'fi' %}
-          {{ section.fi }}
-        {% when 'ro' %}
-          {{ section.ro }}
-      {% endcase %}
+      {{ section.title[page.lang] }}
     </a>
   </li>
   {% endif %}
