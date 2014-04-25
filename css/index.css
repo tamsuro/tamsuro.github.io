@@ -1,6 +1,8 @@
 body {
   margin: 0;
   padding: 0;
+  
+  padding-top: 70px;
 }
 
 footer {
@@ -33,6 +35,10 @@ ul li {
   text-transform: uppercase;
 }
 
+.selected {
+  font-weight: bold;
+}
+
 .about {
   border-top: 1px #d8d8d8 solid;
   padding-top: 10px;
@@ -49,6 +55,10 @@ ul li {
   padding-bottom: 20px;
 }
 
+@media screen and (min-width: 500px) {
+  .main-section { min-height: 300px; }
+}
+
 /*
 .main-section:nth-child(odd) {
   background-color: whitesmoke;
@@ -58,4 +68,59 @@ ul li {
   background-color: gray;
 }
 */
+
+.event {
+  background: whitesmoke;
+/*  border:1px solid #AAA;*/
+/*    border-bottom:3px solid #BBB;*/
+  padding: 0;
+  margin-bottom: 10px;
+  overflow: hidden;
+  
+  height: 100px;
+}
+
+.media-anchor {
+  height: 100px;
+  width: 100px;
+  overflow: hidden;
+  position: relative;
+  margin-right: 5px;
+/*  margin: 0 auto;*/
+}
+
+.media-object {
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translateY(-50%) translateX(-50%);
+     -moz-transform: translateY(-50%) translateX(-50%);
+      -ms-transform: translateY(-50%) translateX(-50%);
+       -o-transform: translateY(-50%) translateX(-50%);
+          transform: translateY(-50%) translateX(-50%);
+}
+
+.media {
+  padding: 10px;
+  border: 1px solid whitesmoke;
+  border-radius: 5px;
+}
+
+.event-page {
+  min-height: 400px;
+}
+
+.event-date {
+  margin-top: 100px;
+}
+
+.event-info {
+  margin-bottom: 20px;
+}
+
+.event-description {
+  height: 100%;
+}
+
 
