@@ -1,14 +1,30 @@
 <div id="calendar" class="main-section">
   <div class="container">
-    Calendar
+    {% for section in site.data.sections %}
+    {% if section.id == 'calendar' %}
+    <h2>{{ section.heading[page.lang] }}:</h2>
+    {% endif %}
+    {% endfor %}
     <div class="row">
-      {% for event in site.data.events %}
-      <div class="col-md-3">
-        <h4>{{ event.title[page.lang] }}</h4>
-        <div><i class="fa fa-calendar"></i>{{ event.date | date | date_to_string}}</div>
-        <div><i class="fa fa-clock-o"></i>{{ event.start }} - {{ event.end }}</div>
-        <div>{{ event.description[page.lang] }}</div>
+      {% for event in site.categories.events %}
+      {% if event.lang == page.lang %}
+      <div class="col-md-6 col-sm-6">
+        <div class="media">
+          <div class="pull-left">
+            <div class="media-anchor">
+              <img class="media-object" src="{{ event.media }}">
+            </div>
+            <div><i class="fa fa-calendar"></i> {{ event.date | date_to_string }}</div>
+            <div><i class="fa fa-clock-o"></i> {{ event.time }}</div>
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">{{ event.title }}</h4>
+            <p>{{ event.excerpt | truncate: 200 }}</p>
+            <p class="pull-right"><a href="{{ event.url }}">more</a></p>
+          </div>
+        </div>
       </div>
+      {% endif %}
       {% endfor %}
     </div>
   </div>

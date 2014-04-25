@@ -10,23 +10,10 @@
     <link rel="stylesheet" href="/css/index.css" />
   </head>
 
-  <body data-spy="scroll" data-target="navbar">
+  <body data-spy="scroll" data-target=".navbar">
     {% include navbar.html %}
-    <div class="container">
-      <div class="jumbotron">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include main/news.html %}
-    {% include main/calendar.html %}
-    {% include main/gallery.html %}
-
-    <div id="join" class="main-section">
-      <div class="container">
-        Instructiuni pentru a deveni membru
-      </div>
-    </div>
+    
+    {{ content }}
     
     {% include main/about.html %}
     

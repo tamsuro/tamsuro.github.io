@@ -12,6 +12,10 @@
     en:     Calendar
     fi:     Kalenteri
     ro:     Calendar
+  heading:
+    en:     Our events
+    fi:     Meidan tapahtumat
+    ro:     Evenimentele noastre
   
 - id:     gallery
   group:  left

@@ -2,9 +2,11 @@
   {% for section in site.data.sections %}
   {% if section.group == 'left' %}
   <li>
-    <a href="#{{ section.id }}">
-      {{ section.title[page.lang] }}
-    </a>
+    {% if page.categories %}
+    <a href="/{{ page.lang }}/#{{ section.id }}">{{ section.title[page.lang] }}</a>
+    {% else %}
+    <a href="#{{ section.id }}">{{ section.title[page.lang] }}</a>
+    {% endif %}
   </li>
   {% endif %}
   {% endfor %}

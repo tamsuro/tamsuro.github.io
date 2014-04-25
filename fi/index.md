@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Tampereen Suomi-Romania Yhdistys
 lang: fi
 ---

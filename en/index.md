@@ -1,6 +1,6 @@
 ---
 title:  Title
-layout: default
+layout: main
 lang:   en
 ---
 

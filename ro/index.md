@@ -1,5 +1,5 @@
 ---
-layout:   default
+layout:   main
 lang:     ro
 title:    Asociația Finlanda-România din Tampere
 ---
