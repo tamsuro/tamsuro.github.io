@@ -123,4 +123,10 @@ ul li {
   height: 100%;
 }
 
+.navbar-brand {
+  padding: 0;
+}
 
+.navbar-brand > img {
+  height: 50px;
+}

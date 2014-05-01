@@ -1,11 +1,12 @@
 ---
 title:  Grill Transylvania
+event-url:    http://www.restaurantday.org/fi/find/?id=53581a920cf239319d8aa46a
 lang:   fi
 layout: event
 categories:
   - fi
   - events
-time:  "11:00"
+time:  "11:00 - 15:00"
 media:  /assets/event-logos/restaurantday.png
 ---
 

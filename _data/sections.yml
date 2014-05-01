@@ -14,14 +14,14 @@
     ro:     Calendar
   heading:
     en:     Our events
-    fi:     Meidan tapahtumat
+    fi:     Meidän tapahtumat
     ro:     Evenimentele noastre
   
 - id:     gallery
   group:  left
   title:
     en:     Gallery
-    fi:     Kuvagaleria
+    fi:     Kuvagalleria
     ro:     Galerie foto
   
 - id:     about
