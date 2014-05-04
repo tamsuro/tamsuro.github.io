@@ -48,11 +48,17 @@ ul li {
 
 .copyright {
   margin-top: 10px;
+  margin-right: 5px;
+}
+
+.calendar-item {
+  margin-bottom: 10px;
 }
 
 .main-section {
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 52px;
+/*  margin-bottom: 20px;*/
+/*  padding-bottom: 20px;*/
 }
 
 @media screen and (min-width: 500px) {
