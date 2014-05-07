@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="container">
+  {{ content }}
+  
+  <div class="table-responsive">
+    <table class="table">
+      <tbody>
+        {% for role in site.data.hallitus %}
+        <tr>
+          <td>{{ role.label[page.lang] }}</td>
+          <td>{{ role.name }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>

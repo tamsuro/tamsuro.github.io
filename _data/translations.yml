@@ -1,0 +1,12 @@
+---
+hallitus:
+  en:
+    link: board
+    label: Board
+  fi:
+    link: hallitus
+    label: Hallitus
+  ro: 
+    link: conducere
+    label: Consiliu de conducere
+---
