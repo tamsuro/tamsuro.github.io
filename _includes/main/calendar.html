@@ -8,13 +8,14 @@
     <div class="row">
       {% for event in site.categories.events %}
       {% if event.lang == page.lang %}
-      <div class="col-md-6 col-sm-6 calendar-item">
+      <div class="col-md-4 col-sm-6 calendar-item">
         <div class="media">
           <div class="pull-left">
             <div class="media-anchor">
               <img class="media-object" src="{{ event.media }}">
             </div>
             <div><i class="fa fa-calendar"></i> {{ event.date | date_to_string }}</div>
+<!--            <div><i class="fa fa-calendar"></i> {{ event.date | date: "%d" }}</div>-->
             <div><i class="fa fa-clock-o"></i> {{ event.time }}</div>
           </div>
           <div class="media-body">

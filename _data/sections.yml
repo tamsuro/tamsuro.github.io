@@ -5,6 +5,10 @@
     en:     News
     fi:     Ajankohtaista
     ro:     Actualități
+  heading:
+    en:
+    fi:     Artikkeleita
+    ro:     Articole
   
 - id:     calendar
   group:  left

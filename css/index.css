@@ -17,13 +17,13 @@ header {
   background-color: whitesmoke;
 }
 
-ul {
+.navbar > ul {
   margin: 0;
   padding-left: 10px;
   padding-right: 10px;
 }
 
-ul li {
+.navbar > ul li {
   list-style: none;
   display: inline;
 }
@@ -135,4 +135,10 @@ ul li {
 
 .navbar-brand > img {
   height: 50px;
+}
+
+.news img {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
