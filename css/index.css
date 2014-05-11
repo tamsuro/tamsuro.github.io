@@ -137,8 +137,18 @@ header {
   height: 50px;
 }
 
-.news img {
+figure img.landscape {
+  display: block;
   width: 90%;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin: auto;
+}
+
+figure img.portrait {
+  display: block;
+  margin: auto;
+}
+
+figcaption {
+  text-align: center;
+  padding-bottom: 10px;
 }
