@@ -14,4 +14,21 @@ Ravintolamme tarjoaa pienen valikoiman romanialaisia perinneruokia. Kuumassa gri
 
 ### Ruokalista
 
+Mici lihapötköt leivän ja sinapin kera <br>
+1 = 3e <br>
+2 = 5e
+
+Munakoisosalaatti leivällä 1 pala = 1e
+
+Paputahna leivällä 3 palaa = 1e
+
+Tuulihattu / Omenaleivos / Juustoleivos <br>
+1 = 0,80e <br>
+2 = 1,50e <br>
+2 leivosta ja kahvi = 2e
+
+Kahvi 1e
+
+Mehu 0,50e
+
 {% include figure.html src="/assets/events/grill-transylvania-menu.png" class="portrait" %}
