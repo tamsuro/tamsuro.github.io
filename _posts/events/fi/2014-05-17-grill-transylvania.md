@@ -14,4 +14,4 @@ Ravintolamme tarjoaa pienen valikoiman romanialaisia perinneruokia. Kuumassa gri
 
 ### Ruokalista
 
-Tulossa...
+{% include figure.html src="/assets/events/grill-transylvania-menu.png" class="portrait" %}

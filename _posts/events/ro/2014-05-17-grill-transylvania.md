@@ -23,5 +23,5 @@ jocuri și sesiuni de desene cu tematică românească.
 
 ### Meniu
 
-Va fi actualizat...
+{% include figure.html src="/assets/events/grill-transylvania-menu.png" class="portrait" %}
 

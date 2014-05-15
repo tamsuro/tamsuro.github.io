@@ -14,4 +14,4 @@ Our restaurant offers a small assortment of traditional Romanian dishes. Our gri
 
 ### Menu
 
-TBA...
+{% include figure.html src="/assets/events/grill-transylvania-menu.png" class="portrait" %}
