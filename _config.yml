@@ -1,6 +1,8 @@
 title:            Site Title
 description:      Describe your website.
 
+url:              http://www.suomi-romania.fi
+
 timezone:         Europe/Helsinki
 
 exclude:          [Gemfile, Gemfile.lock, README.md, CNAME, bower_components, bower.json]
