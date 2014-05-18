@@ -7,6 +7,9 @@ layout: default
   <div class="row event-info">
     <div class="col-md-2 col-sm-3"><i class="fa fa-calendar"></i> {{ page.date | date_to_string }}</div>
     <div class="col-md-2 col-sm-3"><i class="fa fa-clock-o"></i> {{ page.time }}</div>
+    {% if page.location %}
+    <div class="col-md-6 col-sm-6"><i class="fa fa-map-marker"></i> <a href="{{ page.location-url }}">{{ page.location }}</a></div>
+    {% endif %}
   </div>
   <div>{{ content }}</div>
 </div>
