@@ -169,3 +169,11 @@ figcaption {
   text-align: center;
   padding-bottom: 10px;
 }
+
+.links {
+  text-align: center;
+  padding: 10px;
+}
+
+.links a {
+}
