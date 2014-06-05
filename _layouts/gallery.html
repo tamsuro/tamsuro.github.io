@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="container">
+  
+  <h2>{{ page.title }}</h2>
+  
+  <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="close">×</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+  </div>
+  
+  <div id="links" class="links">
+    {% for i in (0..{{page.images}}) %}
+    <a href="/{{ page.folder }}image{{ i }}.jpg" data-gallery>
+        <img src="/{{ page.folder }}thumbs/thumb{{ i }}.jpg">
+    </a>
+    {% endfor %}
+  </div>
+  
+</div>

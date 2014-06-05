@@ -50,4 +50,4 @@ Experința unui restaurant românesc în centrul Tampereului a fost a fost una d
 
 {% include figure.html caption="La final..." src="/assets/news/20140517/RP5.jpg" class="landscape" %}
 
-Prietena noastră de la [Kiss the Cook](http://www.kissthecook.ro) ne-a pozat în acțiune găsiți pozele în Galerie. Mulțumim Cătălina Zaharescu Tiensuu! Mulțumim și tuturor celor care ne-au trecut pragul la Grill Transylvania, a fost o plăcere!
+Prietena noastră de la [Kiss the Cook](http://www.kissthecook.ro) ne-a pozat în acțiune găsiți pozele în [Galerie](/ro/gallery/2014/05/17/restaurant-day.html). Mulțumim Cătălina Zaharescu Tiensuu! Mulțumim și tuturor celor care ne-au trecut pragul la Grill Transylvania, a fost o plăcere!

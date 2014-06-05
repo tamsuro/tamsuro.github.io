@@ -7,6 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" >
+    {% if page.categories contains 'gallery' %}
+    <link rel="stylesheet" href="/css/blueimp-gallery.min.css">
+    {% endif %}
     <link rel="stylesheet" href="/css/index.css" />
   </head>
 
@@ -19,6 +22,20 @@
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    
+    {% if page.categories contains 'gallery' %}
+    <script src="/js/blueimp-gallery.min.js"></script>
+    <script>
+    document.getElementById('links').onclick = function (event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement,
+            link = target.src ? target.parentNode : target,
+            options = {index: link, event: event},
+            links = this.getElementsByTagName('a');
+        blueimp.Gallery(links, options);
+    };
+    </script>
+    {% endif %}
     
     <script src="/js/index.js"></script>
     
