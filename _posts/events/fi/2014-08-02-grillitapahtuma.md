@@ -22,4 +22,5 @@ Mikäli teillä on kysymyksiä, olkaa hyvä ja ottakaa yhteyttä: mdoiny@yahoo.c
 Tervetuloa mukaan!
 
 Tampereen Suomi-Romania yhdistyksen puolesta,
+
 Doina Mucundorfean ja Jani Pahla
