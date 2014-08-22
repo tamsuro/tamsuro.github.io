@@ -13,7 +13,7 @@ Ziua universală a iei este un eveniment care a fost inițiat pe Facebook anul t
 Și am participat și noi. Cu dedicație și profesionalism Oana, inițiatoarea proiectului, a creat pe Facebook un eveniment al asociației la care am invitat iubitori de cultură română.
 
 Cum s-a desfășurat: participanții au publicat în eveniment poze în care purtau ii. Așa ne-am bucurat ochii și sufletele cu ii purtate de români și finlandezi, ba chiar și de un adorabil francezo-german în Finlanda, România, Islanda, Italia și Canada.
-Puteți vedea câteva dintre poze.
+Puteți vedea câteva dintre poze mai jos.
 
 Și să ne vedem la anul la Ziua universală a iei! Dar nu puneți iile la păstrare, luați-le doar la purtare!
 
