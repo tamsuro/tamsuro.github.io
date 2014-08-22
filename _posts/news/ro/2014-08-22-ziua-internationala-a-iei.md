@@ -1,11 +1,11 @@
 ---
+layout: post
 title:  Ziua internațională a iei și în Tampere
+author: Elenn Grațiela Știrbu
 lang:   ro
-layout: event
 categories:
   - ro
-  - events
-media:  /assets/event-logos/grătar_rom.png
+  - news
 ---
 
 Ziua universală a iei este un eveniment care a fost inițiat pe Facebook anul trecut de comunitatea La Blouse Roumaine. Ziua a fost aleasă pe 24 iunie, adică de Sânziene, iar anul acesta povestea a mers mai departe.
