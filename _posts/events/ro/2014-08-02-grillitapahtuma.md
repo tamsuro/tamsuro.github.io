@@ -6,7 +6,7 @@ categories:
   - ro
   - events
 time:  "12:00"
-media:  /assets/event-logos/grătar_rom.png
+media:  /assets/event-logos/gratar_rom.png
 ---
 
 Sperăm că ați avut o vară minunată până acum și că zilele însorite vor continua și de acum înainte. Ca să ne bucurăm și împreună de vremea minunată de afară, cât încă mai ține, ne-ar face mare plăcere să ni vă alăturați pentru un grătar românesc cu mici. Evenimentul va avea loc pe data de 2 august, de la ora 12:00, la Liuksialan uimaranta, Vedenottamontie (la capătul străzii), Kangasala. Vă rugăm să vă anunțați participarea la linkul de mai jos până la data de 30.7.
