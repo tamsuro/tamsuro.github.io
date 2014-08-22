@@ -19,7 +19,7 @@ Puteți vedea câteva dintre poze.
 
 <div class="row">
   <div class="col-md-6">
-    {% include figure.html caption="Ia în avion, deasupra Groelnlandei" src="/assets/news/20140822/avion.jpg" class="landscape" %}
+    {% include figure.html caption="Ia în avion, deasupra Groenlandei" src="/assets/news/20140822/avion.jpg" class="landscape" %}
   </div>
   <div class="col-md-6">
     {% include figure.html caption="Ia în Islanda cu Oana" src="/assets/news/20140822/islanda.jpg" class="landscape" %}
@@ -48,6 +48,6 @@ Puteți vedea câteva dintre poze.
 
 {% include figure.html caption="Ia la Vâlcea" src="/assets/news/20140822/valcea.jpg" class="landscape" %}
 
-{% include figure.html caption="Ia la Vâlcea; Matei cu ie pe tabletă" src="/assets/news/20140822/canapea.jpg" class="landscape" %}
+{% include figure.html caption="Matei cu ie pe tabletă" src="/assets/news/20140822/canapea.jpg" class="landscape" %}
 
 
