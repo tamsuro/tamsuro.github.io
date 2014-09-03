@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Grill Transylvania todellinen menestys
+title:  "Grill Transylvania todellinen menestys"
 author: Immo Syrjäläinen
 lang:   fi
 categories:
