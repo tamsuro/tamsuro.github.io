@@ -24,7 +24,7 @@ __E.G.__: _Mircea, tu ești acum profesor la Universitatea Tehnică din Tampere 
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    {% include figure.html caption"Aamulehti, 6 iulie 2014" src="/assets/stories/anca-si-mircea/poză_Mircea_ziar.jpg" class="landscape" %}
+    {% include figure.html caption="Aamulehti, 6 iulie 2014" src="/assets/stories/anca-si-mircea/poză_Mircea_ziar.jpg" class="landscape" %}
   </div>
 </div>
 
