@@ -20,6 +20,17 @@
     en:     Our events
     fi:     Meidän tapahtumat
     ro:     Evenimentele noastre
+    
+- id:     stories
+  group:  left
+  title:
+#    en:     Interviews
+#    fi:     Kalenteri
+    ro:     Oameni si povești
+  heading:
+#    en:     Our events
+#    fi:     Meidän tapahtumat
+    ro:     Oameni si povești
   
 - id:     gallery
   group:  left

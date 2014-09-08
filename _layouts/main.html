@@ -10,5 +10,9 @@ layout: default
 
 {% include main/news.html %}
 {% include main/calendar.html %}
+{% if site.data.sections[2].title[page.lang] %}
+{% include main/stories.html %}
+{% endif %}
 {% include main/gallery.html %}
 {% include main/join.html %}
+
