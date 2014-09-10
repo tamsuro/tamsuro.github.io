@@ -24,7 +24,7 @@ __E.G.__: _Mircea, tu ești acum profesor la Universitatea Tehnică din Tampere 
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
-    {% include figure.html caption="Aamulehti, 6 iulie 2014" src="/assets/stories/anca-si-mircea/poză_Mircea_ziar.jpg" class="landscape" %}
+    {% include figure.html caption="Aamulehti, 6 iulie 2014" src="/assets/stories/anca-si-mircea/poza_Mircea_ziar.jpg" class="landscape" %}
   </div>
 </div>
 
@@ -32,7 +32,7 @@ __Mircea__: Într-adevăr, am avut șansa să prind un « tren de dezvoltare pro
 
 <div class="row">
   <div class="col-md-8 col-md-offset-2">
-  {% include figure.html caption="High-brightness yellow lasers set for breakthroughs in medicine and spectroscopy. Source: Tampere University of Technology, Science Magazine" src="/assets/stories/anca-si-mircea/poză_Mircea_2.jpg" class="landscape" %}
+  {% include figure.html caption="High-brightness yellow lasers set for breakthroughs in medicine and spectroscopy. Source: Tampere University of Technology, Science Magazine" src="/assets/stories/anca-si-mircea/poza_Mircea_2.jpg" class="landscape" %}
   </div>
 </div>
 
