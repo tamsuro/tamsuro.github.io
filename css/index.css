@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   
-  padding-top: 70px;
+  padding-top: 50px;
 }
 
 footer {
@@ -151,6 +151,27 @@ figure img {
   figure img {
     padding: 5px;
   }
+}
+
+#first {
+  background: url(../assets/bg.jpg) no-repeat center center ; 
+  /*
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  */
+  background-size: cover;
+  height: 550px;
+}
+
+#moto {
+  position: relative;
+  top: 320px;
+  opacity: 0.85;
+}
+
+.navbar {
+  margin-bottom: 0px;
 }
 
 figure img.landscape {
