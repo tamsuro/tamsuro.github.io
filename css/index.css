@@ -55,6 +55,10 @@ header {
   margin-bottom: 10px;
 }
 
+.calendar-item > .media {
+/*  height: 240px;*/
+}
+
 .main-section {
   padding-top: 52px;
 /*  margin-bottom: 20px;*/
@@ -145,7 +149,12 @@ figure img {
   box-shadow: 0px 1px 5px 0px rgba(119, 119, 119, 0.75);
   -moz-box-shadow: 0px 1px 5px 0px rgba(119, 119, 119, 0.75);
   -webkit-box-shadow: 0px 1px 5px 0px rgba(119, 119, 119, 0.75);
+  
 }
+/*
+  transform: rotate(.5deg);
+  -webkit-transform: rotate(.5deg);
+*/
 
 @media screen and (max-width: 500px) {
   figure img {
@@ -197,4 +206,22 @@ figcaption {
 }
 
 .links a {
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .calendar-item > .media {
+    height: 231px;
+  }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .calendar-item > .media {
+    height: 275px;
+  }
+  
+  .news-item {
+    height: 168px;
+  }
 }
