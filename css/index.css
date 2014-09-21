@@ -225,3 +225,10 @@ figcaption {
     height: 168px;
   }
 }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .calendar-item > .media {
+    height: 220px;
+  }
+}
