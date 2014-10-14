@@ -1,13 +1,15 @@
 ---
 layout: story
 title:  Miksi Anja on opiskellut romaniaa 7 vuoden ajan? &quot;Rakastuin totaalisesti maahan, sen uskomattoman kauniiseen luontoon ja ystävällisiin ja välittömiin ihmisiin&quot;
-subtitle: Tällä kertaa esittelyvuorossa on äitini, Anja Haapanen, yhdistyksemme jäsen, joka lisäksi opiskelee romanian kieltä. Opettaja sanoo, että yleensä Anja esittää kurssilla todella hyviä kysymyksiä, mutta tällä kertaa hän ei kysy, vaan vastaa.
+subtitle: Haastattelu
 author: Carina Qvick-Kansanaho
 lang:   fi
 categories:
   - fi
   - stories
 ---
+
+Tällä kertaa esittelyvuorossa on äitini, Anja Haapanen, yhdistyksemme jäsen, joka lisäksi opiskelee romanian kieltä. Opettaja sanoo, että yleensä Anja esittää kurssilla todella hyviä kysymyksiä, mutta tällä kertaa hän ei kysy, vaan vastaa.
 
 <div class="row">
   <div class="col-md-4 col-sm-6 col-xs-6">

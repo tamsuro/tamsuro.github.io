@@ -1,14 +1,16 @@
 Deveniți membru pentru:
 
-<li>a sprijini financiar activitatea asociației,</li>
-<li>a influența tematica evenimentelor,</li>
-<li>a alege consiliul de conducere și pentru activitatea asociației în general,</li>
-<li>a beneficia de reduceri pentru participarea la evenimentele cu taxă organizate de asociație,</li>
-<li>a avea acces la evenimentele organizate exclusiv pentru membri.</li>
+<ul>
+  <li>a sprijini financiar activitatea asociației,</li>
+  <li>a influența tematica evenimentelor,</li>
+  <li>a alege consiliul de conducere și pentru activitatea asociației în general,</li>
+  <li>a beneficia de reduceri pentru participarea la evenimentele cu taxă organizate de asociație,</li>
+  <li>a avea acces la evenimentele organizate exclusiv pentru membri.</li>
+</ul>
 
 <p>Cotizația anuală este de 20 de euro/adult.</p>
 
-<p>Prin promoția noastră de toamnă, dacă vă înscrieți acum pentru anul următor, beneficiați gratuit de lunile rămase până la finele anului în curs.</p>
+<p>Prin <strong>promoția noastră de toamnă</strong>, dacă vă înscrieți acum pentru anul următor, beneficiați gratuit de lunile rămase până la finele anului în curs.</p>
 
 <p><strong>Ce trebuie sa faceți:</strong></p>
 
