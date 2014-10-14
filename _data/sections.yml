@@ -25,11 +25,11 @@
   group:  left
   title:
 #    en:     Interviews
-#    fi:     Kalenteri
+    fi:     Ihmisiä ja tarinointa
     ro:     Oameni și povești
   heading:
 #    en:     Our events
-#    fi:     Meidän tapahtumat
+    fi:     Ihmisiä ja tarinointa
     ro:     Oameni și povești
   
 - id:     gallery
