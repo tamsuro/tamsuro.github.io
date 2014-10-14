@@ -28,7 +28,6 @@ __A__: Vuonna 1974 vietimme loman Calimanestissa, lähellä Ramnicu Valceaa, ja 
   {% include figure.html caption="Kesäkuussa 40 vuotta sitten aloitti tämännäköinen seurue Tampereen rautatieasemalta retken kohti maata, joka jäi sydämiimme pysyvästi." src="/assets/stories/anja-ja-carina/spre_romania.jpg" class="portrait" %}
   </div>
 </div>
-Insert picture spre romania. Caption: Kesäkuussa 40 vuotta sitten aloitti tämännäköinen seurue Tampereen rautatieasemalta retken kohti maata, joka jäi sydämiimme pysyvästi.
 
 __C__: _Mitkä asiat Romaniassa ovat sinua kiinnostaneet eniten?_
 
@@ -37,7 +36,6 @@ __A__: Rakastuin totaalisesti maahan, sen uskomattoman kauniiseen luontoon ja ys
 __C__: _Mikä Romaniassa on ollut sinusta parasta?_
 
 __A__: Ihmisten aitous, ystävällisyys ja vieraanvaraisuus, sekä mahtava luonto, suotuisa ilmasto, upeat luostarit ja vuosisatojen kulttuuriperintö.
-Insert pictures pe deal and cu vaca. No captions
 
 <div class="row">
   <div class="col-md-5">
