@@ -58,7 +58,4 @@
 - role: auditor
   name: Marika Viitanen
   label:
-    en: Internal Auditor
-    fi: Toiminnantarkastaja
-    ro: Auditor intern
 ---

@@ -18,13 +18,44 @@
         {% endfor %}
       </div>
       <div class="col-md-3 col-sm-3">
-        <strong>About Us</strong>
-        <div>Address</div>
+        <strong>
+        {% case page.lang %}
+          {% when 'en' %}
+            <span>About Us</span>
+          {% when 'fi' %}
+            <span>Yhteystiedot</span>
+          {% when 'ro' %}
+            <span>Despre noi</span>
+        {% endcase %}
+        </strong>
+        <div>
+        {% case page.lang %}
+          {% when 'en' %}
+            <span>Address:</span>
+          {% when 'fi' %}
+            <span>Osoite:</span>
+          {% when 'ro' %}
+            <span>Adresă:</span>
+        {% endcase %}
+        </div>
+        <address>
+          Suvantokatu 13, 2 krs.<br>
+          33100 Tampere
+        </address>
+        <div>Rekisterinumero: 190.094</div>
         <div><a href="/{{ page.lang }}/{{ site.data.translations.hallitus[page.lang].link }}">{{ site.data.translations.hallitus[page.lang].label | capitalize }}</a></div>
-        <div>Y-Tunnus</div>
       </div>
       <div class="col-md-3 col-sm-3">
-        <strong>Contact us</strong>
+        <strong>
+        {% case page.lang %}
+          {% when 'en' %}
+            <span>Contact us</span>
+          {% when 'fi' %}
+            <span>Ota yhteyttä</span>
+          {% when 'ro' %}
+            <span>Contactați-ne</span>
+        {% endcase %}
+        </strong>
         <div>
           <span>
             <a href="mailto:tampereen.suomi.romania@gmail.com">

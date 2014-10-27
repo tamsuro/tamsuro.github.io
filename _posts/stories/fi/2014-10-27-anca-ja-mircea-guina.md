@@ -55,4 +55,4 @@ __Mircea__: Haluaisin viitata myös yksilölliseen lähestymistapaan. Ensinnäki
 
 __Elenn__: _Paljon kiitoksia tästä haastattelusta, joka avaa sarjamme ”Ihmisiä ja tarinoita”-osiossa täällä sivustolla. Lupaamme jatkaa kauniita tarinoita._
 
-Käännös [romaniasta](/ro/stories/2014/09/08/interviu-anca-si-mircea-guina.html): Jani Pahla ja Doina Mucundorfean
+Käännös [romaniasta](/ro/stories/2014/09/08/interviu-anca-si-mircea-guina.html) __Jani Pahla__ ja __Doina Mucundorfean__.
