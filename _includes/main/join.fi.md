@@ -10,7 +10,7 @@ Jäsenenä:
   <li>tuet taloudellisesti yhdistyksen toimintaa</li>
 </ul>
 
-<p><strong>Erikois-syksy 2014 tarjous!</strong></p>
+<p><strong>Erikois-syksy 2015 tarjous!</strong></p>
 
 <p>Vuosijäsenmaksu on 20€. Jos ryhdyt jäseneksi seuraavalle vuodelle, saat kaikki jäljellä olevat kuukaudet tämän vuoden loppuun ilmaiseksi.</p>
 
@@ -20,6 +20,6 @@ Jäsenenä:
 
 <p>Saaja: Tampereen Suomi-Romania yhdistys ry<br>
 Pankkitili: FI39 4726 5020 0316 41<br>
-Viestinä: oma nimi jäsenmaksu 2014</p>
+Viestinä: oma nimi jäsenmaksu 2015</p>
 
 <p>Maksun jälkeen pyydämme että laitat meille viestin osoitteeseen: tampereen.suomi.romania@gmail.com, jossa maininta miltä alueelta olet.</p>

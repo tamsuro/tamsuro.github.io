@@ -17,6 +17,6 @@ Deveniți membru pentru:
 <p>Plata se poate efectua prin transfer bancar sau în numerar în cadrul întâlnirilor asociației: Tampereen Suomi-Romania yhdistys ry</p>
 
 <p>Cont bancar: FI39 4726 5020 0316 41<br>
-Mesaj: numele dumneavoastră complet cotizație 2014</p>
+Mesaj: numele dumneavoastră complet cotizație 2015</p>
 
 <p>După ce plătiți cotizația este necesar să trimiteți email la adresa <a href="mailto:tampereen.suomi.romania@gmail.com">noastră</a> în care să specificați localitatea de reședință a dumneavoastră.</p>
