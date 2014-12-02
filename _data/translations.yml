@@ -9,4 +9,17 @@ hallitus:
   ro: 
     link: conducere
     label: Consiliu de conducere
+    
+regulament:
+  fi:
+    link: https://docs.google.com/document/d/1Bj-9wihKv-f2L48E2gUYcMCA56Q-A1rhw0DTeXhiICo/edit?usp=sharing
+    label: Säännot
+  ro: 
+    link: https://docs.google.com/document/d/1Bj-9wihKv-f2L48E2gUYcMCA56Q-A1rhw0DTeXhiICo/edit?usp=sharing
+    label: Regulament (în finlandeză)
+
+created-by:
+  en: by
+  fi:
+  ro: de
 ---
