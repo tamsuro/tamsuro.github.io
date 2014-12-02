@@ -1,15 +1,45 @@
 ---
-- url: https://www.facebook.com/fani.limba.romana
+- url: http://www.finland.ro
   caption:
-    ro: Fani limba română
-    en: Fani limba română
-    fi: Fani limba română
+    en: Embassy of Finland, Bucharest
+    fi: Suomen Suurlähetystö, Bukarest
+    ro: Ambasada Finlandei la București
+    
+- url: http://helsinki.mae.ro/
+  caption:
+    en: Embassy of Romania in Finland
+    fi: Romanian Suurlähetystö Suomessa
+    ro: Ambasada României în Finlanda
     
 - url: http://suomi-moldova.fi
   caption:
     en: Suomi-Moldova-seura
     fi: Suomi-Moldova-seura
     ro: Suomi-Moldova-seura
+
+- url: http://www.srs.suntuubi.com/
+  caption:
+    en: Suomi-Romania-Seura ry
+    fi: Suomi-Romania-Seura ry
+    ro: Suomi-Romania-Seura ry
+    
+- url: http://asociatiaculturalaromanahelsinki.org
+  caption:
+    en: Asociația Culturală Română Helsinki
+    fi: Asociația Culturală Română Helsinki
+    ro: Asociația Culturală Română Helsinki
+
+- url: http://4romania.fi/
+  caption:
+    en: Project4Romania
+    fi: Project4Romania
+    ro: Project4Romania
+
+- url: https://www.facebook.com/fani.limba.romana
+  caption:
+    ro: Fani limba română
+    en: Fani limba română
+    fi: Fani limba română
     
 - url: http://www.romania-sanakirja.net
   caption:
