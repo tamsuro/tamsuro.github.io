@@ -10,11 +10,14 @@ layout: default
   </div>
 </div>
 
+{% if page.lang == 'en' %}
+{% include main/description.html %}
+{% endif %}
+{% if page.lang != 'en' %}
 {% include main/news.html %}
 {% include main/calendar.html %}
-{% if site.data.sections[2].title[page.lang] %}
 {% include main/stories.html %}
-{% endif %}
 {% include main/gallery.html %}
+{% endif %}
 {% include main/join.html %}
 
