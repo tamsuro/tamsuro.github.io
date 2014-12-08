@@ -14,16 +14,16 @@ Näiden lyhyehköjen mutta mielenkiintoisten, kukin omalta kantiltaan Romanian i
 
 <div class="row">
   <div class="col-md-6">
-    {% include figure.html src="/assets/news/20141208/la-pian-1.JPG" class="landscape" %}
+    {% include figure.html src="/assets/news/20141208/la-pian-1.jpg" class="landscape" %}
   </div>
   <div class="col-md-6">
-    {% include figure.html src="/assets/news/20141208/la-pian-2.JPG" class="landscape" %}
+    {% include figure.html src="/assets/news/20141208/la-pian-2.jpg" class="landscape" %}
   </div>
   <div class="col-md-6">
-    {% include figure.html src="/assets/news/20141208/la-pian-3.JPG" class="landscape" %}
+    {% include figure.html src="/assets/news/20141208/la-pian-3.jpg" class="landscape" %}
   </div>
   <div class="col-md-6">
-    {% include figure.html src="/assets/news/20141208/audienat.JPG" class="landscape" %}
+    {% include figure.html src="/assets/news/20141208/audienat.jpg" class="landscape" %}
   </div>
 </div>
 
