@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Unde-s mulți puterea crește!
-author: Elenn Grațiela Știrbu
+author: Elenn Grațiela Știrbu (editor)
 lang:   ro
 categories:
   - ro
@@ -35,7 +35,7 @@ Despre Gloria și Mikko, în câteva cuvinte: L-am întâlnit prima dată pe Mik
 
 <div class="row">
   <div class="col-md-6">
-    {% include figure.html caption="3 asociații împreună Suomi-Moldova seura, Suomi-Romania seura și Tampereen Suomi-Romania yhdistys" src="/assets/news/20141210/suomi-moldova-romania.jpg" class="landscape" %}
+    {% include figure.html caption="3 asociații împreună: Suomi-Moldova-seura, Suomi-Romania-seura și Tampereen Suomi-Romania yhdistys" src="/assets/news/20141210/suomi-moldova-romania.jpg" class="landscape" %}
   </div>
   <div class="col-md-6">
     {% include figure.html caption="Hora unirii" src="/assets/news/20141210/hora.jpg" class="landscape" %}
