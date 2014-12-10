@@ -87,7 +87,7 @@ __Adina__ și __Virgil Niiranen__ din Helsinki. Adina și Virgil au locuit în T
   <div class="col-md-3">
   </div>
   <div class="col-md-6">
-    {% include figure.html caption="Adina Niiranen cu copiii" src="/assets/news/20141210/Adina-cu-copiii.jpg" class="landscape" %}
+    {% include figure.html caption="Dna Adina Niiranen cu copiii" src="/assets/news/20141210/Adina-cu-copiii.jpg" class="landscape" %}
   </div>
 </div>
 
