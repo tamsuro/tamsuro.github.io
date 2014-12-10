@@ -2,11 +2,7 @@
   {% for section in site.data.sections %}
   {% if section.group == 'left' and section.title[page.lang] %}
   <li>
-    {% if page.categories %}
     <a href="/{{ page.lang }}/#{{ section.id }}">{{ section.title[page.lang] }}</a>
-    {% else %}
-    <a href="#{{ section.id }}">{{ section.title[page.lang] }}</a>
-    {% endif %}
   </li>
   {% endif %}
   {% endfor %}

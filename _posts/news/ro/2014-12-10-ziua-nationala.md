@@ -66,7 +66,7 @@ __Anne Alalantela__ din Tampere, studiază limba română și este membră a aso
 
 <div class="row">
   <div class="col-md-6">
-    {% include figure.html caption="" src="/assets/news/20141210/parintele.jpg" class="landscape" %}
+    {% include figure.html caption="Părintele Ioan Durac" src="/assets/news/20141210/parintele.jpg" class="landscape" %}
   </div>
   <div class="col-md-6">
     {% include figure.html caption="" src="/assets/news/20141210/audienta.jpg" class="landscape" %}
