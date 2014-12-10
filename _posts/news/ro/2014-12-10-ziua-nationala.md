@@ -8,7 +8,7 @@ categories:
   - news
 ---
 
-Am sărbătorit Ziua Națională a României duminică, pe 30 noiembrie, la sala Nikolai a Bisericii Ortodoxe din Tampere. Unde-s mulți puterea crește: organizarea evenimetului a fost o muncă de echipă răsplătită din belșug de participarea a peste 100 de români și finlandezi din Tampere și din împrejurimi, dar și din Helsinki, Turku, Muurla. Iată impresiile câtorva dintre cei care-au celebrat împreună cu noi acestă zi simbolică. 
+Am sărbătorit Ziua Națională a României duminică, pe 30 noiembrie, la sala Nikolai a Bisericii Ortodoxe din Tampere. Unde-s mulți puterea crește: organizarea evenimentului a fost o muncă de echipă răsplătită din belșug de participarea a peste 100 de români și finlandezi din Tampere și din împrejurimi, dar și din Helsinki, Turku, Muurla. Iată impresiile câtorva dintre cei care-au celebrat împreună cu noi acestă zi simbolică. 
 
 > Marcarea Zilei Naționale a României de către membrii comunității românești din Tampere a fost un moment cu adevărat impresionant, prin bucuria sinceră pe care o citeai în glasul și în privirile participanților, dar și prin simplitatea și totodată atât de autenticul gest al întâmpinării oaspeților cu pâine, sare și vin  fiert.
 >
