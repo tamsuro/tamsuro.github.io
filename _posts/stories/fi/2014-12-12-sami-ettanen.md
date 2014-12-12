@@ -58,7 +58,7 @@ __Sami__: Ilolla ja suurella ylpeydellä. Koko perheemme on todella innostunut R
   <div class="col-md-3">
   </div>
   <div class="col-md-6">
-    {% include figure.html caption="<em>Maailman onnellisin tyttö || Happiest girl in the world</em> (Idan Facebookista)" src="/assets/stories/sami-etanen/Ida-la-Bucuresti.jpg" class="landscape" %}
+    {% include figure.html caption="<em>Maailman onnellisin tyttö || Happiest girl in the world</em> (Ida Ettasen Facebookista)" src="/assets/stories/sami-etanen/Ida-la-Bucuresti.jpg" class="landscape" %}
   </div>
 </div>
 
