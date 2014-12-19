@@ -1,6 +1,6 @@
 ---
 layout: story
-title:  Suomi on kotini, jossa tunnen täyteläiseltä ja itsevarmalta, kun Romania on sieluni koti
+title:  "Suomi on kotini ja Romania on minun sielun koti. Suomessa tunnen oloni vahvaksi ja itsevarmaksi"
 subtitle: Haastattelu
 author: Elenn Grațiela Știrbu
 lang:   fi
