@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="news container">
+  <p class="intro">
+    <span class="intro-text">{{ page.intro.text }}</span>
+    <span class="intro-author">{{ page.intro.author }}</span></p>
+  <h2>{{ page.title }}</h2>
+  <h5>{{ page.author }}</h5>
+  <div>{{ content }}</div>
+</div>
+
+{% include disqus.html %}

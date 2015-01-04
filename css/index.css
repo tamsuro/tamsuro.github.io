@@ -232,3 +232,18 @@ figcaption {
     height: 220px;
   }
 }
+
+p.intro {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: whitesmoke;
+}
+
+span.intro-text {
+  font-style: italic;
+}
+
+span.intro-author {
+  font-style: normal;
+}
