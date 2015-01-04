@@ -8,7 +8,7 @@ categories:
   - news
 ---
 
-Petrecerea de Crăciun, pikkujoulut în finlandeză (cum ar veni _Crăciunel_ în română) a fost ultima noastră activitate din anul 2014. Și ne-am strâns 40 de oameni mari și mici, puși pe treabă și pe voie  bună. O masă bine garnisită cu mâncăruri finlandeze și românești a completat peisajul sălii din Suvantokatu.
+Petrecerea de Crăciun, _pikkujoulut_ în finlandeză (cum ar veni _Crăciunel_ în română) a fost ultima noastră activitate din anul 2014. Și ne-am strâns 40 de oameni mari și mici, puși pe treabă și pe voie  bună. O masă bine garnisită cu mâncăruri finlandeze și românești a completat peisajul sălii din Suvantokatu.
 
 <div class="row">
   <div class="col-md-3">
