@@ -21,10 +21,10 @@ Romanii au construit structuri de cărămidă cu deschideri de neimaginat, zidar
 
 <div class="row">
   <div class="col-md-6">
-    {% include figure.html src="/assets/places/20150104/ext-1.jpg" class="landscape" %}
+    {% include figure.html src="/assets/places/20150104/ext1.jpg" class="landscape" %}
   </div>
   <div class="col-md-6">
-    {% include figure.html src="/assets/places/20150104/ext-2.jpg" class="landscape" %}
+    {% include figure.html src="/assets/places/20150104/ext2.jpg" class="landscape" %}
   </div>
 </div>
 
@@ -40,9 +40,9 @@ Cel care calcă pragul oricărei biserici maramureșene, calcă în același tim
 
 <div class="row">
   <div class="col-md-7">
-    {% include figure.html src="/assets/places/20150104/int-1.jpg" class="landscape" %}
+    {% include figure.html src="/assets/places/20150104/int1.jpg" class="landscape" %}
   </div>
   <div class="col-md-5">
-    {% include figure.html src="/assets/places/20150104/int-2.jpg" class="landscape" %}
+    {% include figure.html src="/assets/places/20150104/int2.jpg" class="landscape" %}
   </div>
 </div>
