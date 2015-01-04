@@ -118,7 +118,7 @@ Dar înainte de toate copiii ne-au delectat cu două povești, una scandinavă �
   </div>
 </div>
 
-Iar _Căciula lui Guguță_ s-a jucat cu tot cu casa închisă! Tero ne-a citit frumoasa poveste a lui Spiridon Vangheli iar excelenții pantomimi Eemi și Juuli au interpretat personajele cu mult entuziasm. Impresia audienței a fost că cei doi ar fi repetat cu zilele actul teatral, dar mai târziu am aflat de la mama actorilor că n-a fost chiar așa, deci succesul a fost datorat în mod deosebit talentului înnăscut!
+Iar _Căciula lui Guguță_ s-a jucat tot cu casa închisă! Tero ne-a citit frumoasa poveste a lui Spiridon Vangheli iar excelenții pantomimi Eemi și Juuli au interpretat personajele cu mult entuziasm. Impresia audienței a fost că cei doi ar fi repetat cu zilele actul teatral, dar mai târziu am aflat de la mama actorilor că n-a fost chiar așa, deci succesul a fost datorat în mod deosebit talentului înnăscut!
 
 <div class="row">
   <div class="col-md-3">
