@@ -84,3 +84,7 @@ __A__: Prietenie.
   </div>
   <div class="col-md-5 col-md-offset-1">
     {% include figure.html caption="Anja sărbătorind Ziua Universală a Iei în Finlanda, împreună cu fiica și nepoata" src="/assets/stories/anja-ja-carina/toata_familia.jpg" class="landscape" %}
+  </div>
+</div>
+
+Traducere din [finlandeză](/fi/stories/2014/10/14/anja-ja-carina.html) __Elenn Știrbu__.

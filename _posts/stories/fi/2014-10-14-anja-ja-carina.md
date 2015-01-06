@@ -1,6 +1,6 @@
 ---
 layout: story
-title:  Miksi Anja on opiskellut romaniaa 7 vuoden ajan? &quot;Rakastuin totaalisesti maahan, sen uskomattoman kauniiseen luontoon ja ystävällisiin ja välittömiin ihmisiin&quot;
+title:  Rakastuin totaalisesti maahan, sen uskomattoman kauniiseen luontoon ja ystävällisiin ja välittömiin ihmisiin
 subtitle: Haastattelu
 author: Carina Qvick-Kansanaho
 lang:   fi
