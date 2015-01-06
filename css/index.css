@@ -60,7 +60,8 @@ header {
 }
 
 .main-section {
-  padding-top: 52px;
+  padding-top: 32px;
+  padding-bottom: 20px;
 /*  margin-bottom: 20px;*/
 /*  padding-bottom: 20px;*/
 }
