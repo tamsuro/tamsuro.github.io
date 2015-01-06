@@ -25,6 +25,15 @@
           </div>
         </div>
       </div>
+      
+      <div class="panel panel-default">
+        <div class="cal-heading" style="background-image: url({{ event.media }});">
+        </div>
+        <div class="panel-body">
+          <h4 class="media-heading"><a href="{{ event.url }}">{{ event.title }}</a></h4>
+          <p>{{ event.excerpt | truncate: 200 }}</p>
+        </div>
+      </div>
       {% endif %}
       {% endfor %}
     </div>
