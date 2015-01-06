@@ -3,9 +3,9 @@ layout: place
 title:  Biserica de lemn din Surdești, Maramureș
 author: Virgil Niiranen
 lang:   ro
-intro:  
-  text: Deschidem secțiunea de <strong>Locuri și povești</strong> a site-ului nostru cu un articol în care arhitectura devine o poveste spusă cu emoție și dragoste. Este vorba despre biserica maramureșeană de la Surdești. Colaboratorul nostru Virgil Niiranen, arhitect de profesie, ne va îndruma pașii de acum înainte și către alte  comori ale arhitecturii românești, cu predilecție spre cele ascunse, mai puțin cunoscute publicului larg.
-  author: Elenn Grațiela Știrbu
+#intro:  
+#  text: Deschidem secțiunea de <strong>Locuri și povești</strong> a site-ului nostru cu un articol în care arhitectura devine o poveste spusă cu emoție și dragoste. Este vorba despre biserica maramureșeană de la Surdești. Colaboratorul nostru Virgil Niiranen, arhitect de profesie, ne va îndruma pașii de acum înainte și către alte  comori ale arhitecturii românești, cu predilecție spre cele ascunse, mai puțin cunoscute publicului larg.
+#  author: Elenn Grațiela Știrbu
 categories:
   - ro
   - places

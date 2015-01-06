@@ -3,9 +3,12 @@ layout: default
 ---
 
 <div class="news container">
+  {% if page.intro %}
   <p class="intro">
     <span class="intro-text">{{ page.intro.text }}</span>
-    <span class="intro-author">{{ page.intro.author }}</span></p>
+    <span class="intro-author">{{ page.intro.author }}</span>
+  </p>
+  {% endif %}
   <h2>{{ page.title }}</h2>
   <h5>{{ page.author }}</h5>
   <div>{{ content }}</div>
