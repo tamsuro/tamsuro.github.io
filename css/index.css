@@ -65,6 +65,14 @@ header {
 /*  padding-bottom: 20px;*/
 }
 
+.main-section:nth-child(odd) {
+  background-color: whitesmoke;
+}
+
+.main-section:nth-child(even) .panel {
+  background-color: whitesmoke;
+}
+
 @media screen and (min-width: 500px) {
   .main-section { min-height: 300px; }
 }
