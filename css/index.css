@@ -269,3 +269,10 @@ span.intro-author {
   font-style: normal;
 }
 
+.cal-heading {
+  height: 150px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
