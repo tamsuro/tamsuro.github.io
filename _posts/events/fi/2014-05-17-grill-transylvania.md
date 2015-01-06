@@ -3,6 +3,7 @@ title:  Grill Transylvania
 event-url:    http://www.restaurantday.org/fi/find/?id=53581a920cf239319d8aa46a
 lang:   fi
 layout: event
+logo: contain
 categories:
   - fi
   - events

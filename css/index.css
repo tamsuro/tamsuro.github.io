@@ -271,8 +271,16 @@ span.intro-author {
 
 .cal-heading {
   height: 150px;
-  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+.cal-heading-cover {
+  background-size: cover;
+}
+
+.cal-heading-contain {
+  background-size: contain;
+  margin: 5px;
 }
 
