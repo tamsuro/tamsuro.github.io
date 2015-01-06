@@ -87,4 +87,4 @@ __A__: Prietenie.
   </div>
 </div>
 
-Traducere din [finlandeză](/fi/stories/2014/10/14/anja-ja-carina.html) __Elenn Știrbu__.
+Traducere din [finlandeză](/fi/stories/2014/10/14/anja-ja-carina.html) __Elenn Grațiela Știrbu__.
