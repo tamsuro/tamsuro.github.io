@@ -213,6 +213,10 @@ figcaption {
   .calendar-item > .media {
     height: 231px;
   }
+  
+  .columns[data-columns]::before {
+    content: '2 .col-sm-6';
+  }
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -224,12 +228,20 @@ figcaption {
   .news-item {
     height: 168px;
   }
+  
+  .columns[data-columns]::before {
+    content: '3 .col-md-4';
+  }
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   .calendar-item > .media {
     height: 220px;
+  }
+  
+  .columns[data-columns]::before {
+    content: '3 .col-md-4';
   }
 }
 
@@ -247,3 +259,4 @@ span.intro-text {
 span.intro-author {
   font-style: normal;
 }
+

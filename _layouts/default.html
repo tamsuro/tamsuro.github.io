@@ -5,7 +5,7 @@
     <title>{{ page.title }}</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" type='text/css'>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" >
     {% if page.categories contains 'gallery' %}
     <link rel="stylesheet" href="/css/blueimp-gallery.min.css">
@@ -22,6 +22,10 @@
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    
+    {% if page.path contains 'index.md' %}
+    <script src="/js/salvattore.min.js"></script>
+    {% endif %}
     
     {% if page.categories contains 'gallery' %}
     <script src="/js/blueimp-gallery.min.js"></script>

@@ -5,10 +5,11 @@
     <h2>{{ section.heading[page.lang] }}:</h2>
     {% endif %}
     {% endfor %}
-    <div class="row">
+    
+    <div class="columns" data-columns>
       {% for event in site.categories.events %}
       {% if event.lang == page.lang %}
-      <div class="col-md-4 col-sm-6 calendar-item">
+      <div class="panel panel-default">
         <div class="media">
           <div class="pull-left">
             <div class="media-anchor">
@@ -19,9 +20,8 @@
             <div><i class="fa fa-clock-o"></i> {{ event.time }}</div>
           </div>
           <div class="media-body">
-            <h4 class="media-heading">{{ event.title }}</h4>
+            <h4 class="media-heading"><a href="{{ event.url }}">{{ event.title }}</a></h4>
             <p>{{ event.excerpt | truncate: 200 }}</p>
-            <p class="pull-right"><a href="{{ event.url }}">more</a></p>
           </div>
         </div>
       </div>

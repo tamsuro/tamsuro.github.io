@@ -5,12 +5,14 @@
     <h2>{{ section.heading[page.lang] }}:</h2>
     {% endif %}
     {% endfor %}
-    <div class="row">
+    <div class="columns" data-columns>
       {% for post in site.categories.places %}
       {% if page.lang == post.lang %}
-      <div class="col-md-4 col-sm-6">
-        <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-        <p>{{ post.excerpt | truncate: 200 }}</p>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          <p>{{ post.excerpt | truncate: 200 }}</p>
+        </div>
       </div>
       {% endif %}
       {% endfor %}
