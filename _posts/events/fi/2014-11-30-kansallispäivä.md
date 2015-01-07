@@ -6,6 +6,7 @@ categories:
   - fi
   - events
 time:  "16:00 - 20:45"
+logo:   contain
 address: Nikolainsali, Tuomiokirkonkatu 27, Tampere
 media:  /assets/event-logos/Coat_of_arms_of_Romania.png
 ---

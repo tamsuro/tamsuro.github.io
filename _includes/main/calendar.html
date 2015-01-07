@@ -10,19 +10,26 @@
       {% for event in site.categories.events %}
       {% if event.lang == page.lang %}
       <div class="panel panel-default">
-        <div class="media">
-          <div class="pull-left">
-            <div class="media-anchor">
-              <img class="media-object" src="{{ event.media }}">
-            </div>
-            <div><i class="fa fa-calendar"></i> {{ event.date | date_to_string }}</div>
-<!--            <div><i class="fa fa-calendar"></i> {{ event.date | date: "%d" }}</div>-->
-            <div><i class="fa fa-clock-o"></i> {{ event.time }}</div>
-          </div>
-          <div class="media-body">
-            <h4 class="media-heading"><a href="{{ event.url }}">{{ event.title }}</a></h4>
-            <p>{{ event.excerpt | truncate: 200 }}</p>
-          </div>
+        {% if event.logo == 'contain' %}
+        <div class="cal-heading cal-heading-contain" style="background-image: url({{ event.media }});">
+        </div>
+        {% else %}
+        <div class="cal-heading cal-heading-cover" style="background-image: url({{ event.media }});">
+        </div>
+        {% endif %}
+        <div class="panel-body">
+          <h4 class="media-heading"><a href="{{ event.url }}">{{ event.title }}</a></h4>
+          <p>{{ event.excerpt | truncate: 200 }}</p>
+        </div>
+        <div class="panel-footer">
+          <i class="fa fa-calendar"></i>
+          <span>{{ event.date | date: "%d" }}</span>
+          {% assign mon = event.date | date: "%-m" | minus: 1 %}
+          <span>{{ site.data.months[mon][page.lang] | downcase }}</span>
+          <span>{{ event.date | date: "%Y" }}</span>
+          <span>&nbsp;</span>
+          <i class="fa fa-clock-o"></i>
+          <span >{{ event.time }}</span>
         </div>
       </div>
       {% endif %}
