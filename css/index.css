@@ -217,23 +217,29 @@ figcaption {
 .links a {
 }
 
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-  .calendar-item > .media {
-    height: 231px;
+@media (min-width: 1px) {  
+  .columns[data-columns]::before {
+    content: '1 .col-sm-6';
   }
   
+  #moto {
+    top: 120px;
+  }
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {  
   .columns[data-columns]::before {
     content: '2 .col-sm-6';
+  }
+  
+  #moto {
+    top: 250px;
   }
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-  .calendar-item > .media {
-    height: 275px;
-  }
-  
   .news-item {
     height: 168px;
   }
@@ -245,12 +251,13 @@ figcaption {
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-  .calendar-item > .media {
-    height: 220px;
-  }
   
   .columns[data-columns]::before {
     content: '3 .col-md-4';
+  }
+  
+  #moto {
+    top: 320px;
   }
 }
 
