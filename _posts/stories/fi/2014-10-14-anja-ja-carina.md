@@ -3,6 +3,7 @@ layout: story
 title:  Rakastuin totaalisesti maahan, sen uskomattoman kauniiseen luontoon ja ystävällisiin ja välittömiin ihmisiin
 subtitle: Haastattelu
 author: Carina Qvick-Kansanaho
+cover: /assets/stories/anja-ja-carina/Carina_ja_Anja.jpg
 lang:   fi
 categories:
   - fi

@@ -3,6 +3,7 @@ layout: story
 title:  "Suomi on kotini ja Romania on minun sielun koti. Suomessa tunnen oloni vahvaksi ja itsevarmaksi"
 subtitle: Haastattelu
 author: Elenn Grațiela Știrbu
+cover: /assets/stories/anca-si-mircea/Mircea_and_co_2.jpg
 lang:   fi
 categories:
   - fi

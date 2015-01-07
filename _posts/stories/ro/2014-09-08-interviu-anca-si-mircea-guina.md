@@ -3,6 +3,7 @@ layout: story
 title:  Prima impresie pe care am avut-o când m-am mutat în Tampere a fost că sunt într-o stațiune de odihnă
 subtitle: Interviu cu Anca și Mircea Guină
 author: Elenn Grațiela Știrbu
+cover: /assets/stories/anca-si-mircea/Mircea_and_co_2.jpg
 lang:   ro
 categories:
   - ro

@@ -4,6 +4,7 @@ title:  Suomalainen ei usko ennen kuin näkee todellisuuden Romaniassa. Se on va
 subtitle: Haastattelu
 author: Anne Alalantela ja Elenn Grațiela Știrbu
 lang:   fi
+cover: /assets/stories/sami-etanen/consulat.jpg
 categories:
   - fi
   - stories

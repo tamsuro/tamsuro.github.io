@@ -2,6 +2,7 @@
 layout: story
 title:  M-am îndrăgostit total de România, de natura incredibil de frumoasă, de oamenii prietenoși și spontani
 author: Carina Qvick-Kansanaho
+cover: /assets/stories/anja-ja-carina/Carina_ja_Anja.jpg
 lang:   ro
 categories:
   - ro
