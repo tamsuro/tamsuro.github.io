@@ -3,6 +3,7 @@ layout: post
 title:  "Romanian kansallispäivää juhlistamassa"
 author: Immo Syrjäläinen
 lang:   fi
+cover: /assets/news/20141210/audienta.jpg
 categories:
   - fi
   - news

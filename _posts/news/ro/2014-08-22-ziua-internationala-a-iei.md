@@ -3,6 +3,7 @@ layout: post
 title:  Ziua internațională a iei și în Tampere
 author: Elenn Grațiela Știrbu
 lang:   ro
+cover: /assets/news/20140822/cover.jpg
 categories:
   - ro
   - news

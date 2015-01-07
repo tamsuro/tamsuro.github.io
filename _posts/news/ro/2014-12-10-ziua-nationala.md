@@ -3,6 +3,7 @@ layout: post
 title:  Unde-s mulți puterea crește!
 author: Elenn Grațiela Știrbu (editor)
 lang:   ro
+cover: /assets/news/20141210/audienta.jpg
 categories:
   - ro
   - news

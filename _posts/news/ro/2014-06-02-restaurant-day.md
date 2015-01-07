@@ -3,6 +3,7 @@ layout: post
 title:  Transylvania Grill
 author: Elenn Grațiela Știrbu
 lang:   ro
+cover: /assets/news/20140517/cover.png
 categories:
   - ro
   - news

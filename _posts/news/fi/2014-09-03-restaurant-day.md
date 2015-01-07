@@ -3,6 +3,7 @@ layout: post
 title:  "Grill Transylvania: todellinen menestys"
 author: Immo Syrjäläinen
 lang:   fi
+cover: /assets/news/20140517/cover.png
 categories:
   - fi
   - news

@@ -3,6 +3,7 @@ layout: post
 title:  "Matkailua Romaniassa - tapahtuma"
 author: Jani Pahla
 lang:   fi
+cover: /assets/news/20141207/anna.jpg
 categories:
   - fi
   - news

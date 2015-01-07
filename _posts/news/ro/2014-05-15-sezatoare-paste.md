@@ -3,6 +3,7 @@ layout: post
 title:  Șezurăm la șezătoare
 author: Elenn Grațiela Știrbu
 lang:   ro
+cover: /assets/news/2014-puisor-alb.png
 categories:
   - ro
   - news

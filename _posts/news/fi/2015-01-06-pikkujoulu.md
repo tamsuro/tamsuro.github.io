@@ -3,6 +3,7 @@ layout: post
 title:  Kiitos vielä kaikille mukavasta pikkujouluillasta!
 author: Hanna Kellokoski-Neagu
 lang:   fi
+cover: /assets/news/20150104/C5.jpg
 categories:
   - fi
   - news

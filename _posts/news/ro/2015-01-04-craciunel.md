@@ -3,6 +3,7 @@ layout: post
 title:  La mulți ani asociației Finlanda-România din Tampere!
 author: Elenn Grațiela Știrbu
 lang:   ro
+cover: /assets/news/20150104/C5.jpg
 categories:
   - ro
   - news

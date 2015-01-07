@@ -3,6 +3,7 @@ layout: post
 title:  "Dacă nu știți unde să mergeți în vacanță vara viitoare, încercați România!"
 author: Doina Mucundorfean
 lang:   ro
+cover: /assets/news/20141207/anna.jpg
 categories:
   - ro
   - news
