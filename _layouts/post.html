@@ -5,6 +5,12 @@ layout: default
 <div class="news container">
   <h2>{{ page.title }}</h2>
   <h5>{{ page.author }}</h5>
+  <div class="date-published">
+    <span>{{ page.date | date: "%d" }}</span>
+    {% assign mon = page.date | date: "%-m" | minus: 1 %}
+    <span>{{ site.data.months[mon][page.lang] | downcase }}</span>
+    <span>{{ page.date | date: "%Y" }}</span>
+  </div>
   <div>{{ content }}</div>
 </div>
 
