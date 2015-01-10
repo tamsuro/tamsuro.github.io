@@ -1,6 +1,5 @@
 Ryhdy jäseneksi tänään!
 
-
 Jäsenenä:
 <ul>
   <li>saat alennuksia yhdistyksen maksullisissa tapahtumissa</li>
@@ -10,12 +9,8 @@ Jäsenenä:
   <li>tuet taloudellisesti yhdistyksen toimintaa</li>
 </ul>
 
-<p><strong>Erikois-syksy 2015 tarjous!</strong></p>
-
-<p>Vuosijäsenmaksu on 20€. Jos ryhdyt jäseneksi seuraavalle vuodelle, saat kaikki jäljellä olevat kuukaudet tämän vuoden loppuun ilmaiseksi.</p>
-
 <p><strong>Miten ryhdyt jäseneksi?</strong></p>
-
+Jäsenmaksu on 20 € / vuosi. Jäsenen puolisolle / avopuolisolle / perheenjäsenille tulee jäsenmaksun suuruudeksi vain puolet jäsenmaksusta kun liittyy yhdistykseen (10 euroa / vuosi). 
 <p>Jäsenmaksu voidaan maksaa pankkisiirrolla tai käteisellä tapahtumien aikana.</p>
 
 <p>Saaja: Tampereen Suomi-Romania yhdistys ry<br>
