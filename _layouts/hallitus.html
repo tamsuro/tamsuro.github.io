@@ -10,7 +10,32 @@ layout: default
       <tbody>
         {% for role in site.data.hallitus %}
         <tr>
+          <td>{{ role.name }}</td>
           <td>{{ role.label[page.lang] }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="container">
+  
+  {% case page.lang %}
+  {% when 'ro' %}
+  <h2>Auditori</h2>
+  {% when 'fi' %}
+  <h2>Tominnantarkastajat</h2>
+  {% else %}
+  <h2>Auditors</h2>
+  {% endcase %}
+  
+  <div class="table-responsive">
+    <table class="table">
+      <tbody>
+        {% for role in site.data.auditors %}
+        <tr>
+<!--          <td>&nbsp;&nbsp;&nbsp;</td>-->
           <td>{{ role.name }}</td>
         </tr>
         {% endfor %}

@@ -6,56 +6,53 @@
     fi: Puheenjohtaja
     ro: Președinte
     
-- role: vice-president
-  name: Immo Syrjäläinen
-  label:
-    en: Vice-President
-    fi: Varapuheenjohtaja
-    ro: Vicepreședinte
-    
 - role: secretary
-  name: Raluca Cenan-Niemi
+  name: Anne Alalantela
   label:
     en: Secretary
     fi: Sihteeri
     ro: Secretar
     
-- role: vice-secretary
-  name: Anne Alalantela
-  label:
-    en: Vice-Secretary
-    fi: Varasihteeri
-    ro: Vicesecretar
-    
 - role: treasurer
-  name: Oana Syrjäläinen
+  name: Florin Lohan
   label:
     en: Treasurer
     fi: Rahastonhoitaja
     ro: Trezorier
     
-- role: vice-treasurer
-  name: Doina Mucundorfean
-  label:
-    en: Vice-Treasurer
-    fi: Vararahastonhoitaja
-    ro: Vicetrezorier
+- name: Vlad Știrbu
     
-- role: webmaster
-  name: Vlad Știrbu
+- name: Tommi Hirvelä
+
+- name: Raluca Cenan-Niemi
+
+- name: Leena Koulouris
+
+- role: deputy
+  name: Avadora Dumitrescu
   label:
-    en: Webmaster
-    fi: Nettisivujen vastuuhenkilö
-    ro: Webmaster
+    ro: Membru supleant
+    fi: Varajäsen
+    en: Alternate member
     
-- role: it-dude
-  name: Jani Pahla
+- role: deputy
+  name: Florin Dimulescu
   label:
-    en: The IT Dude
-    fi: ATK-vastuuhenkilö
-    ro: Responsabil IT
+    ro: Membru supleant
+    fi: Varajäsen
+    en: Alternate member
     
-- role: auditor
-  name: Marika Viitanen
+- role: deputy
+  name: Alexandru Marin
   label:
+    ro: Membru supleant
+    fi: Varajäsen
+    en: Alternate member
+    
+- role: deputy
+  name: Stefan Smirnov
+  label:
+    ro: Membru supleant
+    fi: Varajäsen
+    en: Alternate member
 ---
