@@ -4,7 +4,7 @@
 <ul>
 <li>să influențați tematica evenimentelor și să participați la organizarea lor dacă sunteți interesați;
 </li>
-<li>să beneficiți de reduceri la evenimentele cu taxă organizate de asociație și de acces la evenimentele organizate exclusiv pentru membri.
+<li>să beneficiați de reduceri la evenimentele cu taxă organizate de asociație și de acces la evenimentele organizate exclusiv pentru membri.
 </li>
 </ul>
 

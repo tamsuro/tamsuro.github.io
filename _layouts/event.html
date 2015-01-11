@@ -5,6 +5,12 @@ layout: default
 <div class="container event-page">
   <h2><a href="{{ page.event-url }}">{{ page.title }}</a></h2>
   <div class="row event-info">
+    {% if page.custom-date %}
+    <div class="col-md-2 col-sm-3">
+      <i class="fa fa-calendar"></i>
+      <span>{{ page.custom-date }}</span>
+    </div>
+    {% else %}
     <div class="col-md-2 col-sm-3">
       <i class="fa fa-calendar"></i>
       <span>{{ page.date | date: "%d" }}</span>
@@ -13,6 +19,7 @@ layout: default
       <span>{{ page.date | date: "%Y" }}</span>
     </div>
     <div class="col-md-2 col-sm-3"><i class="fa fa-clock-o"></i> {{ page.time }}</div>
+    {% endif %}
     {% if page.address %}
     <div class="col-md-6 col-sm-6"><i class="fa fa-map-marker"></i> {{ page.address }}</div>
     {% endif %}
