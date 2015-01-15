@@ -3,12 +3,15 @@
     {% for section in site.data.sections %}
     {% if section.id == 'places' %}
     <h2>{{ section.heading[page.lang] }}</h2>
+    <p>{{ section.intro[page.lang] }}</p>
     {% endif %}
     {% endfor %}
     <div class="columns" data-columns>
       {% for post in site.categories.places %}
       {% if page.lang == post.lang %}
       <div class="panel panel-default">
+        <div class="cal-heading cal-heading-cover" style="background-image: url({{ post.cover }});">
+        </div>
         <div class="panel-body">
           <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
           <p>{{ post.excerpt | truncate: 200 }}</p>
