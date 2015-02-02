@@ -8,9 +8,17 @@
     <div class="columns" data-columns>
       {% for post in site.categories.news %}
       {% if page.lang == post.lang %}
+      {% increment news-index %}
+      {% if news-index <= 12 %}
       {% include cards/news.html %}
+      {% endif %}
       {% endif %}
       {% endfor %}
     </div>
   </div>
+  {% if news-index > 12 %}
+  <div class="container">
+    <div><a href="#">Older news...</a></div>
+  </div>
+  {% endif %}
 </div>
