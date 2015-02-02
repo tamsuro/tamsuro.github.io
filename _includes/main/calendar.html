@@ -9,9 +9,17 @@
     <div class="columns" data-columns>
       {% for event in site.categories.events %}
       {% if event.lang == page.lang %}
+      {% increment event-index %}
+      {% if event-index <= 12 %}
       {% include cards/event.html %}
+      {% endif %}
       {% endif %}
       {% endfor %}
     </div>
   </div>
+  {% if event-index > 12 %}
+  <div class="container">
+    <div><a href="#">Older events...</a></div>
+  </div>
+  {% endif %}
 </div>
