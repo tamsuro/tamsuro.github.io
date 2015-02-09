@@ -8,7 +8,7 @@
     
     <div class="columns" data-columns>
       {% for event in site.categories.events %}
-      {% if event.lang == page.lang %}
+      {% if event.lang == page.lang and event.hidden != true %}
       {% increment event-index %}
       {% if event-index <= 12 %}
       {% include cards/event.html %}
