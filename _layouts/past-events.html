@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="container">
+  {% case page.lang %}
+    {% when 'fi' %}
+    <h1>Older events</h1>
+    {% when 'ro' %}
+    <h1>Evenimente mai vechi</h1>
+  {% endcase %}
+
+  {% for event in site.categories.events %}
+  {% if event.lang == page.lang %}
+  {% unless event.redirect %}
+  <div class="hidden">
+    {% increment event-index %}
+  </div>
+  {% if event-index > 12 %}
+  <div>
+    <p>{{ event.date }}</p>
+    <a href="{{ event.url }}"><h5>{{ event.title }}</h5></a>
+  </div>
+  {% endif %}
+  {% endunless %}
+  {% endif %}
+  {% endfor %}
+</div>
