@@ -5,7 +5,7 @@ layout: event
 categories:
   - ro
   - events
-time:  "17:30"
+time:  "17:00"
 media: /assets/events/20150322/cover.jpg
 address: Suvantokatu 13, Tampere
 ---
