@@ -51,7 +51,7 @@ Cula Greceanu, despre care aș vrea să spun câteva cuvinte, este probabil una 
 
 Încăperile, văruite în alb ca să compenseze puținătatea luminii lăsate să intre cu zgârcenie prin micile ferestre dedicate apărării, sunt mobilate cu obiecte țărănești specifice locului, precum și cu sobe albe, cu olane. Paravanul de baie, precum și patul umplut cu paie, întregesc mărturia locuirii permanente în această mică fortăreață. 
 
-Câte drame, câte bucurii sau povești nici măcar bănuite s-au întamplat aici, știu doar pereții masivi. Însă pereții tac, producând o liniște profundă, pe care nici cel mai entuziast vizitator nu are îndrazneala să o curme. Acești frumoși giganți vor rămâne în continuare tăcuți, peste timp, fuierând ușor o doină veche prin vântul care ia grai trecând printre coloanele din cerdacul ce stă veșnic în umbră, ca un gânditor fără somn. 
+Câte drame, câte bucurii sau povești nici măcar bănuite s-au întâmplat aici, știu doar pereții masivi. Însă pereții tac, producând o liniște profundă, pe care nici cel mai entuziast vizitator nu are îndrăzneala să o curme. Acești frumoși giganți vor rămâne în continuare tăcuți, peste timp, fluierând ușor o doină veche prin vântul care ia grai trecând printre coloanele din cerdacul ce stă veșnic în umbră, ca un gânditor fără somn. 
 
 <div class="row">
   <div class="col-md-3">
