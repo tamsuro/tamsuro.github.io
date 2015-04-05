@@ -88,4 +88,15 @@ Tarina Draculasta oli kuitenkin saanut kirjasta alkusysäyksensä. Romaniassa te
 
 Loppukeskustelu laajeni monenlaisiin aiheisiin, mutta mikä kirjoittajalle on erityisesti jäänyt mieleen, oli itse asiassa koko tilaisuuden ulkopuolella alkanut tarina romanialaisista elävistä kuolleista. Vaikka Romaniassa ei ole tarinoita verensyöjistä, siellä uskottiin olevan eläviä kuolleita jotka kulkevat nimellä moroi, tai strigoi. Ihmisen, joka syntyi ”onnenlakki”( suomalainen nimitys) päässään, uskottiin kuolemansa jälkeen palaavan vainoamaan läheisiään, tarkoituksenaan viedä heidät mukanaan. Mutta vain ihmisistä joilla oli tämä sikiökalvon muodostama lakki, voi tulla näitä ”eläviä kuolleita”. Tässäpä onkin ainoa yhteys vampyyreihin, mitä tulee ”moroin” tai ”strigoin” tuhoamiseen; kun tällainen ihminen kuoli, hänen rintansa läpi tuli iskeä puinen vaarna, ja siten saivat olla elävät rauhassa!
 
+<div class="row">
+  <div class="col-md-1">
+  </div>
+  <div class="col-md-5">
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/E7tmz-6aOPA" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <div class="col-md-5">
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/OOerOOHE8FQ" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
 Photo credits: Mircea Guină ja [Florin Lohan](http://www.photostovis.com).
