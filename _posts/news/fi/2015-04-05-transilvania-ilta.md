@@ -23,6 +23,7 @@ Tampereen Suomi-Romania yhdistyksen illassa paikalle oli tullut yleisöä, sekä
 </div>
 
 Dracula, Transilvania ja vampyyrit kiinnostavat ihmisiä maailmanlaajuisesti. Siitä kertoo elokuvien ja muiden populaarikulttuuri – ilmiöiden määrä, sekä se että Stokerin Draculan ohella ainoastaan Arthur Conan Doylen Sherlock Holmes on ollut painossa maailmanlaajuisesti yli sata vuotta. 
+
 Näistä asioista meille oli saapunut  pitämään esitystä Stefan Smirnov, joka on opiskellut Lontoossa tästä samaisesta aihepiiristä, ja joka muuten on myös meidän yhdistyksemme hallituksen varajäsen. Toinen esiintyjämme oli Kim Calonius, jonka esitys ” Matka metsien taa”  oli matkakertomus Transilvaniaan ja Valakiaan. Sen lomassa hän esitti taitavasti Romanialaisia kansansävelmiä akustisen kitaran kanssa ja vieläpä sujuvasti romanian kielellä. Esityksensä Kim Calonius omisti sukulaiselleen Mihai Dragoșille, joka Kimin tapaan oli esiintyvä artisti. Mihai Dragoș traagisesti kuoli lavalle kesken oopperaesityksen vuonna 1921. 
 
 <div class="row">
