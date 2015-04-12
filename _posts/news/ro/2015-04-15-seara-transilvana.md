@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Moldova ne duce în Transilvania. Prin Valahia
+title:  "Seară transilvană: pe urmele legendei lui Dracula"
 author: Elenn Grațiela Știrbu
 lang:   ro
 cover: /assets/news/20150415/cover.jpg
@@ -9,7 +9,7 @@ categories:
   - news
 ---
 
-Duminică pe 22 martie asociația noastră a avut porțile deschise în Suvantokatu pentru toți cei interesați de Transilvania și de Dracula. Și participanții nu s-au lăsat așteptați ci au venit în număr mare, în jur de 50 de oameni mari și chiar și mai mici, din Tampere și împrejurimi dar și din Helsinki.
+Duminică pe 22 martie asociația noastră a avut porțile deschise în Suvantokatu pentru toți cei interesați de Transilvania și de Dracula. Iar participanții nu s-au lăsat așteptați ci au venit în număr mare, în jur de 50 de oameni mari și chiar și mai mici, din Tampere și împrejurimi dar și din Helsinki.
 
 Tema a fost generoasă și cei doi vorbitori, Kim și Stefan, ne-au purtat pe urmele legendelor în Transilvania și Valahia, ne-au vorbit cu aplomb despre călătorii, oferta culinară locală, concerte rock, prieteni făcuți ad-hoc în România, istorie, literatură, filmologie, muzică, cultură populară… Ba chiar unul dintre ei, Kim, ne-a povestit și despre partea româneasco-moldovenească a arborelui său genealogic și ne-a cântat la chitară cântece tradiționale românești.
 
