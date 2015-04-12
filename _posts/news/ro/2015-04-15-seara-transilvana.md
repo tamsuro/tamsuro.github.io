@@ -11,7 +11,7 @@ categories:
 
 Duminică pe 22 martie asociația noastră a avut porțile deschise în Suvantokatu pentru toți cei interesați de Transilvania și de Dracula. Și participanții nu s-au lăsat așteptați ci au venit în număr mare, în jur de 50 de oameni mari și chiar și mai mici, din Tampere și împrejurimi dar și din Helsinki.
 
-Tema a fost generoasă și cei doi vorbitori, Kim și Stefan ne-au purtat pe urmele legendelor în Transilvania și Valahia, ne-au vorbit cu aplomb despre călătorii, oferta culinară locală, concerte rock, prieteni făcuți ad-hoc în România, istorie, literatură, filmologie, muzică, cultură populară… Ba chiar unul dintre ei, Kim, ne-a povestit și despre partea româneasco-moldovenească a arborelui său genealogic și ne-a cântat la chitară cântece tradiționale românești.
+Tema a fost generoasă și cei doi vorbitori, Kim și Stefan, ne-au purtat pe urmele legendelor în Transilvania și Valahia, ne-au vorbit cu aplomb despre călătorii, oferta culinară locală, concerte rock, prieteni făcuți ad-hoc în România, istorie, literatură, filmologie, muzică, cultură populară… Ba chiar unul dintre ei, Kim, ne-a povestit și despre partea româneasco-moldovenească a arborelui său genealogic și ne-a cântat la chitară cântece tradiționale românești.
 
 <div class="row">
   <div class="col-md-6">
@@ -51,7 +51,7 @@ Despre protagoniștii serii câteva cuvinte, Kim Calonius și Stefan Smirnov, re
   </div>
 </div>
 
-Prevăd că vom lucra în continuare cu drag și spor cu asociația Finlanda-Moldova, și de asemenea și cu celelate asociații culturale și de prietenie Finlanda-România, sunt sigură că rezultatele vor fi întotdeauna pe măsură.
+Prevăd că vom lucra în continuare cu drag și spor cu asociația Finlanda-Moldova, și de asemenea și cu celelalte asociații culturale și de prietenie Finlanda-România, sunt sigură că rezultatele vor fi întotdeauna pe măsură.
 
 Mulțumim lui Kim și lui Stefan și tuturor participanților și sperăm să vă chemăm în curând și la o Seară moldovenească și una oltenească!
 
@@ -66,4 +66,4 @@ Mulțumim lui Kim și lui Stefan și tuturor participanților și sperăm să v�
   </div>
 </div>
 
-Photo credits: Anne Alalantela
+Photo credits: Anne Alalantela. Video credits: Mircea Guină.
