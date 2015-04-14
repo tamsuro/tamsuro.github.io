@@ -7,6 +7,7 @@ categories:
   - events
 custom-date: "5. - 26.05.2015"
 media:  /assets/events/20150505/cover-a.jpg
+address: Suvantokatu 13, 2 krs, 33100 Tampere
 ---
 
 Kurssipäivät: 5, 7, 11, 14, 18, 22, 26.05 (16t)
