@@ -3,12 +3,7 @@ layout: default
 ---
 
 <div class="container">
-  {% case page.lang %}
-    {% when 'fi' %}
-    <h1>Older events</h1>
-    {% when 'ro' %}
-    <h1>Evenimente mai vechi</h1>
-  {% endcase %}
+  <h1>{{ site.data.translations['old-events'][page.lang] }}</h1>
 
   {% for event in site.categories.events %}
   {% if event.lang == page.lang %}
@@ -17,10 +12,10 @@ layout: default
     {% increment event-index %}
   </div>
   {% if event-index > 12 %}
-  <div>
-    <p>{{ event.date }}</p>
-    <a href="{{ event.url }}"><h5>{{ event.title }}</h5></a>
-  </div>
+  <h5>
+    <span>{{ event.date | date: "%Y-%m-%d" }}</span>
+    <a href="{{ event.url }}">{{ event.title }}</a>
+  </h5>
   {% endif %}
   {% endunless %}
   {% endif %}
