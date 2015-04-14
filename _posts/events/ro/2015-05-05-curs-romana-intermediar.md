@@ -13,7 +13,7 @@ Datele cursurilor: 5, 7, 11, 14, 18, 22, 26.05 (16 ore)
 
 Ora: 16:55 – 18:25
 
-Adresa: Suvantokatu 12, etaj 2, 33100 Tampere
+Adresa: Suvantokatu 13, etaj 2, 33100 Tampere
 
 Profesor: Elenn Grațiela Stirbu și lectori invitați care vor fi confirmați mai târziu.
 

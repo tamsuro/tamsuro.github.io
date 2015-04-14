@@ -13,7 +13,7 @@ Kurssipäivät: 5, 7, 11, 14, 18, 22, 26.05 (16t)
 
 Klo: 18:30 – 20:00
 
-Osoite: Suvantokatu 12, 2 krs, 33100 Tampere
+Osoite: Suvantokatu 13, 2 krs, 33100 Tampere
 
 Opettaja: Elenn Stirbu, sekä vierailevia opettajia jotka varmistuvat myöhemmin.
 
