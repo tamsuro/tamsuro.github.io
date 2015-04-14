@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="container">
+  <h1>{{ site.data.translations['old-events'][page.lang] }}</h1>
+
+  {% for event in site.categories.events %}
+  {% if event.lang == page.lang %}
+  {% unless event.redirect %}
+  <div class="hidden">
+    {% increment event-index %}
+  </div>
+  {% if event-index > 12 %}
+  <h5>
+    <span>{{ event.date | date: "%Y-%m-%d" }}</span>
+    <a href="{{ event.url }}">{{ event.title }}</a>
+  </h5>
+  {% endif %}
+  {% endunless %}
+  {% endif %}
+  {% endfor %}
+</div>
