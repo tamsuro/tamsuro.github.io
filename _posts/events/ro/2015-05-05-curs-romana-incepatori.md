@@ -16,7 +16,7 @@ Ora: 18:30 – 20:00
 
 Adresa: Suvantokatu 13, etaj 2, 33100 Tampere
 
-Profesor: Elenn Grațiela Stirbu și lectori invitați care vor fi confirmați mai târziu.
+Profesor: Elenn Grațiela Stirbu și lectori invitați: Raluca Cenan-Niemi, Diana Camelia Ghido, Florin Dimulescu și profesor Jukka Havu de la Universitatea din Tampere.
 
 Preț: 15e pentru membrii asociației, 30e pentru participanții din exterior.
 
