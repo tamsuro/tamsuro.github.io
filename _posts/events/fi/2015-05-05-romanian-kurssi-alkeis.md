@@ -16,7 +16,7 @@ Klo: 18:30 – 20:00
 
 Osoite: Suvantokatu 13, 2 krs, 33100 Tampere
 
-Opettaja: Elenn Stirbu, sekä vierailevia opettajia jotka varmistuvat myöhemmin.
+Opettaja: Elenn Stirbu, sekä vierailevia luennoitsijoita  Raluca Cenan-Niemi, Diana Camelia Ghido, Florin Dimulescu ja professori Jukka Havu Tampereen yliopistosta.
 
 Hinta: 15€ yhdistyksen jäsenille, 30€ ulkopuolisille.
 
