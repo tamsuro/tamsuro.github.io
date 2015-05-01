@@ -307,3 +307,10 @@ span.intro-author {
   width: 20px;
   height: 20px;
 }
+
+.event-badge {
+  margin-top: 20px;
+  margin-right: 10px;  
+  width: 50px;
+  height: 50px;
+}

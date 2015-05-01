@@ -2,10 +2,12 @@
   {% if event.logo == 'contain' %}
   <div class="cal-heading cal-heading-contain" style="background-image: url({{ event.media }});">
     {% include attribution.html %}
+    {% include badge.html %}
   </div>
   {% else %}
   <div class="cal-heading cal-heading-cover" style="background-image: url({{ event.media }});">
     {% include attribution.html %}
+    {% include badge.html %}
   </div>
   {% endif %}
   <div class="panel-body">
