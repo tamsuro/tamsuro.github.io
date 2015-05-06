@@ -17,6 +17,7 @@ Järjestävät tahot: Suomen Romanian Suurlähetystö ja Tukholman Romanian Kult
 _vapaa pääsy_
 
 ### Konsertti: Marian Petrescu Trio, jota on nimitetty yhdeksi "Jazzin klassikoista"
+
 #### 7. toukokuuta 2015, klo 19.00, Club Storyville ( Museigatan 8 )
 
 _Liput ennakkoon Club Storyville, puh: +358 50 3632664_
