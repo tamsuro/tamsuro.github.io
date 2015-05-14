@@ -18,3 +18,12 @@ Vă invităm la Grill Transylvania, un eveniment organizat de asociația Tampere
 Restaurantul vă oferă o selecție de produse tradiționale românești. Vedetele meniului nostru vor fi micii sfârâitori serviți direct de pe grătar cu pâine și muștar, așa cum le stă lor bine, dar avem și fasole frecată, salată de vinete, deserturi, cafea și suc.
 
 Copiii (și nu numai) se vor putea bucura de pictură pe față (gratuit).
+
+Produs | Preț
+--- | ---
+Mici și costițe serviți cu muștar și pâine de casă | 2€ bucata
+Salată de vinete servită pe pâine | 1€ bucata
+Fasole frecată servită pe cipsuri de secară | 1€ / 3 bucăți
+Plăcintă cu brânză, plăcintă cu mere, amandine și cozonac | 1€ bucata
+Cafea | 1€
+Suc | 0,50€

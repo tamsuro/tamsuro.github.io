@@ -25,3 +25,9 @@ var site = {
 }
 
 console.log(site);
+
+var tables = document.getElementsByTagName('table')
+
+if (tables.length) {
+  tables[0].classList.add('table');
+}
