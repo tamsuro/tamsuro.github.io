@@ -3,7 +3,7 @@ layout: post
 title:  "Euroviisut 2015: Voltaj-yhtyeen De la capăt (engl.  All Over Again), on erityisen koskettava"
 author: Outi Hassi
 lang:   fi
-cover: /assets/events/20150322/cover.jpg
+cover: /assets/news/20150519/cover.jpg
 categories:
   - fi
   - news
