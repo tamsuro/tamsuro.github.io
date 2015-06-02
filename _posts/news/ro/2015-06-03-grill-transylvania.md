@@ -3,7 +3,7 @@ layout: post
 title:  "Grill Transylvania în Tampere de Ziua Restaurantelor"
 author: Irina Pop
 lang:   ro
-cover: /assets/news/20150601/cover.jpg
+cover: /assets/news/20150603/cover.jpg
 categories:
   - ro
   - news
