@@ -11,7 +11,7 @@ media:  /assets/events/20150111/cover.jpg
 
 Asociația noastră organizează pentru membrii o excursie de 8 zile în România, mai precis în Transilvania. Gazda este Florin Dimulescu care va dezvălui excursioniștilor locuri mai mult sau mai puțin cunoscute într-un tărâm încărcat de istorie dar tot la fel de viu.
 
-Urmăriți ultimile știri despre temerarii noștri membrii pe [Instagram](https://instagram.com/flodimu).
+Urmăriți ultimele știri despre temerarii noștri membrii pe [Instagram](https://instagram.com/flodimu).
 
 <div class="row">
   <div class="col-md-2">
