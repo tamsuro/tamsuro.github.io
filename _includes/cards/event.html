@@ -24,8 +24,10 @@
     <span>{{ site.data.months[mon][page.lang] | downcase }}</span>
     <span>{{ event.date | date: "%Y" }}</span>
     <span>&nbsp;</span>
+    {% if event.time %}
     <i class="fa fa-clock-o"></i>
     <span>{{ event.time }}</span>
+    {% endif %}
     {% endif %}
   </div>
 </div>

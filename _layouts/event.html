@@ -18,7 +18,9 @@ layout: default
       <span>{{ site.data.months[mon][page.lang] | downcase }}</span>
       <span>{{ page.date | date: "%Y" }}</span>
     </div>
+    {% if page.time %}
     <div class="col-md-2 col-sm-3"><i class="fa fa-clock-o"></i> {{ page.time }}</div>
+    {% endif %}
     {% endif %}
     {% if page.address %}
     <div class="col-md-6 col-sm-6"><i class="fa fa-map-marker"></i> {{ page.address }}</div>
