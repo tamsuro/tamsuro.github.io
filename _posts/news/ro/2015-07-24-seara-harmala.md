@@ -11,7 +11,7 @@ categories:
 
 Vineri pe 24 iulie ne-am întâlnit la Tampere cu români din Helsinki și Turku într-o atmosferă călduroasă și relaxată, afumată cu mici și cârnați și îndulcită cu miniecleruri și plăcintă de fructe.
 
-Am dat noroc cu țuică oltenească și am stat la taclale în jurul grătarului comun din campingul Härmälä. În pofida vremii nu foarte călduroase, doi dintre participanți au făcut chiar și baie, unul în lac, unul într-o baltă mai mărișoară neobservată la timp. Nu dăm nume. J
+Am dat noroc cu țuică oltenească și am stat la taclale în jurul grătarului comun din campingul Härmälä. În pofida vremii nu foarte călduroase, doi dintre participanți au făcut chiar și baie, unul în lac, unul într-o baltă mai mărișoară neobservată la timp. Nu dăm nume.
 
 Mulțumim tuturor participanților și Asociației Culturale Române, co-organizator, a fost o seară foarte plăcută.
 
