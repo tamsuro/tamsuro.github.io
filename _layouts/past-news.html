@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="container">
+  <h1>{{ site.data.translations['old-news'][page.lang] }}</h1>
+
+  {% for news in site.categories.news %}
+  {% if news.lang == page.lang %}
+  <div class="hidden">
+    {% increment news-index %}
+  </div>
+  {% if news-index > 12 %}
+  <h5>
+    <span>{{ news.date | date: "%Y-%m-%d" }}</span>
+    <a href="{{ news.url }}">{{ news.title }}</a>
+  </h5>
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</div>
