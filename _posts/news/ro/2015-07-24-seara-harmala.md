@@ -3,7 +3,7 @@ layout: post
 title:  "La grătar în Härmälä"
 author: Elenn Grațiela Știrbu
 lang:   ro
-cover: /assets/news/20150603/cover.jpg
+cover: /assets/news/20150731/cover.jpg
 categories:
   - ro
   - news
