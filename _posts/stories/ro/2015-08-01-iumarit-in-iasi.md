@@ -20,7 +20,7 @@ Oana a arbitrat în timp cei cinci au înotat în ștafetă 39 de lungimi, un re
 Un succes care înseamnă o bucurie făcută copiilor de la Căsuța dintre Coline (care a fost reprezentată la Swimathon Iași de trei echipe de înotători) și împlinirea unei campanii duse cu bine până la capăt!
 Mulțumim frumos, Oana, pentru frumoasa poveste împărtășită și cele mai calde felicitări Uimariților pentru minunata realizare!
 
-<div class="row">
+<div class="row vertical-align">
   <div class="col-md-4 col-md-offset-1">
     {% include figure.html src="/assets/stories/uimarit/1.jpg" class="landscape" %}
   </div>

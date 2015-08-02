@@ -1,14 +1,14 @@
 body {
   margin: 0;
   padding: 0;
-  
+
   padding-top: 50px;
 }
 
 footer {
   position: absolute;
   bottom: 0;
-  
+
   background-color: whitesmoke;
   width: 100%;
 }
@@ -31,7 +31,7 @@ header {
 .nav > li > .lang {
   padding-left: 2px;
   padding-right: 2px;
-  
+
   text-transform: uppercase;
 }
 
@@ -95,7 +95,7 @@ header {
   padding: 0;
   margin-bottom: 10px;
   overflow: hidden;
-  
+
   height: 100px;
 }
 
@@ -154,11 +154,11 @@ figure img {
   padding: 15px;
   background-color: whitesmoke;
   border: 1px solid #b1b1b1;
-  
+
   box-shadow: 0px 1px 5px 0px rgba(119, 119, 119, 0.75);
   -moz-box-shadow: 0px 1px 5px 0px rgba(119, 119, 119, 0.75);
   -webkit-box-shadow: 0px 1px 5px 0px rgba(119, 119, 119, 0.75);
-  
+
 }
 /*
   transform: rotate(.5deg);
@@ -172,7 +172,7 @@ figure img {
 }
 
 #first {
-  background: url(../assets/bg.jpg) no-repeat center center ; 
+  background: url(../assets/bg.jpg) no-repeat center center ;
   /*
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -217,22 +217,22 @@ figcaption {
 .links a {
 }
 
-@media (min-width: 1px) {  
+@media (min-width: 1px) {
   .columns[data-columns]::before {
     content: '1 .col-sm-6';
   }
-  
+
   #moto {
     top: 120px;
   }
 }
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {  
+@media (min-width: 768px) {
   .columns[data-columns]::before {
     content: '2 .col-sm-6';
   }
-  
+
   #moto {
     top: 250px;
   }
@@ -243,11 +243,11 @@ figcaption {
   body {
     font-size: 16px;
   }
-  
+
   .news-item {
     height: 168px;
   }
-  
+
   .columns[data-columns]::before {
     content: '3 .col-md-4';
   }
@@ -255,11 +255,11 @@ figcaption {
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-  
+
   .columns[data-columns]::before {
     content: '3 .col-md-4';
   }
-  
+
   #moto {
     top: 320px;
   }
@@ -303,14 +303,19 @@ span.intro-author {
 
 .cc-a {
   margin-top: 120px;
-  margin-right: 10px;  
+  margin-right: 10px;
   width: 20px;
   height: 20px;
 }
 
 .event-badge {
   margin-top: 20px;
-  margin-right: 10px;  
+  margin-right: 10px;
   width: 50px;
   height: 50px;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
 }
