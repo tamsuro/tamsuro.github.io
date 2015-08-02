@@ -26,8 +26,6 @@ Perjantaina 24.7. yhdistyksemme sai mieluisia vieraita, kun joukko iloisia roman
   </div>
 </div>
 
-Jotkut läsnäolijoista olivat juuri palanneet pari päivää aiemmin lomalta Romaniasta, joten saimme kuulla ihan uunituoreita kuulumisia!
-
 Suomen sää ei (kuten tyypillistä tänä kesänä) meitä ihmeemmin hellinyt, mutta sentään säästyimme sateelta... joskaan ei täysin kastumatta - pari nuorta herraa nimittäin harrasti vesiurheilua siihen malliin, että ehdimme nähdä useamman asun heidän yllään illan aikana émoticône smile. Saimme maistaa ihania romanialaisia perinneherkkuja kuten micejä ja miniecleruri sekä aromikasta Oltenian țuicaa.
 
 <div class="row vertical-align">
