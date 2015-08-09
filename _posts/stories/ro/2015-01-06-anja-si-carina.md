@@ -2,6 +2,7 @@
 layout: story
 title:  M-am îndrăgostit total de România, de natura incredibil de frumoasă, de oamenii prietenoși și spontani
 author: Carina Qvick-Kansanaho
+subtitle: Interviu cu Anja Haapanen
 cover: /assets/stories/anja-ja-carina/cover.jpg
 lang:   ro
 categories:
@@ -19,7 +20,7 @@ De data asta are cuvântul mama mea, Anja Haapanen, membră a asociației noastr
 
 __Carina__: _Cum și de ce ai început să studiezi limba română?_
 
-__Anja__: În anul 1974 am făcut împreună cu familia o călătorie de 3 săptămâni în România, la stațiunea balneo-climaterică Călimănești. Pe parcursul șederii ne-am bucurat de băile termale ale stațiunii și bineînțeles de Gerovital. Ne-am împrietenit cu mulți români, și cum nu toți vorbeau engleză, am vrut să studiez eu însămi română pentru a putea ține legătura cu ei. Limba română mi s-a părut surprinzător de familiară încă de la început, pentru că seamănă cu latina, pe care o studiasem deja în liceu. În acel timp în Finlanda nu se găseau niciun fel de manuale sau dicționare pentru limba română, dar am găsit la bibliotecă întregistrări în română, și așa am început. Următoarele noastre călătorii în România au fost în 1976, 1978, 1979 și 1983, când existau încă zboruri directe între Finlanda și România. În 2000 am studiat română la Sampola cu Ileana Pälli, iar acum, de 7 ani studiez la Universitatea Populară Ahjola cu Elenn Știrbu. La cursul de limba română avem întotdeauna o atmosferă destinsă, veselă și inspirantă. Pentru mine este punctul culminant al săptămânii iar efectul învigorant durează mult timp. 
+__Anja__: În anul 1974 am făcut împreună cu familia o călătorie de 3 săptămâni în România, la stațiunea balneo-climaterică Călimănești. Pe parcursul șederii ne-am bucurat de băile termale ale stațiunii și bineînțeles de Gerovital. Ne-am împrietenit cu mulți români, și cum nu toți vorbeau engleză, am vrut să studiez eu însămi română pentru a putea ține legătura cu ei. Limba română mi s-a părut surprinzător de familiară încă de la început, pentru că seamănă cu latina, pe care o studiasem deja în liceu. În acel timp în Finlanda nu se găseau niciun fel de manuale sau dicționare pentru limba română, dar am găsit la bibliotecă întregistrări în română, și așa am început. Următoarele noastre călătorii în România au fost în 1976, 1978, 1979 și 1983, când existau încă zboruri directe între Finlanda și România. În 2000 am studiat română la Sampola cu Ileana Pälli, iar acum, de 7 ani studiez la Universitatea Populară Ahjola cu Elenn Știrbu. La cursul de limba română avem întotdeauna o atmosferă destinsă, veselă și inspirantă. Pentru mine este punctul culminant al săptămânii iar efectul învigorant durează mult timp.
 
 __C__: _În ce regiuni din România ai călătorit?_
 
@@ -50,7 +51,7 @@ __A__: Atât autenticitatea oamenilor, prietenia și ospitalitatea lor, cât și
 
 __C__: _Ce loc din România e preferatul tău și de ce?_
 
-__A__: Calimănești - Râmnicu Valcea. Acolo în afară de prietenii noștri dragi atracțiile naturale sunt valea Oltului și minunații Carpați. 
+__A__: Calimănești - Râmnicu Valcea. Acolo în afară de prietenii noștri dragi atracțiile naturale sunt valea Oltului și minunații Carpați.
 
 <div class="row">
   <div class="col-md-5">
@@ -63,7 +64,7 @@ __A__: Calimănești - Râmnicu Valcea. Acolo în afară de prietenii noștri dr
 
 __C__: _Cea mai frumoasă amintire din România?_
 
-__A__: Vizitele acasă la prietenii noștri din satul Bogdănești, scăldatul în Olt și prânzurile lungi la o masă mare sub părul din grădina prietenilor. 
+__A__: Vizitele acasă la prietenii noștri din satul Bogdănești, scăldatul în Olt și prânzurile lungi la o masă mare sub părul din grădina prietenilor.
 
 <div class="row">
   <div class="col-md-8 col-md-offset-2">

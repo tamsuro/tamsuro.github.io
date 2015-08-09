@@ -9,7 +9,7 @@
     en:
     fi:     Artikkeleita
     ro:     Articole
-  
+
 - id:     calendar
   group:  left
   title:
@@ -20,7 +20,7 @@
     en:     Our events
     fi:     Meidän tapahtumat
     ro:     Evenimentele noastre
-    
+
 - id:     stories
   group:  left
   title:
@@ -29,9 +29,9 @@
     ro:     Oameni și povești
   heading:
 #    en:     Our events
-    fi:     Ihmisiä ja tarinointa
+    fi:     Ihmisiä ja tarinoita
     ro:     Oameni și povești
-    
+
 - id:     places
   group:  left
   title:
@@ -44,7 +44,7 @@
     ro:     Locuri și povești
   intro:
     ro:   Colaboratorul nostru Virgil Niiranen, arhitect de profesie, ne îndrumă pașii către comori ale arhitecturii românești, cu predilecție spre cele mai puțin cunoscute publicului larg.  Cu Virgil arhitectura devine o poveste spusă cu emoție și dragoste.
-  
+
 - id:     gallery
   group:  left
   title:
@@ -55,14 +55,14 @@
     en:     Gallery
     fi:     Kuvagalleria
     ro:     Galerie foto
-  
+
 - id:     about
   group:  left
   title:
     en:     About
     fi:     Esittely
     ro:     Despre
-  
+
 - id:     join
   group:  right
   title:
