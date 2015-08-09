@@ -7,11 +7,10 @@ categories:
   - events
 time: "19:00"
 media: /assets/event-logos/gratar_rom.png
+address: Camping Härmälä
 ---
 
 Vă invităm la o seară românească cu grătar și voie bună la locul de grătar comun din campingul Härmälä din Tampere. Tampereen Suomi-Romania oferă cafea, suc și prăjituri, puteți participa cu propriile băuturi și produse pentru grătar.
-
-Ne vedem mâine seară!
 
 Activitate organizată împreună cu Asociația Culturală Română din Helsinki.
 

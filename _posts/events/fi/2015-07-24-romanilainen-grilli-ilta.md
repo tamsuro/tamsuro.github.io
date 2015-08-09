@@ -7,6 +7,7 @@ categories:
   - events
 time: "19:00"
 media: /assets/event-logos/gratar_rom.png
+address: Camping Härmälä
 ---
 
 Yhteistyössä: Romanialainen Kulttuuriyhdistys - Helsinki Ry
