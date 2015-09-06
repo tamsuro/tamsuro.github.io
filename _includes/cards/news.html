@@ -3,6 +3,10 @@
   </div>
   <div class="panel-body">
     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    {% if post.summary %}
+    <p>{{ post.summary }}</p>
+    {% else %}
     <p>{{ post.excerpt | truncate: 200 }}</p>
+    {% endif %}
   </div>
 </div>
