@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "{{ page.title }}",
+  "location": {
+    "@type": "Place",
+    "name": "{{ page.address }}",
+    "address": {
+      "@type": "PostalAddress",
+      "name": "{{ page.address }}"
+    }
+  },
+  "startDate": "{{ page.date }}",
+  "url": "http://www.suomi-romania.fi{{ page.url }}"
+}
+</script>

@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="container event-page">
+  {% include json-ld/event.html %}
   <h2><a href="{{ page.event-url }}">{{ page.title }}</a></h2>
   <div class="row event-info">
     {% if page.custom-date %}
