@@ -6,7 +6,7 @@ categories:
   - ro
   - events
 media:  /assets/events/20151212/cover.jpg
-address: Salmenkalliontie 70 33720 Tampere
+address: Salmenkalliontie 70, 33720 Tampere
 ---
 
 Avem plăcerea să vă invităm la petrecerea de Crăciun a asociației noastre în data de 12 decembrie, sâmbătă, începând cu orele 17. Anul acesta asociația a rezervat o cabană pentru acest prilej, cabana [Poliției Majaranta din Hervanta](http://www.majaranta.fi/), la adresa Salmenkalliontie 70 33720 Tampere.
