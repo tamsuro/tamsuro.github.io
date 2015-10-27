@@ -19,6 +19,4 @@ Program: 7, 8, 14, 22 noiembrie 2015 de la 16 - 17:30
 
 Adresa: Korkeakoulunkatu 10 Tampere (Hervanta)
 
- 
-
 Informații suplimentare: [tampereen.suomi.romania@gmail.com](mailto:tampereen.suomi.romania@gmail.com)
