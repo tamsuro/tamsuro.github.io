@@ -9,7 +9,7 @@ categories:
   - news
 ---
 
-Marți 3 noiembrie 2015, Excelența sa Dl Cătălin Avramescu, ambasadorul României în Finlanda și Estonia va vizita orașul Tampere pentru a se întâlni cu membri ai comunității românești și cetățeni finlandezi interesați de limba și cultura româna.
+Marți 3 noiembrie 2015, Excelența sa Dl Cătălin Avramescu, ambasadorul României în Finlanda și Estonia va vizita orașul Tampere pentru a se întâlni cu membri ai comunității românești și cetățeni finlandezi interesați de limba și cultura română.
 
 Programul vizitei:
 
