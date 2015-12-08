@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Art Confluences
+title:  "Art Confluences: 2.12 - 13.12.2015, Tampereen kansainvälinen toimintakeskuksessa"
 author: Crina Samarghitean (ed)
 lang:   en
 cover: /assets/events/20151202/cover.jpg
