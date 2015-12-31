@@ -3,7 +3,7 @@ layout: post
 title:  Yhdistyksemme ensimmäinen taidenäyttely
 author: Carina Qvick-Kansanaho
 lang:   fi
-cover: /assets/news/20151231/cover.jpg
+cover: /assets/news/20151231/cover.JPG
 categories:
   - fi
   - news
