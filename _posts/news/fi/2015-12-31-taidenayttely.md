@@ -132,3 +132,5 @@ On uskomatonta, että suhteellisen pienestä yhdistyksestämme löytyy näin pal
 </div>
 
 Näyttely oli avoinna ma-pe 10-15  13.12. saakka, os. Suvantokatu 13.
+
+Photo credits: Imre Balog.
