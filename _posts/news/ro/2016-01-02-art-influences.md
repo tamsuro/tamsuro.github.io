@@ -90,13 +90,15 @@ Expoziția a fost deschisă în Tampere în perioada 2 - 13 decembrie 2015. Pe 1
 Puteți vedea lucrările expuse [aici](https://www.facebook.com/anne.alalantela/media_set?set=a.1124157957601823&type=3&__mref=message_bubble). Informații despre cei opt artiști români și finlandezi care au expus găsiți [aici](/news/en/2015/12/08/art-confluences.html).
 
 <div class="row">
-  <div class="col-md-4">
+  <div class="col-md-6">
     {% include figure.html src="/assets/news/20160102/b1.jpg" class="landscape" %}
   </div>
-  <div class="col-md-4">
+  <div class="col-md-6">
     {% include figure.html src="/assets/news/20160102/b2.jpg" class="landscape" %}
   </div>
-  <div class="col-md-4">
+  <div class="col-md-3">
+  </div>
+  <div class="col-md-6">
     {% include figure.html src="/assets/news/20160102/b3.jpg" class="landscape" %}
   </div>
 </div>
