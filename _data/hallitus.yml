@@ -5,6 +5,13 @@
     en: President
     fi: Puheenjohtaja
     ro: Președinte
+
+- role: vicepresident
+  name: Mircea Guină
+  label:
+    en: Vicepresident
+    fi: Varapuheenjohtaja
+    ro: Vicepreședinte
     
 - role: secretary
   name: Anne Alalantela
@@ -22,14 +29,12 @@
     
 - name: Leena Koulouris
     
-- name: Raluca Cenan-Niemi
-
 - name: Tommi Hirvelä
 
-- name: Vlad Știrbu
+- name: Avadora Dumitrescu
 
 - role: deputy
-  name: Avadora Dumitrescu
+  name: Vlad Știrbu
   label:
     ro: Membru supleant
     fi: Varajäsen
@@ -37,13 +42,6 @@
     
 - role: deputy
   name: Florin Dimulescu
-  label:
-    ro: Membru supleant
-    fi: Varajäsen
-    en: Alternate member
-    
-- role: deputy
-  name: Alexandru Marin
   label:
     ro: Membru supleant
     fi: Varajäsen

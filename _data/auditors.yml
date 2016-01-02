@@ -1,7 +1,15 @@
 ---
 - role: auditor
-  name: Anca Guină
+  name: Adriana Vasilache
+  label:
+    en: 
+    fi: 
+    ro: 
   
-- role: auditor
-  name: Carina Qvick-Kansanaho
+- role: deputy auditor
+  name: Raluca Cenan-Niemi
+  label:
+    en: Deputy
+    fi: Varatominnantarkastaja
+    ro: Auditor supleant
 ---
