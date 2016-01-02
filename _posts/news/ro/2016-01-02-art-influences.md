@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expoziția colectivă română-finlandeză Art Confluences: impresiile celui mai tânăr artist expozant"
+title:  "Expoziția colectivă româno-finlandeză Art Confluences: impresiile celui mai tânăr artist expozant"
 author: Anca și Elina Guină
 lang:   ro
 cover: /assets/news/20160102/cover.jpg
