@@ -15,7 +15,7 @@ Expoziția _Art Confluences_ a fost pentru Elina prima participare la un astfel 
   <div class="col-md-3">
   </div>
   <div class="col-md-6">
-    {% include figure.html src="/assets/news/20160102/1.jpg" class="landscape" %}
+    {% include figure.html src="/assets/news/20160102/13.jpg" class="landscape" %}
   </div>
 </div>
 <div class="row">
@@ -65,7 +65,7 @@ Văzută prin ochii unui copil de 11 ani, expoziția a fost o confirmare a faptu
     {% include figure.html src="/assets/news/20160102/12.jpg" class="landscape" %}
   </div>
   <div class="col-md-6">
-    {% include figure.html src="/assets/news/20160102/13.jpg" class="landscape" %}
+    {% include figure.html src="/assets/news/20160102/1.jpg" class="landscape" %}
   </div>
 </div>
 
