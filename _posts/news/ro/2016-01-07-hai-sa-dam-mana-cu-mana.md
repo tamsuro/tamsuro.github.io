@@ -264,7 +264,7 @@ Pe la sfârșitul anului 2014, când am intrat în asociația Finlanda-România 
   </div>
 </div>
 
-Mai multe poze de la eveniment puteți vedea aici:
+Mai multe poze de la eveniment puteți vedea aici (powered by [Photostovis](http://photostovis.net)):
 
 <iframe class="photostovis" width="100%" height="350" src="https://tsry.photostovis.net:17413/?key=7D3186498ED5F46E9F3686873891D1CA9A81F958CFE3C93457EB792C&embedded=1" frameborder="0" allowfullscreen></iframe>
 
