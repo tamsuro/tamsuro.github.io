@@ -102,6 +102,24 @@ Am ascultat și muzică: Vadim Grumeza și Anastasia Kozlova au susținut un rec
 
 <div class="row">
   <div class="col-md-6">
+    {% include figure.html src="/assets/news/20160107/A/muzica1.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+    {% include figure.html src="/assets/news/20160107/A/muzica2.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+    {% include figure.html src="/assets/news/20160107/A/muzica3.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+    {% include figure.html src="/assets/news/20160107/A/muzica4.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+    {% include figure.html src="/assets/news/20160107/A/muzica5.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+    {% include figure.html src="/assets/news/20160107/A/muzica6.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
     {% include figure.html src="/assets/news/20160107/A/mancare1.jpeg" class="landscape" %}
   </div>
   <div class="col-md-6">
@@ -119,28 +137,10 @@ Am ascultat și muzică: Vadim Grumeza și Anastasia Kozlova au susținut un rec
   <div class="col-md-6">
     {% include figure.html src="/assets/news/20160107/A/mancare6.jpeg" class="landscape" %}
   </div>
-  <div class="col-md-6">
-    {% include figure.html src="/assets/news/20160107/A/mancare7.jpeg" class="landscape" %}
-  </div>
-  <div class="col-md-6">
-    {% include figure.html src="/assets/news/20160107/A/muzica1.jpeg" class="landscape" %}
-  </div>
-  <div class="col-md-6">
-    {% include figure.html src="/assets/news/20160107/A/muzica2.jpeg" class="landscape" %}
-  </div>
-  <div class="col-md-6">
-    {% include figure.html src="/assets/news/20160107/A/muzica3.jpeg" class="landscape" %}
-  </div>
-  <div class="col-md-6">
-    {% include figure.html src="/assets/news/20160107/A/muzica4.jpeg" class="landscape" %}
-  </div>
-  <div class="col-md-6">
-    {% include figure.html src="/assets/news/20160107/A/muzica5.jpeg" class="landscape" %}
-  </div>
   <div class="col-md-3">
   </div>
   <div class="col-md-6">
-    {% include figure.html src="/assets/news/20160107/A/muzica6.jpeg" class="landscape" %}
+    {% include figure.html src="/assets/news/20160107/A/mancare7.jpeg" class="landscape" %}
   </div>
 </div>
 
@@ -266,12 +266,14 @@ Pe la sfârșitul anului 2014, când am intrat în asociația Finlanda-România 
 
 Mai multe poze de la eveniment puteți vedea aici:
 
-<iframe width="100%" height="350" src="https://tsry.photostovis.net:17413/?key=7D3186498ED5F46E9F3686873891D1CA9A81F958CFE3C93457EB792C&embedded=1" frameborder="0" allowfullscreen></iframe>
+<iframe class="photostovis" width="100%" height="350" src="https://tsry.photostovis.net:17413/?key=7D3186498ED5F46E9F3686873891D1CA9A81F958CFE3C93457EB792C&embedded=1" frameborder="0" allowfullscreen></iframe>
 
-Photo credits: [Aurelian Pop](https://www.facebook.com/aurelian.pop.photography), Avadora Dumitrescu și Adriana Vasilache.
+Photo credits: Adriana Vasilache, [Aurelian Pop](https://www.facebook.com/aurelian.pop.photography) și Avadora Dumitrescu.
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-1">
+  </div>
+  <div class="col-md-5">
     {% include figure.html src="/assets/news/20160107/credits/3.jpeg" class="landscape" %}
   </div>
   <div class="col-md-6">

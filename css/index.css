@@ -319,3 +319,7 @@ span.intro-author {
     display: flex;
     align-items: center;
 }
+
+.photostovis {
+  margin: 10px;
+}
