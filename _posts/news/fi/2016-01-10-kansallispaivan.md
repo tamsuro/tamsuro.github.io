@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kansallispäivän viettoa ja historiaa
+subtitle: Haastattelu
 author: Anne Alalantela
 lang:   fi
 cover: /assets/news/20160107/cover.jpeg
@@ -38,7 +39,7 @@ Joten hyvin lyhyesti kronologinen järjestys on:
 
 __Anne__: Kiitos, tämä oli hyvä selitys ”pähkinänkuoressa”. 
 
-__Adriana__, olet asunut kauan Suomessa mutta tiedätkö miten romanialaisilla on tapana viettää kansallispäivää Romaniassa? 
+Adriana, olet asunut kauan Suomessa mutta tiedätkö miten romanialaisilla on tapana viettää kansallispäivää Romaniassa? 
 
 __Adriana__: Yleensä järjestetään militaarinen paraati ja eri kaupungeissa pidetään puheita. Varsinkin Alba Iuliassa, jossa yhdistymissopimus tehtiin. Mutta en ole varma miten nykyään juhlitaan, koska en ole tosiaan asunut Romaniassa vuosiin.
 
