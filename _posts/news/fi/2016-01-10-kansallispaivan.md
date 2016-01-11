@@ -130,8 +130,8 @@ Juhlissa lapset tanssivat Alunelu:a ja paritanssi Braşoveanca:a. Ympyrässä ta
 
 __Anne__: Kiitos Adriana haastattelusta, ensi vuoden juhlassa olemmekin tämän ansiosta jo paljon viisaampia. :)
 
-Tässä on enemmän kuvia (powered by Photostovis)...
+Tässä on enemmän kuvia (powered by [Photostovis](http://photostovis.com))...
 
 <iframe class="photostovis" width="100%" height="350" src="https://tsry.photostovis.net:17413/?key=7D3186498ED5F46E9F3686873891D1CA9A81F958CFE3C93457EB792C&embedded=1" frameborder="0" allowfullscreen></iframe>
 
-Photocredits: Adriana Vasilache, Aurelian Pop ja Avadora Dumitrescu.
+Photocredits: Adriana Vasilache, [Aurelian Pop](https://www.facebook.com/aurelian.pop.photography) ja Avadora Dumitrescu.
