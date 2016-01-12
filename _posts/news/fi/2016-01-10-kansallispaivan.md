@@ -10,7 +10,38 @@ categories:
   - news
 ---
 
-Tampereella juhlittiin Romanian Kansallispäivää 28.11.2015 lauantaina Ortodoksisen Kirkon juhlasalissa. Paikalle kertyi väkeä ia -paidoissa ja kansallispuvuissa syömään, katselemaan lasten kansantanssiesitystä ja kuuntelemaan moldovalaissyntyisen viulistin Vadim Grumezan esitystä pianon säestyksellä, sekä Romanian Helsingin Suurlähettilään puhetta ja muita juhlallisuuksia. Ovella nuoret toivottivat vieraat tervetulleeksi perinteisesti suolaa, leipää ja țuicaa tarjoten. 
+Tampereella juhlittiin Romanian Kansallispäivää 28.11.2015 lauantaina Ortodoksisen Kirkon juhlasalissa. Paikalle kertyi väkeä ia -paidoissa ja kansallispuvuissa syömään, katselemaan lasten kansantanssiesitystä ja kuuntelemaan moldovalaissyntyisen viulistin Vadim Grumezan esitystä pianon säestyksellä, sekä Romanian Helsingin Suurlähettilään puhetta ja muita juhlallisuuksia. Ovella nuoret toivottivat vieraat tervetulleeksi perinteisesti suolaa, leipää ja țuicaa tarjoten.
+
+<div class="row">
+  <div class="col-md-6">
+  {% include figure.html src="/assets/news/20160110/1.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+  {% include figure.html src="/assets/news/20160110/2.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+  {% include figure.html src="/assets/news/20160110/4.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+  {% include figure.html src="/assets/news/20160110/3.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+  {% include figure.html src="/assets/news/20160110/5.jpeg" class="landscape" %}
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6">
+  {% include figure.html src="/assets/news/20160110/6.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-6">
+  {% include figure.html src="/assets/news/20160110/7.jpeg" class="landscape" %}
+  </div>
+  <div class="col-md-3">
+  </div>
+  <div class="col-md-6">
+  {% include figure.html src="/assets/news/20160110/8.jpeg" class="landscape" %}
+  </div>
+</div>
 
 Viime vuonnakin osallistuin kansallispäivän viettoon mutta en ollut oikein selvillä mikä tämä juhla on, siksi halusin tapahtuman jälkeen haastatella ystävääni Adriana Vasilachea. 
 
