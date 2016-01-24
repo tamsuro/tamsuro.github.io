@@ -12,7 +12,7 @@
   {% endif %}
   <div class="panel-body">
     <h4 class="media-heading"><a href="{{ event.url }}">{{ event.title }}</a></h4>
-    <p>{{ event.excerpt | truncate: 200 }}</p>
+    <p>{{ event.excerpt | strip_html | truncate: 200 }}</p>
   </div>
   <div class="panel-footer">
     <i class="fa fa-calendar"></i>

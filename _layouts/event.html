@@ -24,7 +24,11 @@ layout: default
     {% endif %}
     {% endif %}
     {% if page.address %}
-    <div class="col-md-6 col-sm-6"><i class="fa fa-map-marker"></i> {{ page.address }}</div>
+      {% if page.address-url %}
+      <div class="col-md-6 col-sm-6"><i class="fa fa-map-marker"></i> <a href="{{ page.address-url }}" target="_blank">{{ page.address }}</a></div>
+      {% else %}
+      <div class="col-md-6 col-sm-6"><i class="fa fa-map-marker"></i> {{ page.address }}</div>
+      {% endif %}
     {% endif %}
   </div>
   <div>{{ content }}</div>
