@@ -345,3 +345,14 @@ span.intro-author {
   clear: left;
   margin-bottom: 10px;
 }
+
+.photos-lonely {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.photos-lonely .portrait {
+  height: 500px;
+  border: 3px solid white;
+}
