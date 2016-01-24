@@ -30,6 +30,8 @@ Tilanteen pelasti yksi pieni tyttö, Kinga, joka rohkaisi mielensä ja kajautti 
   <img src="/assets/news/20160124/fi/7.jpg">
 </div>
 
+<div class="clear"></div>
+
 Tämän riemun jälkeen nautittiin lisää herkkuja, juomia ja kuunneltiin musiikkia ja ilta jatkui hauskoissa ja riemukkaissa merkeissä ja kaikilla oli kuten laulussakin sanotaan:  ”hyvä, lämmin, hellä on mieli jokaisen, oi jospa ihmisellä ois joulu ainainen”. Illan kohokohtiin kuului myös Florin Dimulescun kitaran säestyksellä esitetyt romanialaiset laulut.
 
 Osallistujia oli lapset mukaan laskien 40 ja juhlissa nähtiin myös yksi ihan uusi jäsen, Anja Keränen, joka vastikään oli palannut Romaniasta Suomeen ja liittyi meihin. Panostimme tiloihin tänä vuonna, oli toivottu saunaa perinteiseen suomalaiseen tapaan ja viihtyisyyttä.
