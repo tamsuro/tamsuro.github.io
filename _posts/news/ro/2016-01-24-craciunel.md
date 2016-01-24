@@ -3,7 +3,7 @@ layout: post
 title:  "Ingredientele unei petreceri de Crăciun reușite"
 author: Elenn Grațiela Știrbu
 lang:   ro
-cover: /assets/news/20160107/cover.jpeg
+cover: /assets/news/20160124/ro/cover.jpg
 categories:
   - ro
   - news

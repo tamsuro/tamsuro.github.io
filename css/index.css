@@ -323,3 +323,20 @@ span.intro-author {
 .photostovis {
   margin: 10px;
 }
+
+.photos-grid[data-columns]::before {
+  content: '2 .column.size-1of2';
+}
+
+.photos-grid .column {
+  float: left; 
+}
+.photos-grid .size-1of2 {
+  width: 50%;
+}
+
+.photos-grid img {
+  width: 100% !important;
+  height: auto !important;
+  border: 3px solid white;
+}
