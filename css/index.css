@@ -325,7 +325,7 @@ span.intro-author {
 }
 
 .photos-grid[data-columns]::before {
-  content: '2 .column.size-1of2';
+  content: '2 .column.size-1of2'; 
 }
 
 .photos-grid .column {
@@ -339,4 +339,9 @@ span.intro-author {
   width: 100% !important;
   height: auto !important;
   border: 3px solid white;
+}
+
+.clear {
+  clear: left;
+  margin-bottom: 10px;
 }
