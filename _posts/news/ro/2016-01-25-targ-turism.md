@@ -9,9 +9,9 @@ categories:
   - news
 ---
  
-În perioada 21 - 24.1.2016 a avut loc in Helsinki la Messukeskus cel mai mare târg de turism din țările nordice. Asociația noastră a avut posibilitatea și onoarea să participe grație invitatie oferite de Suomi-Romania-Seura, care au avut un stand rezervat alături de Suomi-Moldova-seura pe toată perioada acestui târg.
+În perioada 21 - 24.1.2016 a avut loc in Helsinki la Messukeskus cel mai mare târg de turism din țările nordice. Asociația noastră a avut posibilitatea și onoarea să participe grație invitatiei oferite de Suomi-Romania-Seura, care au avut un stand rezervat alături de Suomi-Moldova-seura pe toată perioada acestui târg.
  
-Din partea asociației noastre a fost prezent Florin Dimulescu începand de vineri și pâna duminică după-amiaza. După cum s-a anunțat, asociația noastră organizează și în această vară excursii in Transilvania, iar participarea la acest târg s-a dovedit a fi un prilej perfect pentru a promova aceasta excursie. În același timp, Suomi-Romania-Seura si Suomi-Moldova-seura au promovat excursia proprie în Moldova, planificată tot pentru vara acestui an.
+Din partea asociației noastre a fost prezent Florin Dimulescu începând de vineri și până duminică după-amiaza. După cum s-a anunțat, asociația noastră organizează și în această vară excursii in Transilvania, iar participarea la acest târg s-a dovedit a fi un prilej perfect pentru a promova aceasta excursie. În același timp, Suomi-Romania-Seura si Suomi-Moldova-seura au promovat excursia proprie în Moldova, planificată tot pentru vara acestui an.
  
 Pe toată durata târgului vizitatorii finlandezi s-au dovedit foarte interesați de România, cât și de Moldova. Pentru excursia în Transilvania s-a organizat și o tombolă, a cărui câștigator va beneficia de 100 de euro reducere din pretul excursiei în cazul în care va dori să participe. Câștigatorul va fi anunțat în cursul acestei săptămâni. În mod similar, și excursia în Moldova a fost promovată printr-o tombolă.
  
