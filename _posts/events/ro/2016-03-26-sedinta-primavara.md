@@ -20,7 +20,7 @@ Ordinea de zi:
 2. Se aleg pentru ședință: președinte, secretar, două persoane care vor verifica minuta ședinței și două persoane care vor număra voturile
 3. Este declarată legalitatea ședinței și întrunirea cvorumului
 4. Se acceptă ordinea de zi
-5. Se prezintă raportul financiar 2014, raportul anual de activitate și raportul auditorilor pentru anul 2014
+5. Se prezintă raportul financiar 2015, raportul anual de activitate și raportul auditorilor pentru anul 2015
 6. Se acceptă raportul financiar și se eliberează de responsabilități consiliul de anul trecut al asociației
 7. Se discută despre inițiativele prezentate de membri pentru anul curent
 8. Se discută despre următoarele activități ale asociației
