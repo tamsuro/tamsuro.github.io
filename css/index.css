@@ -353,6 +353,6 @@ span.intro-author {
 }
 
 .photos-lonely .portrait {
-  height: 500px;
+  width: 50%;
   border: 3px solid white;
 }
