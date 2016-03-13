@@ -46,6 +46,6 @@ Primăvara poate să vină acum!
  
 Photo credits: Adriana Vasilache și Vlad Știrbu
  
-Mai multe poze mai jos. Powered by Photostovis.
+Mai multe poze mai jos. Powered by [Photostovis](http://photostovis.com).
 
 {% include photostovis.html src="https://photostovis.net/tsry/?key=0F2252FDF4272AD9C181D59C0F4A16E594A520FB56EA988CB786E104&embedded=1" %}

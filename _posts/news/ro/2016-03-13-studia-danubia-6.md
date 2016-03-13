@@ -40,8 +40,8 @@ După întâlnire am mai rămas la un pahar de vorbă, într-o atmosferă foarte
 </div>
 <div class="clear"></div>
  
-Mai jos mai multe poze de la eveniment. Powered by Photostovis.
+Mai jos mai multe poze de la eveniment. Powered by [Photostovis](http://photostovis.com).
 
-<iframe class="photostovis" width="100%" height="350" src="https://photostovis.net/tsry/?key=CF58C22591E0DD94AFF485E85475257573DD2A0456EA988C17453480&embedded=1" frameborder="0" allowfullscreen></iframe>
+{% include photostovis.html src="https://photostovis.net/tsry/?key=CF58C22591E0DD94AFF485E85475257573DD2A0456EA988C17453480&embedded=1" %}
  
  

@@ -33,13 +33,10 @@ Luentojen lopuksi rupattelua jatkettiin alakerran pubissa hyvissä tunnelmissa, 
   <img src="/assets/news/20160313/sd6/sd6.jpeg" class="portrait">
 </div>
 <div class="clear"></div>
- 
-Lisää kuvia tapahtumasta. Powered by Photostovis
 
-<iframe class="photostovis" width="100%" height="350" src="https://photostovis.net/tsry/?key=CF58C22591E0DD94AFF485E85475257573DD2A0456EA988C17453480&embedded=1" frameborder="0" allowfullscreen></iframe>
+Photo credits: Florin Lohan
  
- 
- 
- 
- 
+Lisää kuvia tapahtumasta. Powered by [Photostovis](http://photostovis.com)
+
+{% include photostovis.html src="https://photostovis.net/tsry/?key=CF58C22591E0DD94AFF485E85475257573DD2A0456EA988C17453480&embedded=1" %}
  
