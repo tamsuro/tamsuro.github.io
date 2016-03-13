@@ -3,7 +3,8 @@ layout: post
 title:  "În Moldova la Helsinki"
 author: Florin Lohan
 lang:   ro
-cover: /assets/news/20160313/sd6/cover.jpeg
+date:   2016-03-13 17:00
+cover:  /assets/news/20160313/sd6/cover.jpeg
 categories:
   - ro
   - news

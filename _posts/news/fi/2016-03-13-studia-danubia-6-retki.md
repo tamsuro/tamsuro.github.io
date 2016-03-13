@@ -3,7 +3,8 @@ layout: post
 title:  Retki Helsinkiin tapaamaan SRS:n jäseniä ja Studia Danubia 6
 author: Anne Alalantela
 lang:   fi
-cover: /assets/news/20160313/sd6/cover.jpeg
+date:   2016-03-13 17:00
+cover:  /assets/news/20160313/sd6/cover.jpeg
 categories:
   - fi
   - news
