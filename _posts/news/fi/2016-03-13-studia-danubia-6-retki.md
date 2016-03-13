@@ -25,7 +25,6 @@ Kulttuurikeskus Caisassa on erittäin siistit ja modernit tilat ja se sijaitsee 
 <div class="photos-lonely">
   <img src="/assets/news/20160313/sd6/sd5.jpeg" class="portrait">
 </div>
-
 <div class="clear"></div>
 
 Luentojen lopuksi rupattelua jatkettiin alakerran pubissa hyvissä tunnelmissa, ennen kuin pitikin jo lähteä takaisin Tampereelle. Oli oikein hauska tapaaminen SRS:n kanssa, ja hyvät luennot!
