@@ -17,9 +17,7 @@ Am avut și tombolă cu mărțișoare din România iar cei 37 de participanți a
 <div class="photos-grid" data-columns>
   <img src="/assets/news/20160313/martisor/martisor1.jpg">
   <img src="/assets/news/20160313/martisor/martisor2.jpg">
-  <img src="/assets/news/20160313/martisor/martisor3.jpg">
   <img src="/assets/news/20160313/martisor/martisor4.jpg">
-  <img src="/assets/news/20160313/martisor/martisor5.jpg">
   <img src="/assets/news/20160313/martisor/martisor6.jpg">
 </div>
 <div class="clear"></div>

@@ -10,7 +10,7 @@ categories:
   - news
 ---
 
-TSRY lähti tiistaina 23.2. 2016 kolmen hallituksen jäsenen voimin Helsinkiin tapaamaan Suomi-Romania- Seuran jäseniä ja osallistumaan Studia Danubia 6- luennolle Kulttuurikeskus Caisaan. Luento- ja keskustelutilaisuus oli kuudes osa Suomi-Romania-.Seuran yhteistyössä muiden ystävyysyhdistysten kanssa järjestämästä Studia Danubia -keskustelusarjasta, jossa pidetään noin kerran kuussa jokin ajankohtainen ja kiinnostava esitys, joka käsittelee tavalla tai toisella Tonavan alueen maiden kulttuuria, historiaa ja nykypäivää.
+TSRY lähti tiistaina 23.2. 2016 kolmen hallituksen jäsenen voimin Helsinkiin tapaamaan Suomi-Romania- Seuran jäseniä ja osallistumaan Studia Danubia 6- luennolle Kulttuurikeskus Caisaan. Luento- ja keskustelutilaisuus oli kuudes osa Suomi-Romania-Seuran yhteistyössä muiden ystävyysyhdistysten kanssa järjestämästä Studia Danubia -keskustelusarjasta, jossa pidetään noin kerran kuussa jokin ajankohtainen ja kiinnostava esitys, joka käsittelee tavalla tai toisella Tonavan alueen maiden kulttuuria, historiaa ja nykypäivää.
 
 Tapaamisemme alkoi SRS:n puheenjohtaja Jussi Tuovisen kanssa ensin Ravintola Mayasta, ja oli hauska tutustua vihdoinkin ihmiseen jonka kanssa oli tähän mennessä lähetelty vain sähköpostia. Suunnittelimme tulevaa yhteistyötä, ja vaihdoimme kuulumisia.
 
