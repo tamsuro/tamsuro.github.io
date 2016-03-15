@@ -356,3 +356,7 @@ span.intro-author {
   width: 50%;
   border: 3px solid white;
 }
+
+.photos-grid .portrait {
+  width: 56.75% !important;
+}

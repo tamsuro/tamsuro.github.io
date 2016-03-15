@@ -17,8 +17,10 @@ Am avut și tombolă cu mărțișoare din România iar cei 37 de participanți a
 <div class="photos-grid" data-columns>
   <img src="/assets/news/20160313/martisor/martisor1.jpg">
   <img src="/assets/news/20160313/martisor/martisor2.jpg">
-  <img src="/assets/news/20160313/martisor/martisor4.jpg">
+  <img src="/assets/news/20160313/martisor/martisor4.jpg" class="portrait">
   <img src="/assets/news/20160313/martisor/martisor6.jpg">
+  <img src="/assets/news/20160313/martisor/m13.jpg">
+  <img src="/assets/news/20160313/martisor/m14.jpg">
 </div>
 <div class="clear"></div>
  
@@ -28,7 +30,6 @@ Rezultatele au fost pe măsură, spre încântarea doamnelor și domnișoarelor 
   <img src="/assets/news/20160313/martisor/m1.jpg">
   <img src="/assets/news/20160313/martisor/m2.jpg">
   <img src="/assets/news/20160313/martisor/m3.jpg">
-  <img src="/assets/news/20160313/martisor/m4.jpg">
   <img src="/assets/news/20160313/martisor/m5.jpg">
   <img src="/assets/news/20160313/martisor/m6.jpg">
   <img src="/assets/news/20160313/martisor/m7.jpg">
@@ -36,7 +37,8 @@ Rezultatele au fost pe măsură, spre încântarea doamnelor și domnișoarelor 
   <img src="/assets/news/20160313/martisor/m9.jpg">
   <img src="/assets/news/20160313/martisor/m10.jpg">
   <img src="/assets/news/20160313/martisor/m11.jpg">
-  <img src="/assets/news/20160313/martisor/m12.jpg">
+  <img src="/assets/news/20160313/martisor/m15.jpg">
+  <img src="/assets/news/20160313/martisor/m12.jpg" class="portrait">
 </div>
 <div class="clear"></div>
 
