@@ -5,7 +5,8 @@ layout: event
 categories:
   - ro
   - events
-time:   "16:30 - 17:00"
+time:   "16:00 - 17:00"
+date:   2016-03-26 16:30
 media:  /assets/logo.jpg
 logo:   contain
 address: Suvantokatu 13, 2.krs.
