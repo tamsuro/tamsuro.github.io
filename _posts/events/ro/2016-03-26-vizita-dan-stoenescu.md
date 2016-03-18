@@ -18,7 +18,7 @@ Domnul ministru va prezenta strategia guvernamentală a României legată de dia
  
 Sperăm că veți veni în număr cât mai mare.
 Din partea casei se oferă cafea, ceai, suc și ceva dulce.
-Adresa este sediul asociației noastre : Centru Internațional de Activitate din Suvantokatu 13, etaj 2.
+Adresa este sediul asociației noastre : Centrul Internațional de Activitate din Suvantokatu 13, etaj 2.
  
 Vă rugăm să vă anunțați participarea urmând linkul doodle de mai jos de preferință până pe data de 23 martie pentru organizarea evenimentului în cele mai bune condiții.
 http://doodle.com/poll/xmnkhnfnziutavh4
