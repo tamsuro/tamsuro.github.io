@@ -21,7 +21,8 @@ Din partea casei se oferă cafea, ceai, suc și ceva dulce.
 Adresa este sediul asociației noastre : Centrul Internațional de Activitate din Suvantokatu 13, etaj 2.
  
 Vă rugăm să vă anunțați participarea urmând linkul doodle de mai jos de preferință până pe data de 23 martie pentru organizarea evenimentului în cele mai bune condiții.
-http://doodle.com/poll/xmnkhnfnziutavh4
+
+[http://doodle.com/poll/xmnkhnfnziutavh4](http://doodle.com/poll/xmnkhnfnziutavh4)
  
 Cu drag din partea asociației,
 
