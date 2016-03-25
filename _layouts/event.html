@@ -23,6 +23,12 @@ layout: default
     <div class="col-md-2 col-sm-3"><i class="fa fa-clock-o"></i> {{ page.time }}</div>
     {% endif %}
     {% endif %}
+    {% if page.doodle %}
+    <div class="col-md-2 col-sm-3">
+      <i class="fa fa-ticket"></i> 
+      <a href="{{ page.doodle }}">{{ site.data.translations.register[page.lang] }}</a>
+    </div>
+    {% endif %}
     {% if page.address %}
       {% if page.address-url %}
       <div class="col-md-6 col-sm-6"><i class="fa fa-map-marker"></i> <a href="{{ page.address-url }}" target="_blank">{{ page.address }}</a></div>

@@ -10,6 +10,7 @@ date:   2016-03-26 17:00
 media:  /assets/events/20160326/cover.jpg
 address: Suvantokatu 13, 2.krs.
 address-url: http://www.yritysopas.com/tampereenkansainvalinentoimintakeskus/
+doodle: http://doodle.com/poll/xmnkhnfnziutavh4 
 updates:
   - text: Minister Dan Stoenescu canceled his visit to Finland but you are still welcome to our meeting. See you tomorrow.
     date: 25.03.2016
