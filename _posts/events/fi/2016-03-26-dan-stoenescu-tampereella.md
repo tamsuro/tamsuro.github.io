@@ -10,6 +10,9 @@ date:   2016-03-26 17:00
 media:  /assets/events/20160326/cover.jpg
 address: Suvantokatu 13, 2.krs.
 address-url: http://www.yritysopas.com/tampereenkansainvalinentoimintakeskus/
+updates:
+  - text: Minister Dan Stoenescu canceled his visit to Finland but you are still welcome to our meeting. See you tomorrow.
+    date: 25.03.2016
 ---
  
 Mielenkiintoisia uutisia ensi lauantain (26.3.) kevätkokouksen tiimoilta! Nimittäin meille saapuu Ministeri Dan Stoenescu, joka on valtuutettu hoitamaan suhteita kaikkialla asuvien romanialaisten kanssa. Hänen kanssaan tapaamiseen tulevat myös Romanian suurlähettiläs Cătălin Avramescu Helsingistä, ja konsuli Silviu Jipa.
