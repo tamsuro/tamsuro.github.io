@@ -10,8 +10,11 @@ date:   2016-03-26 17:00
 media:  /assets/events/20160326/cover.jpg
 address: Suvantokatu 13, 2.krs.
 address-url: http://www.yritysopas.com/tampereenkansainvalinentoimintakeskus/
+updates:
+  - text: Domnul ministru Dan Stoenescu și-a contramandat vizita în Finlanda dar întâlnirea noastră se ține în continuare. Ne vedem mâine.
+    date: 25.03.2016
 ---
- 
+
 Sâmbătă pe 26 martie, va avea loc vizita domnului Dan Stoenescu, ministru-delegat pentru relațiile cu românii de pretutindeni în cadrul unei întâlniri cu comunitatea română din Tampere. La întâlnire vor participa și Excelența Sa domnul ambasador Cătălin Avramescu precum și domnul consul Silviu Jipa.
  
 Domnul ministru va prezenta strategia guvernamentală a României legată de diaspora iar apoi va răspunde la orice întrebări legate de viața diasporei (reprezentare, servicii consulare, vot la distanță etc).

@@ -31,5 +31,11 @@ layout: default
       {% endif %}
     {% endif %}
   </div>
+  {% for update in page.updates %}
+  <p>
+    <strong>Update ({{ update.date }}):</strong>
+    <span>{{ update.text }}</span>
+  </p>
+  {% endfor %}
   <div>{{ content }}</div>
 </div>
