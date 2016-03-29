@@ -62,7 +62,7 @@ _Intrarea liberă_.
 pot fi obținute de la:
 
 -      Ioana Leca, coordonator de proiect ICR Stockholm [ioana.leca@rkis.se](mailto:ioana.leca@rkis.se), +46 8 20 76 00
--      Silviu Jipa, consilier diplomatic, Ambasada României la Helsinki, [silviu.jipa@romania.fi](silviu.jipa@romania.fi), 092414414
+-      Silviu Jipa, consilier diplomatic, Ambasada României la Helsinki, [silviu.jipa@romania.fi](mailto:silviu.jipa@romania.fi), 092414414
  
  
 Institutul Cultural Român de la Stockholm, singura filială ICR din Nordul Europei, urmăreşte extinderea activităţii sale şi în alte ţări limitrofe Suediei.

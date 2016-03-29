@@ -16,4 +16,4 @@ Yhdistyksen puolesta tarjoamme laskiaspullaa, lämmintä mehua ja viiniä.
 
 Puistossa on mäen lisäksi pieni luistelukenttä, joten mukaan voi ottaa pulkan lisäksi myös luistimet.
  
-Ilmoittautuminen 3.2.mennessä [elenn.stirbu@gmail.com](mailto:elenn.stirbu@gmail.com) tai [anne.alalantela@gmail.com](anne.alalantela@gmail.com).
+Ilmoittautuminen 3.2.mennessä [elenn.stirbu@gmail.com](mailto:elenn.stirbu@gmail.com) tai [anne.alalantela@gmail.com](mailto:anne.alalantela@gmail.com).

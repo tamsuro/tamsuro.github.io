@@ -33,4 +33,4 @@ Elenn Grațiela Știrbu ja Anne Alalantela
  
 Tampereen Suomi-Romania yhdistys ry
 Suvantokatu 13, 2.krs, 33100 Tampere
-[www.suomi-romania.fi](www.suomi-romania.fi)
+[www.suomi-romania.fi](http://www.suomi-romania.fi)
