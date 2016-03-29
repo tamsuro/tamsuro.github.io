@@ -1,7 +1,7 @@
 ---
 layout: story
 title:  Despre Jukka Havu, principalul promotor al înființării lectoratului de limba română la Universitatea din Tampere
-subtitle: Interviu cu Jukka Savu
+subtitle: Interviu cu Jukka Havu
 author: Elenn Grațiela Știrbu
 cover: /assets/stories/jukka-havu/JH-Uni-Tampere.jpg
 lang:   ro
