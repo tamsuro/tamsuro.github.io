@@ -90,5 +90,7 @@ __J.__: În ultima vreme am ascultat mult „muzica de odinioară”, muzică u�
  
 __E.__: _Mulțumesc frumos pentru acest interviu, Jukka. Ai avea câteva cuvinte de încheiere de adresat membrilor asociației noastre?_
  
-__J.__: Este o asociație extrem de activă și dinamică. Ceea ce face asociația voastră (de fapt, și a mea; sunt membru) este exact ceea ce trebuie să se facă pentru a generaliza o imagine pozitivă a României. Eu din partea mea vreau să mulțumesc echipei voastre pentru toate activitățile; admir foarte mult energia ta și toate inițiativele tale atât de personale și bine gândite. Aportul tău este fundamental pentru asociație.
+__J.__: Este o asociație extrem de activă și dinamică. Ceea ce face asociația voastră (de fapt, și a mea; sunt membru) este exact ceea ce trebuie să se facă pentru a generaliza o imagine pozitivă a României. Eu din partea mea vreau să mulțumesc echipei voastre pentru toate activitățile; admir foarte mult energia ta și toate inițiativele tale atât de personale și bine gândite. Aportul tău este fundamental pentru asociație, vă doresc mult succes în continuare.
+
+__E.__: _Ești foarte amabil, mulțumim pentru încurajări și sperăm să te vedem cât mai des alături de noi._
  
