@@ -19,11 +19,11 @@ Cursul este gratuit pentru membrii asociației, pentru alți participanți se pe
 
 Datele cursului și tematica:
 
- --- | --- | ---  
-4 mai | 17:00 – 18:30 |  Agenda mea, lector invitat Andra Cozlean de la Universitatea din Tampere  
-12 mai | 17:00 – 18:30 |  Limba română vorbită, registrul familiar, Elenn Grațiela Știrbu  
-17 mai | 17:00 – 18:30 | Particularități regionale ale limbii române, Elenn Grațiela Știrbu  
-26 mai | 17:00 – 19:00 | Lecția de bucătărie – vom pregăti două specialități românești (una dintre ele vegetariană) și apoi le vom degusta împreună.  
+--- | --- | ---
+4 mai | 17:00 – 18:30 |  _Agenda mea_, lector invitat Andra Cozlean de la Universitatea din Tampere
+12 mai | 17:00 – 18:30 |  Limba română vorbită, registrul familiar, Elenn Grațiela Știrbu
+17 mai | 17:00 – 18:30 | Particularități regionale ale limbii române, Elenn Grațiela Știrbu
+26 mai | 17:00 – 19:00 | Lecția de bucătărie – vom pregăti două specialități românești (una dintre ele vegetariană) și apoi le vom degusta împreună.
 
 Bun venit!
 
