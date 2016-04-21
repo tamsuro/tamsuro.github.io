@@ -25,6 +25,6 @@ Datele cursului și tematica:
 17 mai | 17:00 – 18:30 | Particularități regionale ale limbii române, Elenn Grațiela Știrbu
 26 mai | 17:00 – 19:00 | Lecția de bucătărie – vom pregăti două specialități românești (una dintre ele vegetariană) și apoi le vom degusta împreună.
 
-Înscrierile până pe 30 aprilie la [elenn.stirbu@mail.com](mailto:elenn.stirbu@mail.com).
+Înscrierile până pe 30 aprilie la [elenn.stirbu@gmail.com](mailto:elenn.stirbu@gmail.com).
 
 Bun venit!
