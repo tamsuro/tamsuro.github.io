@@ -17,11 +17,13 @@ Orele vor avea loc la sediul asociației din Suvantokatu 13, Tampere.
 
 Cursul este gratuit pentru membrii asociației, pentru alți participanți se percepe o taxă de 20 de euro în vederea contribuirii la costurile chiriei spațiului.
 
-Datele cursului și tematica :
-4 mai 17:00 – 18:30:  Agenda mea, lector invitat Andra Cozlean de la Universitatea din Tampere
-12 mai 17:00 – 18:30:  Limba română vorbită, registrul familiar, Elenn Grațiela Știrbu
-17 mai 17:00 – 18:30: Particularități regionale ale limbii române, Elenn Grațiela Știrbu
-26 mai 17:00 – 19:00: Lecția de bucătărie – vom pregăti două specialități românești (una dintre ele vegetariană) și apoi le vom degusta împreună.
+Datele cursului și tematica:
+
+ --- | --- | ---  
+4 mai | 17:00 – 18:30 |  Agenda mea, lector invitat Andra Cozlean de la Universitatea din Tampere  
+12 mai | 17:00 – 18:30 |  Limba română vorbită, registrul familiar, Elenn Grațiela Știrbu  
+17 mai | 17:00 – 18:30 | Particularități regionale ale limbii române, Elenn Grațiela Știrbu  
+26 mai | 17:00 – 19:00 | Lecția de bucătărie – vom pregăti două specialități românești (una dintre ele vegetariană) și apoi le vom degusta împreună.  
 
 Bun venit!
 
