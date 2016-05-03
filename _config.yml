@@ -7,7 +7,7 @@ timezone:         Europe/Helsinki
 
 exclude:          [Gemfile, Gemfile.lock, README.md, CNAME, bower_components, bower.json, node_modules, package.json]
 
-markdown:         kramdown
+#markdown:         kramdown
 
 gems:
   - jemoji
