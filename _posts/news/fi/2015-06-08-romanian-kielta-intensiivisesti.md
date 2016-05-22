@@ -26,7 +26,7 @@ Toukokuussa Tampereen Suomi-Romania-yhdistyksessä opiskeltiin romanian kieltä 
   </div>
 </div>
 
-Opettajanamme toimi Ahjolassakin meidän kurssiamme luotsaava TSRY:n puheenjohtaja Elenn Stirbu. Hänen lisäkseen saimme vieraaksemme myös muita luennoitsijoita ja opettajia. Camelia Ghido kävi esittelemässä romanialaista puhekulttuuria ja sen eroja suomalaiseen puhekulttuuriin. Florin Dimulescu käsitteli alkeiskurssilla tervehdyksiä ja esittäytymistä romanian kielessä. Professori Jukka Havu Tampereen yliopistosta taas toi tieteellistä näkökulmaa kielenoppimiseen yleensä sekä myös siihen, mitkä asiat romanian kielessä ovat haastavia nimenomaan suomenkieliselle oppijalle. Raluca Cenan-Niemi opasti meitä Romanian ruokakulttuurin saloihin ja ruoka- ja ravintolasanastoon niin perusteellisesti ja käytännönläheisesti, että on opiskelijan oma häpeä, jos joutuu näkemään nälkää seuraavalla Romanian reissullaan.  
+Opettajanamme toimi Ahjolassakin meidän kurssiamme luotsaava TSRY:n puheenjohtaja Elenn Stirbu. Hänen lisäkseen saimme vieraaksemme myös muita luennoitsijoita ja opettajia. Meille esitettiin myös romanialaista puhekulttuuria ja sen eroja suomalaiseen puhekulttuuriin. Florin Dimulescu käsitteli alkeiskurssilla tervehdyksiä ja esittäytymistä romanian kielessä. Professori Jukka Havu Tampereen yliopistosta taas toi tieteellistä näkökulmaa kielenoppimiseen yleensä sekä myös siihen, mitkä asiat romanian kielessä ovat haastavia nimenomaan suomenkieliselle oppijalle. Raluca Cenan-Niemi opasti meitä Romanian ruokakulttuurin saloihin ja ruoka- ja ravintolasanastoon niin perusteellisesti ja käytännönläheisesti, että on opiskelijan oma häpeä, jos joutuu näkemään nälkää seuraavalla Romanian reissullaan.  
 
 <div class="row">
   <div class="col-md-3">

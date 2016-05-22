@@ -18,7 +18,7 @@ categories:
 
 <div class="clear"></div>
  
-În afară de subsemnata (de fapt suprasemnată) participanții s-au bucurat de cursuri susținute de Raluca Cenan-Niemi, care predă româna ca limbă materna copiilor din Tampere, Diana Camelia Ghido, cercetător în domeniul lingvisticii și al comunicării, profesor Jukka Havu de la Universitatea din Tampere, românofil și românofon, și Florin Dimulescu, autorul unui dicționar roman-finlandez-român printer altele.
+În afară de subsemnata (de fapt suprasemnată) participanții s-au bucurat de cursuri susținute de Raluca Cenan-Niemi, care predă româna ca limbă materna copiilor din Tampere, profesor Jukka Havu de la Universitatea din Tampere, românofil și românofon, și Florin Dimulescu, autorul unui dicționar roman-finlandez-român printer altele.
  
 Printre participanți s-au numărat Leena, Anja, Carina, Anne, Marika, Anna, și Elise, studente de la Universitatea Populară Ahjola, dar și Raija, Viljami și Mari, studenți de Universitatea UTA, precum și Anne V., profesoară de franceză și spaniolă și membră a asociației noastre.
  
