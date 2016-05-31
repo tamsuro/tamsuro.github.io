@@ -21,3 +21,4 @@ Sâmbătă pe 11 iunie asociațiile Suomi-Romania-Seura și Suomi-Moldova-seura 
 18.15 | Saună și program musical la sauna Rajaportti, Pispalan valtatie 9, Tampere (sauna 8 €/persoană, cina se plătește de către participanți)
 
 - Înscrierile participanților de la Tampereen Suomi-Romania se fac pe email la secretara noastră Anne Alalantela, anne.alalantela@gmail.com. În momentul înscrierii vă rugăm să specificați la care dintre activități doriți să participați.
+
