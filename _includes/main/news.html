@@ -1,5 +1,6 @@
 <div id="news" class="main-section">
   <div class="container">
+    {% assign news-index = 0 %}
     {% for section in site.data.sections %}
     {% if section.id == 'news' %}
     <h2>{{ section.heading[page.lang] }}</h2>
@@ -8,7 +9,7 @@
     <div class="columns" data-columns>
       {% for post in site.categories.news %}
       {% if page.lang == post.lang %}
-      {% increment news-index %}
+      {% assign news-index = news-index | plus: 1 %}
       {% if news-index <= 12 %}
       {% include cards/news.html %}
       {% endif %}

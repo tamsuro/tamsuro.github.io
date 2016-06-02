@@ -1,5 +1,6 @@
 <div id="calendar" class="main-section">
   <div class="container">
+    {% assign event-index = 0 %}
     {% for section in site.data.sections %}
     {% if section.id == 'calendar' %}
     <h2>{{ section.heading[page.lang] }}</h2>
@@ -10,7 +11,7 @@
       {% for event in site.categories.events %}
       {% if event.lang == page.lang %}
       {% unless event.redirect %}
-      {% increment event-index %}
+      {% assign event-index = event-index | plus: 1 %}
       {% if event-index <= 12 %}
       {% include cards/event.html %}
       {% endif %}
