@@ -13,7 +13,7 @@ Sâmbătă pe 11 iunie asociațiile Suomi-Romania-Seura și Suomi-Moldova-seura 
 &nbsp; | Program
 --- |---
 10.40 | Prezentarea colecției de carte românească la biblioteca din Toijala (Köyvärintie 1) (intrare liberă)
-11.30 | Vernisajul expoziției comune O zi minunată, a asociațiilor Tampereen Suomi-Romania și Suomi-Romania-Seura la biblioteca din Viiala. În cadrul vernisajul Daniela Balog ne va vorbi despre ceramic de la Horezu care face parte din patrimonial cultural UNESCO (în finlandeză) iar Violeta Badea despre simbolistica motivelor prezente pe iile românești (în engleză). 
+11.30 | Vernisajul expoziției comune O zi minunată, a asociațiilor Tampereen Suomi-Romania și Suomi-Romania-Seura la biblioteca din Viiala. În cadrul vernisajul Daniela Balog ne va vorbi despre ceramic de la Horezu care face parte din patrimonial cultural UNESCO (în finlandeză). Vom avea și o prezentare <q>Despre etnografie şi costumul popular românesc</q>. 
 12.30 | Vizionarea expoziției. Cele două asociații vor oferi membrilor participanți o gustare. 
 13.00 | Vizită la fabrica de bere artizanală Hopping Brewsters, Satamatie 41 (lângă complexul ABC), prezentarea fabricii și degustări celor interesați (10 €/persoană, există și variante fără alcool, plata se face în numerar direct acolo) 
 14.45 | Vizită la Muzeul Poliției din Tampere (intrarea liberă)

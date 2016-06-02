@@ -13,7 +13,7 @@ Lämpimästi tervetuloa Suomi-Romania-Seuran, Tampereen Suomi-Romania-yhdistykse
 &nbsp; | Ohjelma
 --- | ---
 10.40 | Tutustuminen Toijalan kirjaston romaniankieliseen kirjakokoelmaan, Köyvärintie 1 (maksuton)
-11.30 | Romanialais-suomalaisen taidenäyttelyn avajaiset Viialan kirjastossa Vilkussa, Solmukatu, juhlapuhujat: BA Daniela Balog: Horezun keramiikka, UNESCO:n aineeton kulttuuriperintökohde (suomeksi); MA Violeta Badea: The symbolics of the patterns on the Romanian blouses (in English)
+11.30 | Romanialais-suomalaisen taidenäyttelyn avajaiset Viialan kirjastossa Vilkussa, Solmukatu, juhlapuhujat: BA Daniela Balog: Horezun keramiikka, UNESCO:n aineeton kulttuuriperintökohde (suomeksi); About ethnography and the Romanian folk costume (in English)
 12.30 | Tutustuminen näyttelyyn romanialaisen pikkupurtavan kera (seurat tarjoavat)
 13.00 | Tutustuminen Hopping Brewsters –pienpanimoon, Satamatie 41 (ABC-aseman lähellä), panimon esittely ja maistiaisia halukkaille (10 €/hlö, myös alkoholittomia vaihtoehtoja, maksetaan paikan päällä käteisellä!) 
 14.00 | Siirtyminen Suomen poliisimuseoon Hervantaan, Vaajakatu 2
