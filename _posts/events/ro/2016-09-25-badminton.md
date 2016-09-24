@@ -1,5 +1,5 @@
 ---
-title:        "Sulkapalloa sunnuntaina & Duminică avem badminton"
+title:        "Duminică avem badminton"
 lang:         ro
 layout:       event
 categories:
@@ -10,6 +10,7 @@ media:        /assets/events/covers/20160925.jpg
 address:      Tenniskeskus, Toimelankatu 8, Tampere
 address-url:  https://goo.gl/maps/oAtZFaBFqpT2
 doodle:       http://doodle.com/poll/yibcvtfz7qmrvq2r
+social:       Duminică merg la badminton
 ---
 
 Duminică avem ora de badminton la centrul de tenis Tenniskeskus din Tampere. Sunt 16 locuri disponibile, în ordinea înscrierii pe [doodle](http://doodle.com/poll/yibcvtfz7qmrvq2r).
