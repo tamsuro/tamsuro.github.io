@@ -1,5 +1,5 @@
 ---
-layout: default
+layout:   default
 ---
 
 <div class="container event-page">
@@ -44,4 +44,11 @@ layout: default
   </p>
   {% endfor %}
   <div>{{ content }}</div>
+  {% if page.social %}
+  <div>
+    <span>{{ site.data.translations.social[page.lang] }}&nbsp;</span>
+    <a href="http://www.facebook.com/sharer/sharer.php?u=http://www.suomi-romania.fi{{page.url | uri_escape}}" class="share" target="_target"><i class="fa fa-facebook-square"></i></a>&nbsp;
+    <a class="share" target="_blank" href="https://twitter.com/share?text={{page.social}}&amp;url=http://www.suomi-romania.fi{{page.url | uri_escape}}"><i class="fa fa-twitter"></i></a>
+  </div>
+  {% endif %}
 </div>

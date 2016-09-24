@@ -60,6 +60,12 @@
     };
     </script>
     {% endif %}
+
+    {% if page.categories contains 'events' %}
+    {% include custom-popup.html %}
+    {% endif %}
+
+    
     
     <script src="/js/index.js"></script>
     

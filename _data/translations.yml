@@ -30,4 +30,13 @@ old-events:
 old-news:
   fi: Vanhemmat artikkeleita
   ro: Articole anterioare
+
+register:
+  en:
+  fi: osallistu
+  ro: participă
+
+social:
+  fi: Kerro ystävälle
+  ro: Anunță-ți prietenii
 ---
