@@ -360,3 +360,8 @@ span.intro-author {
 .photos-grid .portrait {
   width: 56.75% !important;
 }
+
+.social-share {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
