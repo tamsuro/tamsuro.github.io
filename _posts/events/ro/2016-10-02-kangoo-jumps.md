@@ -13,9 +13,9 @@ doodle:       http://doodle.com/poll/kdzi5gea8by6q2ds
 ---
 
 Duminică pe 2 octombrie vă invităm la o super activitate cu sărituri de cangur și multă distracție. 
-Activitatea este oferită de Veronica Deac, care o să vină cu ghetele săritoare tocmai din Turku. :)
+Activitatea este oferită de Veronica Deac, care o să vină cu ghetele săritoare tocmai din [Turku](https://en.wikipedia.org/wiki/Turku). :)
 
-Despre Kangoo jumps și clubul Veronicăi găsiți informații pe [web](www.kangooclubturku.fi) sau pe pagina ei de [Facebook](www.facebook.com/kangooclubfitsuomi).
+Despre Kangoo jumps și clubul Veronicăi găsiți informații pe [web](http://www.kangooclubturku.fi) sau pe pagina ei de [Facebook](https://www.facebook.com/kangooclubfitsuomi).
 
 Ora este gratuită, este necesar doar să vă închiriați ghetele.
 
