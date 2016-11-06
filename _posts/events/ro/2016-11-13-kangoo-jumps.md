@@ -1,5 +1,5 @@
 ---
-title:        "Ora de Kangoo Jumps"
+title:        "Kangoo Jumps din nou"
 lang:         ro
 layout:       event
 categories:
