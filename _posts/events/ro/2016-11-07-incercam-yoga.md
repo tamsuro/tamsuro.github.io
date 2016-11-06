@@ -1,5 +1,5 @@
 ---
-title:        "Incercam yoga!"
+title:        "Încercam yoga!"
 lang:         ro
 layout:       event
 categories:
