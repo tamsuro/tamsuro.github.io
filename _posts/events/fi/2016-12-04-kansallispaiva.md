@@ -5,7 +5,7 @@ layout:     event
 categories:
   - fi
   - events
-time:       "16:30 - 20:30"
+time:       "16:00 - 20:00"
 logo:       contain
 address:    Nikolainsali, Tuomiokirkonkatu 27, Tampere
 address-url:  https://goo.gl/maps/dry2RpLcFH22
