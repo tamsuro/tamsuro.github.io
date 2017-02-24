@@ -15,15 +15,6 @@ function test() {
   console.log(languages);
 }
 
-var site = {
-  posts: [
-    {% for post in site.posts %}{
-      title: "{{ post.title }}",
-      lang: "{{ post.lang }}"
-    },{% endfor %}{% unless forloop.last %},{% endunless %}
-  ]
-}
-
 console.log(site);
 
 var tables = document.getElementsByTagName('table')
