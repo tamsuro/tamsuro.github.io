@@ -1,37 +1,49 @@
 ---
 - fi: Tammikuu
   ro: Ianuarie
+  en: January
 
 - fi: Helmikuu
   ro: Februarie
+  en: February
 
 - fi: Maaliskuu
   ro: Martie
+  en: March
 
 - fi: Huhtikuu
   ro: Aprilie
+  en: April
 
 - fi: Toukokuu
   ro: Mai
+  en: May
 
 - fi: Kesäkuu
   ro: Iunie
+  en: June
 
 - fi: Heinäkuu
   ro: Iulie
+  en: July
 
 - fi: Elokuu
   ro: August
+  en: August
 
 - fi: Syyskuu
   ro: Septembrie
+  en: September
 
 - fi: Lokakuu
   ro: Octombrie
+  en: October
 
 - fi: Marraskuu
   ro: Noiembrie
+  en: November
 
 - fi: Joulukuu
   ro: Decembrie
+  en: December
 ---
