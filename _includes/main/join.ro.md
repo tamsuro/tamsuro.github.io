@@ -8,7 +8,7 @@
 </li>
 </ul>
 
-<p><strong>Cotizația anuală pentru 2016 este de 20 de euro/adult. Cotizația pentru partener sau un al doilea membru al familiei este de 10 euro.</strong></p>
+<p><strong>Cotizația anuală pentru 2017 este de 20 de euro/adult. Cotizația pentru partener sau un al doilea membru al familiei este de 10 euro.</strong></p>
 
 <p>Plata se poate efectua prin transfer bancar sau în numerar în cadrul întâlnirilor asociației.</p>
 
