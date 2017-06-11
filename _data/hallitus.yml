@@ -31,14 +31,7 @@
     
 - name: Tommi Hirvelä
 
-- name: Avadora Dumitrescu
-
-- role: deputy
-  name: Vlad Știrbu
-  label:
-    ro: Membru supleant
-    fi: Varajäsen
-    en: Alternate member
+- name: Stefan Smirnov
     
 - role: deputy
   name: Florin Dimulescu
@@ -48,7 +41,7 @@
     en: Alternate member
     
 - role: deputy
-  name: Stefan Smirnov
+  name: Avadora Dumitrescu
   label:
     ro: Membru supleant
     fi: Varajäsen

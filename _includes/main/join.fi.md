@@ -15,6 +15,6 @@ Jäsenmaksu on 20 € / vuosi. Jäsenen puolisolle / avopuolisolle / perheenjäs
 
 <p>Saaja: Tampereen Suomi-Romania yhdistys ry<br>
 Pankkitili: FI39 4726 5020 0316 41<br>
-Viestinä: oma nimi jäsenmaksu 2016</p>
+Viestinä: oma nimi jäsenmaksu 2017</p>
 
 <p>Maksun jälkeen pyydämme että laitat meille viestin osoitteeseen: tampereen.suomi.romania@gmail.com, jossa maininta miltä alueelta olet.</p>
