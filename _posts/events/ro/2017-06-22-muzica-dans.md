@@ -10,7 +10,7 @@ media:        /assets/events/covers/20170622.jpeg
 address:      Kirskaanniemi, Lemppäälä
 ---
 
-Sâmbătă, de Juhannus și de Ziua Universală a Iei Asociația Culturală Română din Heslinki ne aduce musafiri din România.
+Sâmbătă, de Juhannus și de Ziua Universală a Iei Asociația Culturală Română din Helsinki ne aduce musafiri din România.
 
 Este vorba despre trupa de actorie Arca din Constanța. Turul lor se numește Iunie călător și ei ne vor prezenta un program de muzică și dans. Motto-ul lor este <q>Dobrogea, model de conviețuire interetnică</q>. Grupul este format din 12 copii, coordonat de dl Dan Cojocaru, actor al Teatrului de Stat din Constanţa și va fi însoțit și de dna psiholog Mirela Tanislav.
 
