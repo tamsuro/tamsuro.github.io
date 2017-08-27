@@ -9,8 +9,8 @@ exclude:          [Gemfile, Gemfile.lock, README.md, CNAME, bower_components, bo
 
 #markdown:         kramdown
 
-gems:
-  - jemoji
+plugins:
+  # - jemoji
   
 excerpt_separator: <!--more-->
 
