@@ -5,7 +5,7 @@ layout:       event
 categories:
   - fi
   - events
-time:         "17:00-20:00"
+time:         "18:00-20:00"
 media:        /assets/logo.jpg
 logo:         contain
 address:      Suvantokatu 13, 2.krs.
