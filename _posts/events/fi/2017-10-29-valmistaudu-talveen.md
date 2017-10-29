@@ -1,5 +1,5 @@
 ---
-title:        "Valmistaudu talvelle!"
+title:        "Valmistaudu talveen!"
 lang:         fi
 layout:       event
 categories:
