@@ -20,4 +20,4 @@ Evenimentul este dedicat membrilor asociației și famiilor acestora, dar puteț
 
 Dat fiind că asociația va face plata chiriei pentru cabană în funcție de numărul de participanți, vă rugăm să vă anunțați participarea la linkul de mai jos dacă se poate până pe data de 13.12. Vă mulțumim anticipat.
 
-Înscriere înainte de 13.12: [https://doodle.com/poll/fze4duc477sy4k4k](https://doodle.com/poll/fze4duc477sy4k4k).
+Înscriere înainte de 15.12: [https://doodle.com/poll/fze4duc477sy4k4k](https://doodle.com/poll/fze4duc477sy4k4k).

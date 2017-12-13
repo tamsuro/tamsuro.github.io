@@ -16,4 +16,4 @@ Tampereen Suomi Romania Yhdistyksen pikkujoulut lähestyvät! Jos ei vielä ole 
 
 Tapahtuma on yhdistyksen jäsenille ja perheille, mutta voit myös ottaa mukaan ystäväsi.
 
-Ilmoittautumiset seuraavan linkin kautta 13.12.mennessä: [https://doodle.com/poll/fze4duc477sy4k4k](https://doodle.com/poll/fze4duc477sy4k4k).
+Ilmoittautumiset seuraavan linkin kautta 15.12.mennessä: [https://doodle.com/poll/fze4duc477sy4k4k](https://doodle.com/poll/fze4duc477sy4k4k).
