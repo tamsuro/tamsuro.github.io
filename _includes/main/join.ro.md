@@ -8,7 +8,7 @@
 </li>
 </ul>
 
-<p><strong>Cotizația anuală pentru 2017 este de 20 de euro/adult. Cotizația pentru partener sau un al doilea membru al familiei este de 10 euro.</strong></p>
+<p><strong>Cotizația anuală pentru 2018 este de 20 de euro/adult. Cotizația pentru partener sau un al doilea membru al familiei este de 10 euro.</strong></p>
 
 <p>Plata se poate efectua prin transfer bancar sau în numerar în cadrul întâlnirilor asociației.</p>
 
@@ -16,6 +16,6 @@
 
 <p><strong>Cont bancar: FI39 4726 5020 0316 41</strong></p>
 
-<p><strong>Mesaj: numele dumneavoastră complet cotizație 2017</strong></p>
+<p><strong>Mesaj: numele dumneavoastră complet cotizație 2018</strong></p>
 
 <p>După ce plătiți cotizația este necesar să trimiteți email la adresa <a href="mailto:tampereen.suomi.romania@gmail.com">noastră</a> (tampereen.suomi.romania@gmail.com) în care să specificați localitatea dumneavoastră de reședință.</p>
