@@ -15,8 +15,6 @@ function test() {
   console.log(languages);
 }
 
-console.log(site);
-
 var tables = document.getElementsByTagName('table')
 
 if (tables.length) {

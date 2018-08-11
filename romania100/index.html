@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script>
+    var selected_language = localStorage.getItem('selected_language'),
+        navigator_language = window.navigator.userLanguage || window.navigator.language,
+        location;
+    
+    var target = '/news/2018/08/11/romania-100.html';
+
+    if (selected_language) {
+      location = '/' + selected_language + target;
+    } else {
+      if (navigator_language.indexOf('ro-') === 0) {
+        location = '/ro' + target;
+      } else {
+        location = '/fi' + target;
+      }
+    console.log(location);
+    }
+  </script>
+</head>
+
+</html>

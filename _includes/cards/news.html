@@ -1,6 +1,9 @@
 <div class="panel panel-default">
-  <div class="cal-heading cal-heading-cover" style="background-image: url({{ post.cover }});">
-  </div>
+  {% if post.logo == 'contain' %}
+  <div class="cal-heading cal-heading-contain" style="background-image: url({{ post.cover }});"></div>
+  {% else %}
+  <div class="cal-heading cal-heading-cover" style="background-image: url({{ post.cover }});"></div>
+  {% endif %}
   <div class="panel-body">
     <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
     {% if post.summary %}
