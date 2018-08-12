@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Romanialaisia Elokuvia Tampereella
-author: Asociatia
 lang:   fi
 date:   2018-08-12
 cover:  /assets/news/niagara.jpg
