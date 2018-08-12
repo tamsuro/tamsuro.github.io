@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Zilele filmului românesc în Tampere
-author: Asociatia
 lang:   ro
 date:   2018-08-12
 cover:  /assets/news/niagara.jpg
