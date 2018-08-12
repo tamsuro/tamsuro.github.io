@@ -7,7 +7,7 @@
         navigator_language = window.navigator.userLanguage || window.navigator.language,
         location;
     
-    var target = '/news/2018/08/11/romania-100.html';
+    var target = '{{ page.target }}';
 
     if (selected_language) {
       location = '/' + selected_language + target;
