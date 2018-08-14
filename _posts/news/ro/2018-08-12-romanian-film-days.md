@@ -9,6 +9,8 @@ categories:
   - news
 ---
 
+În cadrul proiectului aniversar Romania 100 organizat de asociația noastră cu ocazia Centenarului Marii Uniri, în această toamnă vă propunem _Zilele filmului românesc_ în Tampere, la Cinematograful de Artă Niagara. Evenimentul constă într-o serie de patru filme românești recente. Detalii mai jos, vizionare plăcută!
+
 ### Câinele japonez
 
 Bătrânul Costache Moldu și-a pierdut soția, casa și agoniseala de-o viață, în urma unei inundații. Întoarcerea neașteptată a fiului său, Ticu, din Japonia, alături de soție și băiat, îi va pune pe amândoi în situația în care trebuie să reînvețe să comunice, să redevină o familie. Costache învață să devină un bunic adevărat pentru nepotul lui de 7 ani iar Ticu repară greșelile trecutului. Un film delicat și tandru despre reconciliere familială.

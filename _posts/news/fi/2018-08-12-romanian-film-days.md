@@ -9,6 +9,8 @@ categories:
   - news
 ---
 
+Romanialaisia elokuvia Tampereella" on yksi viidestä tapahtumasta, jotka Tampereen Suomi - Romania yhdistys järjestää tänä vuonna. Tapahtumien tarkoituksena on juhlia kulunutta 100 vuotta Suuresta liitosta, jolloin Romanian valtio syntyi. Tapahtuman kautta tamperelaiset pääsevät tutustumaan romanialaiseen elokuvataiteeseen sekä muihin Romanian kulttuurisiin näkökohtiin. Tapahtumassa on neljä viimeaikaista romanialaista elokuvaa Transilvania International Film Festival -festivaalista.
+
 ### Japanilainen koira
 
 Kun Costache Modun kylään iskee tulva, hän menettää talonsa, elämäntyönsä ja vaimonsa Marian. Vanha Costache ei suostu myymään maatilkkuaan, sillä tontin lisäksi hänellä on vain etääntynyt poika Tokiossa. Kun Ticu kuulee äitinsä kuolemasta, hän saapuu yllättäen kotiin japanilaisen vaimonsa ja 7-vuotiaan poikansa kanssa. Perhe yrittää taivutella Costachea mukanaan Japaniin, mutta helppoa se ei ole. Câinele japonez on herkkä ja elokuva sovinnosta.
