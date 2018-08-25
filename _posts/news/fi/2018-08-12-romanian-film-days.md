@@ -9,7 +9,7 @@ categories:
   - news
 ---
 
-Romanialaisia elokuvia Tampereella" on yksi viidestä tapahtumasta, jotka Tampereen Suomi - Romania yhdistys järjestää tänä vuonna. Tapahtumien tarkoituksena on juhlia kulunutta 100 vuotta Suuresta liitosta, jolloin Romanian valtio syntyi. Tapahtuman kautta tamperelaiset pääsevät tutustumaan romanialaiseen elokuvataiteeseen sekä muihin Romanian kulttuurisiin näkökohtiin. Tapahtumassa on neljä viimeaikaista romanialaista elokuvaa Transilvania International Film Festival -festivaalista.
+_Romanialaisia elokuvia Tampereella_ on yksi viidestä tapahtumasta, jotka Tampereen Suomi - Romania-yhdistys järjestää tänä vuonna. Tapahtumien tarkoituksena on juhlia kulunutta 100 vuotta Suuresta liitosta, jolloin Romanian valtio syntyi. Tapahtuman kautta tamperelaiset pääsevät tutustumaan romanialaiseen elokuvataiteeseen sekä muihin Romanian kulttuurisiin näkökohtiin. Tapahtumassa on neljä viimeaikaista romanialaista elokuvaa Transilvania International Film Festival -festivaalista.
 
 ### Japanilainen koira
 
