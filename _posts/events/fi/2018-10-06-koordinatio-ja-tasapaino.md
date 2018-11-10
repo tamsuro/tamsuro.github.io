@@ -6,7 +6,7 @@ categories:
   - fi
   - events
 time:  " 17:15 - 18:30"
-media: /assets/events/covers/20180106.jpg
+media: /assets/events/covers/20181006.jpg
 address: Linnainmaan Koulu, Linnainmaankatu 12, 33580 Tampere
 address-url: https://goo.gl/maps/N93x4ARL4u82
 doodle: https://doodle.com/poll/evd4q2fi6ubftm64
