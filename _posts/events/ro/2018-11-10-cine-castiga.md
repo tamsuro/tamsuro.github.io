@@ -1,9 +1,9 @@
 ---
 title:  'Cine câștigă?'
-lang:   fi
+lang:   ro
 layout: event
 categories:
-  - fi
+  - ro
   - events
 time:  " 17:15 - 18:30"
 media: /assets/events/covers/20181110.jpg
