@@ -6,7 +6,7 @@ categories:
   - ro
   - events
 time: '16:30 - 17:30'
-media: /assets/events/covers/20180325.jpg
+media: /assets/events/covers/20190303.jpg
 address: Tenniskeskus, Toimelankatu 8, Tampere
 address-url: https://goo.gl/maps/oAtZFaBFqpT2
 doodle: https://doodle.com/poll/uph3wdm7qrbbpck9
