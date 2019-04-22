@@ -31,7 +31,7 @@
     
 - name: Tommi Hirvelä
 
-- name: Stefan Smirnov
+- name: Aurelian Pop
     
 - role: deputy
   name: Florin Dimulescu
@@ -41,7 +41,7 @@
     en: Alternate member
     
 - role: deputy
-  name: Avadora Dumitrescu
+  name: Mihai Dumitrescu
   label:
     ro: Membru supleant
     fi: Varajäsen
