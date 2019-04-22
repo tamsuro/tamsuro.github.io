@@ -5,60 +5,83 @@
     <div class="row">
       <div class="col-md-3 col-md-offset-2 col-sm-3 col-sm-offset-2">
         <div>
-        {% case page.lang %}
-          {% when 'en' %}
-            <strong>Useful links</strong>
+          {% case page.lang %} {% when 'en' %}
+          <strong>Useful links</strong>
           {% when 'fi' %}
-            <strong>Hyödyllisiä linkkejä</strong>
+          <strong>Hyödyllisiä linkkejä</strong>
           {% when 'ro' %}
-            <strong>Linkuri utile</strong>
-        {% endcase %}
+          <strong>Linkuri utile</strong>
+          {% endcase %}
         </div>
 
         {% for link in site.data.links %}
-        <div><a target="_blank" href="{{ link.url }}">{{ link.caption[page.lang] }}</a></div>
+        <div>
+          <a target="_blank" href="{{ link.url }}">{{
+            link.caption[page.lang]
+          }}</a>
+        </div>
         {% endfor %}
       </div>
       <div class="col-md-3 col-sm-3">
         <strong>
-        {% case page.lang %}
-          {% when 'en' %}
-            <span>About Us</span>
+          {% case page.lang %} {% when 'en' %}
+          <span>About Us</span>
           {% when 'fi' %}
-            <span>Yhteystiedot</span>
+          <span>Yhteystiedot</span>
           {% when 'ro' %}
-            <span>Despre noi</span>
-        {% endcase %}
+          <span>Despre noi</span>
+          {% endcase %}
         </strong>
         <div>
-        {% case page.lang %}
-          {% when 'en' %}
-            <span>Address:</span>
+          {% case page.lang %} {% when 'en' %}
+          <span>Address:</span>
           {% when 'fi' %}
-            <span>Osoite:</span>
+          <span>Osoite:</span>
           {% when 'ro' %}
-            <span>Adresă:</span>
-        {% endcase %}
+          <span>Adresă:</span>
+          {% endcase %}
         </div>
         <address>
-          Kulttuuritalo Laikku, Keskustori 4<br>
-          33101 Tampere
+          Kulttuuritalo Laikku, Keskustori 4<br />
+          33100 Tampere
         </address>
         <div>tampereen.suomi.romania@gmail.com</div>
-        <div>Rekisterinumero: <a href="http://yhdistysrekisteri.prh.fi/pertied.htx?reknro=190.094&kieli=3">190.094</a></div>
-        <div><a href="/{{ page.lang }}/{{ site.data.translations.hallitus[page.lang].link }}">{{ site.data.translations.hallitus[page.lang].label | capitalize }}</a></div>
-        <div><a target="_blank" href="{{ site.data.translations.regulament[page.lang].link }}">{{ site.data.translations.regulament[page.lang].label | capitalize }}</a></div>
+        <div>
+          Rekisterinumero:
+          <a
+            href="http://yhdistysrekisteri.prh.fi/pertied.htx?reknro=190.094&kieli=3"
+            >190.094</a
+          >
+        </div>
+        <div>
+          <a
+            href="/{{ page.lang }}/{{
+              site.data.translations.hallitus[page.lang].link
+            }}"
+            >{{
+              site.data.translations.hallitus[page.lang].label | capitalize
+            }}</a
+          >
+        </div>
+        <div>
+          <a
+            target="_blank"
+            href="{{ site.data.translations.regulament[page.lang].link }}"
+            >{{
+              site.data.translations.regulament[page.lang].label | capitalize
+            }}</a
+          >
+        </div>
       </div>
       <div class="col-md-3 col-sm-3">
         <strong>
-        {% case page.lang %}
-          {% when 'en' %}
-            <span>Contact us</span>
+          {% case page.lang %} {% when 'en' %}
+          <span>Contact us</span>
           {% when 'fi' %}
-            <span>Ota yhteyttä</span>
+          <span>Ota yhteyttä</span>
           {% when 'ro' %}
-            <span>Contactați-ne</span>
-        {% endcase %}
+          <span>Contactați-ne</span>
+          {% endcase %}
         </strong>
         <div>
           <span>
@@ -97,7 +120,7 @@
       </div>
     </div>
     <div class="row pull-right copyright">
-      © 2014-2018 Tampereen Suomi-Romania yhdistys ry
+      © 2014-2019 Tampereen Suomi-Romania yhdistys ry
     </div>
   </div>
 </div>

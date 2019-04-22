@@ -1,23 +1,31 @@
 <div id="join" class="main-section">
   <div class="container">
-    {% for section in site.data.sections %}
-    {% if section.id == 'join' %}
+    {% for section in site.data.sections %} {% if section.id == 'join' %}
     <h2>{{ section.title[page.lang] }}</h2>
-    {% endif %}
-    {% endfor %}
-    {% if page.lang == 'fi' %}
-    {% include main/join.fi.md %}
-    {% elsif page.lang == 'en' %}
-    <p>Interested in the Romanian and Finnish cultures and languages? Come along our enthusiastic team and become an official member of our association. You’ll have the opportunity to participate to our events, to support our activities and to have your say in our projects.</p>
+    {% endif %} {% endfor %} {% if page.lang == 'fi' %} {% include
+    main/join.fi.md %} {% elsif page.lang == 'en' %}
+    <p>
+      Interested in the Romanian and Finnish cultures and languages? Come along
+      our enthusiastic team and become an official member of our association.
+      You’ll have the opportunity to participate to our events, to support our
+      activities and to have your say in our projects.
+    </p>
 
-    <p>The annual membership fee is 20e. We offer a discount of 50% (10 euros) for the members' partners / family members who join the association.
-      After paying to the below account please send an email with your complete name and the place of residence (locality will suffice) to the email address tampereen.suomi.romania@gmail.com. Your email address will be added to our members’ database and you will be kept up to date with our events and activities.</p>
-    
-    <p>Tampereen Suomi-Romania yhdistys ry<br>
-    Bank account: FI39 4726 5020 0316 41<br>
-    Message: Your Name membership 2018</p>
-    {% else %}
-    {% include main/join.ro.md %}
-    {% endif %}
+    <p>
+      The annual membership fee is 20e. We offer a discount of 50% (10 euros)
+      for the members' partners / family members who join the association. After
+      paying to the below account please send an email with your complete name
+      and the place of residence (locality will suffice) to the email address
+      tampereen.suomi.romania@gmail.com. Your email address will be added to our
+      members’ database and you will be kept up to date with our events and
+      activities.
+    </p>
+
+    <p>
+      Tampereen Suomi-Romania yhdistys ry<br />
+      Bank account: FI39 4726 5020 0316 41<br />
+      Message: Your Name membership 2019
+    </p>
+    {% else %} {% include main/join.ro.md %} {% endif %}
   </div>
 </div>
