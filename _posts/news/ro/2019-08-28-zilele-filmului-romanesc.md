@@ -32,9 +32,8 @@ Premiul Uniunii Cineaștilor din România pentru cel mai bun scenariu 2019
 17:00 Filmul Un pas în urma serafimilor (audio română, subtitluri engleză)  
 Premiul audienței 2019 Annonay International Festival of First Films  
 Cel mai bun scenariu 2018 Festivalul Internațional de Film București  
-Premiul Gopo 2018 la 8 categorii  
-Premiul Uniunii Cineaștlor din România 2018 la 2 categorii  
-Premiul TIFF 2018 pentru
+Premiul Gopo 2018 la 8 categorii, inclusiv Cel mai bun film  
+Premiul Uniunii Cineaștlor din România 2018 la 2 categorii
 
 ### Vineri 20.09.2019
 
