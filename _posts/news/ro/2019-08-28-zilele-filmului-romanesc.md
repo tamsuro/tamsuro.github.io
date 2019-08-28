@@ -112,7 +112,4 @@ Bun venit în România neîmblânzită!
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dTZioOwZEew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div style="text-align: center; margin-top: 50px;">
-    <p>Eveniment realizat cu sprijinul Ministerului pentru Românii de Preturindeni</p>
-    <img src="/assets/minister.jpg" style="width: 25%" />
-</div>
+{% include minister.html %}

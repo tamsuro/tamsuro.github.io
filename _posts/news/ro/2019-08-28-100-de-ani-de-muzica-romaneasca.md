@@ -51,7 +51,4 @@ poartă numele _Tuntematon (Necunoscut)_, dedicat muzicii finlandeze pentru clar
 pian. În paralel cu cariera sa de interpret, Vahtola lucrează și ca profesor de pian la
 Institutul Juvenalia din Espoo.
 
-<div style="text-align: center; margin-top: 50px;">
-    <p>Eveniment realizat cu sprijinul Ministerului pentru Românii de Preturindeni</p>
-    <img src="/assets/minister.jpg" style="width: 25%" />
-</div>
+{% include minister.html %}

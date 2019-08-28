@@ -30,7 +30,4 @@ Responsabil finanțe: Florin Lohan
 Responsabil web: Vlad Știrbu  
 Organizator: Elenn Grațiela Știrbu
 
-<div style="text-align: center; margin-top: 50px;">
-    <p>Eveniment realizat cu sprijinul Ministerului pentru Românii de Preturindeni</p>
-    <img src="/assets/minister.jpg" style="width: 25%" />
-</div>
+{% include minister.html %}
