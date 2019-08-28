@@ -1,13 +1,15 @@
 ---
-layout: post
 title: 100 de Ani de Muzică Românească
+layout: event
 lang: ro
 logo: contain
-date: 2019-09-22
-cover: /assets/news/20190922.jpg
+time: '15:00'
+media: /assets/news/20190922.jpg
 categories:
   - ro
-  - news
+  - events
+address: Tampere, Kulttuuritalo Laikku, Musiikkisali
+address-url: https://goo.gl/maps/9i4va83D2yDPSoZG8
 ---
 
 Sub numele **100 de ani de muzică românească**, soprana Cristina Radu și pianistul Antti Vahtola dau viață primului concert alcătuit în exclusivitate din lucrări semnate de compozitori români, prezentat vreodată pe o scenă finlandeză.

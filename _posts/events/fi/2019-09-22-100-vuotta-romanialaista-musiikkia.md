@@ -1,13 +1,15 @@
 ---
-layout: post
 title: 100 vuotta romanialaista musiikkia
+layout: event
 lang: fi
 logo: contain
-date: 2019-09-22
-cover: /assets/news/20190922-fi.jpg
+time: '15:00'
+media: /assets/news/20190922-fi.jpg
 categories:
   - fi
-  - news
+  - events
+address: Tampere, Kulttuuritalo Laikku, Musiikkisali
+address-url: https://goo.gl/maps/9i4va83D2yDPSoZG8
 ---
 
 Sopraano Cristina Radun ja pianisti Antti Vahtolan esittämä **100 vuotta romanialaista
