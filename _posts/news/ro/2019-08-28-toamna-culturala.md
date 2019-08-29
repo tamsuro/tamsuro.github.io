@@ -18,7 +18,7 @@ sărbătorirea Zilei Naționale a României.
 Mai multe detalii despre
 
 - [Zilele Filmului Românesc în Tampere](/ro/news/2019/09/07/zilele-filmului-romanesc.html)
-- [Concertul 100 de Ani de Muzică Românească](/ro/events/2019-09-22-100-de-ani-de-muzica-romaneasca.html)
+- [Concertul 100 de Ani de Muzică Românească](ro/events/2019/09/22/100-de-ani-de-muzica-romaneasca.html)
 
 Un bun venit călduros tuturor românilor și iubitorilor de cultură românească!
 
