@@ -11,11 +11,12 @@ Jäsenenä:
 </ul>
 
 <p><strong>Miten ryhdyt jäseneksi?</strong></p>
-Jäsenmaksu on 20 € / vuosi. Jäsenen puolisolle / avopuolisolle / perheenjäsenille tulee jäsenmaksun suuruudeksi vain puolet jäsenmaksusta kun liittyy yhdistykseen (10 euroa / vuosi). 
+Jäsenmaksu on 20 € / vuosi / perhe.
+
 <p>Jäsenmaksu voidaan maksaa pankkisiirrolla tai käteisellä tapahtumien aikana.</p>
 
 <p>Saaja: Tampereen Suomi-Romania yhdistys ry<br>
 Pankkitili: FI39 4726 5020 0316 41<br>
-Viestinä: oma nimi jäsenmaksu 2019</p>
+Viestinä: oma nimi jäsenmaksu 2020</p>
 
 <p>Maksun jälkeen pyydämme että laitat meille viestin osoitteeseen: tampereen.suomi.romania@gmail.com, jossa maininta miltä alueelta olet.</p>

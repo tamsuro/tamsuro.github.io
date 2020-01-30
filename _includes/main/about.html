@@ -16,9 +16,9 @@
 
         {% for link in site.data.links %}
         <div>
-          <a target="_blank" href="{{ link.url }}">{{
-            link.caption[page.lang]
-          }}</a>
+          <a target="_blank" href="{{ link.url }}"
+            >{{ link.caption[page.lang] }}</a
+          >
         </div>
         {% endfor %}
       </div>
@@ -65,8 +65,7 @@
             href="/{{ page.lang }}/{{
               site.data.translations.hallitus[page.lang].link
             }}"
-            >{{
-              site.data.translations.hallitus[page.lang].label | capitalize
+            >{{ site.data.translations.hallitus[page.lang].label | capitalize
             }}</a
           >
         </div>
@@ -74,8 +73,7 @@
           <a
             target="_blank"
             href="{{ site.data.translations.regulament[page.lang].link }}"
-            >{{
-              site.data.translations.regulament[page.lang].label | capitalize
+            >{{ site.data.translations.regulament[page.lang].label | capitalize
             }}</a
           >
         </div>
@@ -127,7 +125,7 @@
       </div>
     </div>
     <div class="row pull-right copyright">
-      © 2014-2019 Tampereen Suomi-Romania yhdistys ry
+      © 2014-2020 Tampereen Suomi-Romania yhdistys ry
     </div>
   </div>
 </div>
