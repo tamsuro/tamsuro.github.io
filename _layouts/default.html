@@ -1,76 +1,142 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
-
   <head>
     <title>{{ page.title }}</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon-180x180.png">
-    <link rel="shortcut icon" href="/assets/favicon/favicon.ico">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-160x160.png" sizes="160x160">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-16x16.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="/assets/favicon/favicon-32x32.png" sizes="32x32">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="msapplication-TileImage" content="/assets/favicon/mstile-144x144.png">
-    <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
-    
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" type='text/css'>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css" >
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link
+      rel="apple-touch-icon"
+      sizes="57x57"
+      href="/assets/favicon/apple-touch-icon-57x57.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="/assets/favicon/apple-touch-icon-114x114.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="72x72"
+      href="/assets/favicon/apple-touch-icon-72x72.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="/assets/favicon/apple-touch-icon-144x144.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="60x60"
+      href="/assets/favicon/apple-touch-icon-60x60.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="/assets/favicon/apple-touch-icon-120x120.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="/assets/favicon/apple-touch-icon-76x76.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="/assets/favicon/apple-touch-icon-152x152.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/assets/favicon/apple-touch-icon-180x180.png"
+    />
+    <link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/favicon/favicon-192x192.png"
+      sizes="192x192"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/favicon/favicon-160x160.png"
+      sizes="160x160"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/favicon/favicon-96x96.png"
+      sizes="96x96"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/favicon/favicon-16x16.png"
+      sizes="16x16"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/assets/favicon/favicon-32x32.png"
+      sizes="32x32"
+    />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta
+      name="msapplication-TileImage"
+      content="/assets/favicon/mstile-144x144.png"
+    />
+    <meta
+      name="msapplication-config"
+      content="/assets/favicon/browserconfig.xml"
+    />
+
+    <link
+      rel="stylesheet"
+      href="//netdna.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css"
+    />
     {% if page.categories contains 'gallery' %}
-    <link rel="stylesheet" href="/css/blueimp-gallery.min.css">
+    <link rel="stylesheet" href="/css/blueimp-gallery.min.css" />
     {% endif %}
     <link rel="stylesheet" href="/css/index.css" />
   </head>
 
   <body data-spy="scroll" data-target=".navbar">
     {% include navbar.html %}
-    
-    {{ content }}
-    
+
+    <div class="content">
+      {{ content }}
+    </div>
+
     {% include main/about.html %}
-    
+
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-    
+
     {% if page.path contains 'index.md' or 'news' %}
     <script src="/js/salvattore.min.js"></script>
-    {% endif %}
-    
-    {% if page.categories contains 'gallery' %}
+    {% endif %} {% if page.categories contains 'gallery' %}
     <script src="/js/blueimp-gallery.min.js"></script>
     <script>
-    document.getElementById('links').onclick = function (event) {
+      document.getElementById("links").onclick = function(event) {
         event = event || window.event;
         var target = event.target || event.srcElement,
-            link = target.src ? target.parentNode : target,
-            options = {index: link, event: event},
-            links = this.getElementsByTagName('a');
+          link = target.src ? target.parentNode : target,
+          options = { index: link, event: event },
+          links = this.getElementsByTagName("a");
         blueimp.Gallery(links, options);
-    };
+      };
     </script>
-    {% endif %}
+    {% endif %} {% if page.categories contains 'events' %} {% include
+    custom-popup.html %} {% endif %}
 
-    {% if page.categories contains 'events' %}
-    {% include custom-popup.html %}
-    {% endif %}
-
-    
-    
     <script src="/js/index.js"></script>
-    
-    {% include google-analytics.html %}
-    {% include new-tab.html %}
-  </body>
 
+    {% include google-analytics.html %} {% include new-tab.html %}
+  </body>
 </html>
