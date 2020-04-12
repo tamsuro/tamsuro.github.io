@@ -8,7 +8,7 @@ categories:
 time: "11:00 - 11:45"
 media: /assets/events/covers/20200412.jpg
 address: Online
-address-url: https://www.facebook.com/events/535594150485749/
+address-url: https://www.facebook.com/Tampereen.Suomi.Romania
 ---
 
 Tampereen Suomi-Romania yhdistyksen kevätjumppakausi jatkuu online! Luvassa lämmittely, energinen kuntopiiri ja uusia haasteita. Harjoitetaan koordinaatiota ja tasapainoa. Tervetuloa mukaan aikuiset ja lapset!
