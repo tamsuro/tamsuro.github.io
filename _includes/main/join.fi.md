@@ -11,12 +11,16 @@ Jäsenenä:
 </ul>
 
 <p><strong>Miten ryhdyt jäseneksi?</strong></p>
-Jäsenmaksu on 20 € / vuosi / perhe.
+Jäsenmaksu on:
+<ul>
+  <li>20 € / vuosi / henkilö.</li>
+  <li>40 € / vuosi / perhe (perhe = kaksi tai enemmän aikuista)</li>
+</ul>
 
 <p>Jäsenmaksu voidaan maksaa pankkisiirrolla tai käteisellä tapahtumien aikana.</p>
 
 <p>Saaja: Tampereen Suomi-Romania yhdistys ry<br>
 Pankkitili: FI39 4726 5020 0316 41<br>
-Viestinä: oma nimi jäsenmaksu 2020</p>
+Viestinä: oma nimi jäsenmaksu 2023</p>
 
-<p>Maksun jälkeen pyydämme että laitat meille viestin osoitteeseen: tampereen.suomi.romania@gmail.com, jossa maininta miltä alueelta olet.</p>
+<p>Uusille jäsenille: Maksun jälkeen pyydämme että laitat meille viestin osoitteeseen tampereen.suomi.romania@gmail.com, jossa mainitset asuinkaupunkisi.</p>

@@ -9,7 +9,12 @@
 </li>
 </ul>
 
-<p><strong>Cotizația anuală pentru 2020 este de 20 de euro/familie.</strong></p>
+<p><strong>Cotizația anuală pentru 2023 este:</strong></p>
+
+<ul>
+  <li>20 de euro/persoană</li>
+  <li>40 de euro/familie (doi sau mai mulți adulți)</li>
+</ul>
 
 <p>Plata se poate efectua prin transfer bancar sau în numerar în cadrul întâlnirilor asociației.</p>
 
@@ -17,6 +22,6 @@
 
 <p><strong>Cont bancar: FI39 4726 5020 0316 41</strong></p>
 
-<p><strong>Mesaj: numele dumneavoastră complet cotizație 2020</strong></p>
+<p><strong>Mesaj: numele dumneavoastră complet cotizație 2023</strong></p>
 
 <p>După ce plătiți cotizația este necesar să trimiteți email la adresa <a href="mailto:tampereen.suomi.romania@gmail.com">noastră</a> (tampereen.suomi.romania@gmail.com) în care să specificați localitatea dumneavoastră de reședință.</p>
