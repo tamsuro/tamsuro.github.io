@@ -33,4 +33,4 @@ Meniu:
 - Cozonac
 - Brioșe cu scorțișoară (korvapuusti)
 
-Vă rugăm să vă anunțați participarea, preferabil până duminică 3.12.2023, folosind link-ul următor: [https://forms.gle/RRUsZfrddKXJH2gF8](https://forms.gle/RRUsZfrddKXJH2gF8).
+Vă rugăm să vă anunțați participarea, preferabil până duminică 5.12.2023, folosind link-ul următor: [https://forms.gle/RRUsZfrddKXJH2gF8](https://forms.gle/RRUsZfrddKXJH2gF8).

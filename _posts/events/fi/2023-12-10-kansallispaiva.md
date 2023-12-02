@@ -37,6 +37,6 @@ Menu:
 - Romanian perinteinen makea leipä (cozonac)
 - Korvapuusti
 
-Pyydämme teitä ilmoittamaan osallistumisestanne (mieluiten 3.12.2023
+Pyydämme teitä ilmoittamaan osallistumisestanne (mieluiten 5.12.2023
 mennessä) seuraavaa linkkiä käyttäen:
 [https://forms.gle/RRUsZfrddKXJH2gF8](https://forms.gle/RRUsZfrddKXJH2gF8).
