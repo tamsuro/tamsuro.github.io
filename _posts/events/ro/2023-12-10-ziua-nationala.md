@@ -19,7 +19,7 @@ Programul evenimentului:
 
 17:00 - Bun venit cu pâine și sare
 
-17:30 - Moment muzical cu Tea & Cristina Tobescu (voce, pian)
+17:30 - Moment muzical cu Tea & Cristina Tobescu (voce, pian) și Ioana Vasilache (voce)
 
 18:30 - Catering
 

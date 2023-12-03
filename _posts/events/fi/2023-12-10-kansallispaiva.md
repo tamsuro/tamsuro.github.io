@@ -23,7 +23,7 @@ Tapahtuman ohjelmaa:
 
 Klo 17:00 Tervetulomalja
 
-Klo 17:30 Musiikkihetki Tea & Cristina Tobescun kanssa (laulu ja piano)
+Klo 17:30 Musiikkihetki Tea & Cristina Tobescun kanssa (laulu ja piano) ja Ioana Vasilache (laulu)
 
 Klo 18.30 Maistellaan romanialaista ja suomalaista ruoka
 
