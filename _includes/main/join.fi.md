@@ -21,6 +21,6 @@ Jäsenmaksu on:
 
 <p>Saaja: Tampereen Suomi-Romania yhdistys ry<br>
 Pankkitili: FI39 4726 5020 0316 41<br>
-Viestinä: oma nimi jäsenmaksu 2023</p>
+Viestinä: oma nimi jäsenmaksu 2024</p>
 
 <p>Uusille jäsenille: Maksun jälkeen pyydämme että laitat meille viestin osoitteeseen tampereen.suomi.romania@gmail.com, jossa mainitset asuinkaupunkisi.</p>
