@@ -1,5 +1,5 @@
 ---
-title: Laskiainen la Kaupinojan Ranta
+title: Laskiainen yhdessä
 lang: fi
 layout: event
 categories:
