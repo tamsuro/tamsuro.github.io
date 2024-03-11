@@ -8,7 +8,7 @@ categories:
 time: '17:00 - 18:30'
 logo: contain
 media: /assets/logo.jpg
-address: Kulttuuritalo Laikku, Keskustori 4, etaj 2, 33100 Tampere
+address: Kulttuuritalo Laikku, Keskustori 4, Sala Syrjä, etaj 4, 33100 Tampere
 address-url: https://maps.app.goo.gl/PLL2XXT6daDwwzVr5
 #doodle: https://doodle.com/meeting/participate/id/dR8qRnqa
 ---
