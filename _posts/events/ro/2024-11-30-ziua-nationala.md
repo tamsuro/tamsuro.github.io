@@ -26,7 +26,7 @@ Restaurantul a fost votat anul acesta în topul 10 al celor mai bune restaurante
 
 Prețul cinei este de 30 de euro de persoană și va fi plătit direct personalului restaurantului.
 
-Pentru rezervare vă rugăm să vă înscrieți aici https://doodle.com/sign-up-sheet/participate/2afde4e2-9f30-4ad5-b7ee-bc8aec4bbb00/select până pe data de 25 noiembrie menționând numele de familie și numărul de persoane. E.g. Stirbu 4 persoane.
+Pentru rezervare vă rugăm să vă înscrieți [aici](https://doodle.com/sign-up-sheet/participate/2afde4e2-9f30-4ad5-b7ee-bc8aec4bbb00/select) până pe data de 25 noiembrie.
 
 Dacă aveți întrebări le puteți adresa pe email la tampereen.suomi.romania@gmail.com sau elenn.stirbu@gmail.com
 
