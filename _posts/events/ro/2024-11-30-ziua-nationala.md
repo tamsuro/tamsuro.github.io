@@ -12,7 +12,7 @@ media: /assets/logo.jpg
 doodle: https://doodle.com/sign-up-sheet/participate/2afde4e2-9f30-4ad5-b7ee-bc8aec4bbb00/select
 ---
 
-Dragi membri ai comunității noastre româno-finlandeze, anul aceasta la Tampere vom sărbători Ziua Națională cu o cină românească însoțită de muzică și voie bună la restaurantul Salho Lunch & Catering, pe 30 noiembrie începând cu ora 5.
+Dragi membri ai comunității noastre româno-finlandeze, anul acesta la Tampere vom sărbători Ziua Națională cu o cină românească însoțită de muzică și voie bună la restaurantul Salho Lunch & Catering, pe 30 noiembrie începând cu ora 5.
 
 Restaurantul a fost votat anul acesta în topul 10 al celor mai bune restaurante de prânz din Tampere, și asta datorită chef-ului bucătar român Nicu Tobescu, un membru activ al asociației noastre, cunoscut pentru bunătățile pe care le pregătește cu orice ocazie. Nicu ne va pregăti următorul meniu:
 
