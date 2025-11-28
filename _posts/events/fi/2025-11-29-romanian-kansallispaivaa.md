@@ -8,7 +8,7 @@ categories:
 time: "11:00"
 address: Nikolainsali, Tuomiokirkonkatu 27, Tampere
 address-url: https://goo.gl/maps/dry2RpLcFH22
-media: /assets/event-logos/zi-nationala.png
+media: /assets/logo.jpg
 ---
 
 Meillä on ilo kutsua teidät juhlimaan Romanian kansallispäivää lauantaina 29. marraskuuta Tampereen ortodoksisessa kirkossa.

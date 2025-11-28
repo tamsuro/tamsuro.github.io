@@ -8,7 +8,7 @@ categories:
 time: "11:00"
 address: Nikolainsali, Tuomiokirkonkatu 27, Tampere
 address-url: https://goo.gl/maps/dry2RpLcFH22
-media: /assets/event-logos/zi-nationala.png
+media: /assets/logo.jpg
 ---
 
 Avem plăcerea să vă invităm la sărbătorirea Zilei Naționale a României, sâmbătă pe 29 noiembrie, la biserica ortodoxă din Tampere.
