@@ -6,7 +6,7 @@ categories:
   - fi
   - events
 time: "16:00"
-media: /assets/events/20221029.jpg
+media: /assets/events/covers/20241005.jpg
 # logo: contain
 address: Suvantokatu 10, Tampere
 ---
