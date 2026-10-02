@@ -14,6 +14,6 @@ Bun venit la evenimentul comun de toamnă al asociațiilor Suomi-Romania-Moldova
 
 Ne bucurăm să vedem că acest eveniment a devenit o tradiție de toamnă foarte apreciată a celor două asociații româno-moldovene-finlandeze.
 
-Vă așteptăm cu drag să degustăm împreună un pahar de vorbă alături de vinuri și preparate moldovenești și românești! Programul va include și muzică în intepretarea membrilor comunității noastre. Ne bucurăm să vedem că acest eveniment a devenit o tradiție de toamnă foarte apreciată a celor două asociații româno-moldovene-finlandeze.
+Vă așteptăm cu drag să degustăm împreună un pahar de vorbă alături de vinuri și preparate moldovenești și românești! Programul va include și muzică în intepretarea membrilor comunității noastre.
 
 Vă rugăm să vă anunțați prezența până pe data de 4 octombrie la adresa de email (tampereen.suomi.romania@gmail.com)[mailto:tampereen.suomi.romania@gmail.com].
