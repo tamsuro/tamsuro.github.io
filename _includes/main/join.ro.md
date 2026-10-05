@@ -9,7 +9,7 @@
 </li>
 </ul>
 
-<p><strong>Cotizația anuală pentru 2024 este:</strong></p>
+<p><strong>Cotizația anuală pentru 2026 este:</strong></p>
 
 <ul>
   <li>20 de euro/persoană</li>
