@@ -22,6 +22,6 @@
 
 <p><strong>Cont bancar: FI39 4726 5020 0316 41</strong></p>
 
-<p><strong>Mesaj: numele dumneavoastră complet cotizație 2024</strong></p>
+<p><strong>Mesaj: numele dumneavoastră complet cotizație 2026</strong></p>
 
 <p>După ce plătiți cotizația este necesar să trimiteți email la adresa <a href="mailto:tampereen.suomi.romania@gmail.com">noastră</a> (tampereen.suomi.romania@gmail.com) în care să specificați localitatea dumneavoastră de reședință.</p>

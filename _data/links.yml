@@ -11,23 +11,23 @@
     fi: Romanian Suurlähetystö Suomessa
     ro: Ambasada României în Finlanda
     
-- url: http://suomi-moldova.fi
-  caption:
-    en: Suomi-Moldova-seura
-    fi: Suomi-Moldova-seura
-    ro: Suomi-Moldova-seura
+# - url: http://suomi-moldova.fi
+#   caption:
+#     en: Suomi-Moldova-seura
+#     fi: Suomi-Moldova-seura
+#     ro: Suomi-Moldova-seura
 
-- url: http://www.srs.suntuubi.com/
+- url: https://www.srms.fi/
   caption:
-    en: Suomi-Romania-Seura ry
-    fi: Suomi-Romania-Seura ry
-    ro: Suomi-Romania-Seura ry
+    en: Suomi-Romania-Moldova-Seura ry
+    fi: Suomi-Romania-Moldova-Seura ry
+    ro: Suomi-Romania-Moldova-Seura ry
 
-- url: https://www.facebook.com/fani.limba.romana
-  caption:
-    ro: Fani limba română
-    en: Fani limba română
-    fi: Fani limba română
+# - url: https://www.facebook.com/fani.limba.romana
+#   caption:
+#     ro: Fani limba română
+#     en: Fani limba română
+#     fi: Fani limba română
     
 - url: http://www.romania-sanakirja.net
   caption:
